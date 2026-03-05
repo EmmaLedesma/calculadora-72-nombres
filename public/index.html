@@ -308,7 +308,7 @@
   <script>
     let allAngels = [];
 
-    fetch("/api/angels")
+    fetch("https://h07cdlmeqc.execute-api.us-east-1.amazonaws.com/prod/api/angels")
       .then(res => res.json())
       .then(data => {
         allAngels = data.angels;
@@ -366,7 +366,7 @@
 
       if (!day || !month) { alert("Ingresá al menos día y mes."); return; }
 
-      fetch(`/api/angels/profile?day=${day}&month=${month}&year=${yearVal}&hours=${hours}&minutes=${minutes}`)
+      fetch(`https://h07cdlmeqc.execute-api.us-east-1.amazonaws.com/prod/api/angels/profile?day=${day}&month=${month}&year=${yearVal}&hours=${hours}&minutes=${minutes}`)
         .then(res => res.json())
         .then(data => {
           if (data.error) { alert(data.error); return; }

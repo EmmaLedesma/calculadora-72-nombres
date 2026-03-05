@@ -24,7 +24,7 @@
     const params = new URLSearchParams(window.location.search);
     const num = parseInt(params.get("num")) || 1;
 
-    fetch(`/api/angels/${num}`)
+    fetch(`https://h07cdlmeqc.execute-api.us-east-1.amazonaws.com/prod/api/angels/${num}`)
       .then(res => { if (!res.ok) throw new Error(); return res.json(); })
       .then(a => renderAngel(a))
       .catch(() => {
