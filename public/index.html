@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shem HaMephorash – Los 72 Nombres</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .calc-advanced-form {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1.5fr 1fr 1fr;
+      gap: 10px;
+      align-items: flex-end;
+    }
+
+    .calc-advanced-form .btn-row {
+      grid-column: 1 / -1;
+      display: flex;
+      justify-content: center;
+      margin-top: 4px;
+    }
+
+    @media (max-width: 640px) {
+      .calc-advanced-form { grid-template-columns: 1fr 1fr; }
+    }
+
+    .calc-advanced-form .field label {
+      display: block;
+      color: var(--texto-suave);
+      font-size: 0.72rem;
+      letter-spacing: 2px;
+      margin-bottom: 6px;
+      font-family: 'Cinzel', serif;
+      text-transform: uppercase;
+    }
+
+    .calc-advanced-form input {
+      width: 100%;
+      padding: 10px 8px;
+      background: var(--noche);
+      border: 1px solid var(--petroleo);
+      border-radius: var(--radio);
+      color: var(--texto);
+      font-size: 1rem;
+      text-align: center;
+      font-family: 'EB Garamond', serif;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .calc-advanced-form input:focus {
+      outline: none;
+      border-color: var(--turquesa);
+      box-shadow: 0 0 0 2px rgba(78,205,196,0.12);
+    }
+
+    .calc-advanced-form button {
+      padding: 11px 24px;
+      background: var(--petroleo);
+      color: var(--plata-brillante);
+      border: 1px solid var(--turquesa-suave);
+      border-radius: var(--radio);
+      cursor: pointer;
+      font-family: 'Cinzel', serif;
+      font-size: 0.8rem;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      transition: background 0.2s, box-shadow 0.2s, transform 0.1s;
+      white-space: nowrap;
+    }
+
+    .calc-advanced-form button:hover {
+      background: var(--petroleo-med);
+      box-shadow: 0 0 20px rgba(78,205,196,0.2);
+      transform: translateY(-1px);
+    }
+
+    /* Resultado perfil */
+    #profile-result {
+      display: none;
+      margin-top: 28px;
+      animation: fadeIn 0.5s ease;
+    }
+
+    .profile-title {
+      font-family: 'Cinzel', serif;
+      font-size: 0.72rem;
+      color: var(--texto-suave);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      text-align: center;
+      margin-bottom: 16px;
+    }
+
+    .profile-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    @media (max-width: 640px) {
+      .profile-grid { grid-template-columns: 1fr; }
+    }
+
+    .plane-card {
+      background: var(--noche);
+      border: 1px solid var(--petroleo);
+      border-radius: var(--radio);
+      padding: 18px 14px;
+      text-align: center;
+      transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .plane-card:hover {
+      border-color: var(--turquesa);
+      transform: translateY(-3px);
+      box-shadow: var(--sombra-turq);
+    }
+
+    .plane-card.physical  { border-top: 2px solid var(--turquesa); }
+    .plane-card.emotional { border-top: 2px solid #a8e6cf; }
+    .plane-card.mental    { border-top: 2px solid var(--plata); }
+
+    .plane-label {
+      font-family: 'Cinzel', serif;
+      font-size: 0.6rem;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+
+    .plane-card.physical  .plane-label { color: var(--turquesa); }
+    .plane-card.emotional .plane-label { color: #a8e6cf; }
+    .plane-card.mental    .plane-label { color: var(--plata); }
+
+    .plane-angel-number {
+      font-family: 'Cinzel', serif;
+      font-size: 0.65rem;
+      color: var(--texto-suave);
+      margin-bottom: 4px;
+    }
+
+    .plane-angel-name {
+      font-family: 'Cinzel', serif;
+      font-size: 1.05rem;
+      color: var(--plata-brillante);
+      margin-bottom: 6px;
+    }
+
+    .plane-angel-hebrew {
+      font-size: 1.8rem;
+      direction: rtl;
+      color: var(--turquesa);
+      letter-spacing: 8px;
+      margin-bottom: 8px;
+      text-shadow: 0 0 16px rgba(78,205,196,0.3);
+    }
+
+    .plane-angel-essence {
+      font-size: 0.8rem;
+      color: var(--texto-suave);
+      font-style: italic;
+      margin-bottom: 6px;
+    }
+
+    .plane-angel-zodiac {
+      font-size: 0.68rem;
+      color: var(--turquesa);
+      font-family: 'Cinzel', serif;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+
+    .plane-desc {
+      font-size: 0.68rem;
+      color: #3a5a56;
+      font-style: italic;
+      line-height: 1.4;
+      border-top: 1px solid rgba(0,109,91,0.2);
+      padding-top: 8px;
+      margin-top: 4px;
+    }
+
+    .approx-note {
+      text-align: center;
+      margin-top: 12px;
+      font-size: 0.68rem;
+      color: #3a5a56;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>✦ Shem HaMephorash ✦</h1>
+    <p>Los 72 Nombres Sagrados – Ángeles del Zodiaco</p>
+  </header>
+
+  <!-- Calculadora avanzada -->
+  <div class="calculator">
+    <h2>✦ Calculadora de Ángeles Tutelares</h2>
+
+    <div class="calc-advanced-form">
+      <div class="field">
+        <label>Día</label>
+        <input type="text" id="calc-day" maxlength="2" placeholder="DD">
+      </div>
+      <div class="field">
+        <label>Mes</label>
+        <input type="text" id="calc-month" maxlength="2" placeholder="MM">
+      </div>
+      <div class="field">
+        <label>Año</label>
+        <input type="text" id="calc-year" maxlength="4" placeholder="AAAA">
+      </div>
+      <div class="field">
+        <label>Hora</label>
+        <input type="text" id="calc-hours" maxlength="2" placeholder="HH">
+      </div>
+      <div class="field">
+        <label>Minutos</label>
+        <input type="text" id="calc-minutes" maxlength="2" placeholder="MM">
+      </div>
+      <div class="btn-row">
+        <button onclick="calcularPerfil()">Calcular</button>
+      </div>
+    </div>
+
+    <!-- Resultado 3 ángeles -->
+    <div id="profile-result">
+      <div class="profile-title">✦ Tus Ángeles Tutelares ✦</div>
+      <div class="profile-grid">
+
+        <a class="plane-card physical" id="card-physical" href="#">
+          <div class="plane-label">Plano Físico</div>
+          <div class="plane-angel-number" id="phys-num"></div>
+          <div class="plane-angel-hebrew" id="phys-hebrew"></div>
+          <div class="plane-angel-name"   id="phys-name"></div>
+          <div class="plane-angel-essence" id="phys-essence"></div>
+          <div class="plane-angel-zodiac" id="phys-zodiac"></div>
+          <div class="plane-desc">Cuerpo · Vitalidad · Acción</div>
+        </a>
+
+        <a class="plane-card emotional" id="card-emotional" href="#">
+          <div class="plane-label">Plano Emocional</div>
+          <div class="plane-angel-number" id="emot-num"></div>
+          <div class="plane-angel-hebrew" id="emot-hebrew"></div>
+          <div class="plane-angel-name"   id="emot-name"></div>
+          <div class="plane-angel-essence" id="emot-essence"></div>
+          <div class="plane-angel-zodiac" id="emot-zodiac"></div>
+          <div class="plane-desc">Emociones · Vínculos · Deseo</div>
+        </a>
+
+        <a class="plane-card mental" id="card-mental" href="#">
+          <div class="plane-label">Plano Mental</div>
+          <div class="plane-angel-number" id="ment-num"></div>
+          <div class="plane-angel-hebrew" id="ment-hebrew"></div>
+          <div class="plane-angel-name"   id="ment-name"></div>
+          <div class="plane-angel-essence" id="ment-essence"></div>
+          <div class="plane-angel-zodiac" id="ment-zodiac"></div>
+          <div class="plane-desc">Pensamiento · Conciencia · Intelecto</div>
+        </a>
+
+      </div>
+      <div class="approx-note" id="approx-note"></div>
+    </div>
+  </div>
+
+  <!-- Scroll hint -->
+  <div class="scroll-hint">
+    <span>↓ &nbsp; Los 72 Nombres &nbsp; ↓</span>
+  </div>
+
+  <!-- Sección nombres: oculta hasta scroll -->
+  <div class="names-section" id="names-section">
+
+    <div class="filters">
+      <label>Zodíaco</label>
+      <select id="filter-zodiac" onchange="applyFilters()">
+        <option value="">Todos</option>
+        <option>Aries</option><option>Tauro</option><option>Géminis</option>
+        <option>Cáncer</option><option>Leo</option><option>Virgo</option>
+        <option>Libra</option><option>Escorpio</option><option>Sagitario</option>
+        <option>Capricornio</option><option>Acuario</option><option>Piscis</option>
+      </select>
+
+      <label>Coro</label>
+      <select id="filter-choir" onchange="applyFilters()">
+        <option value="">Todos</option>
+        <option>Serafines</option><option>Querubines</option><option>Tronos</option>
+        <option>Potestades</option><option>Virtudes</option>
+        <option>Arcángeles</option><option>Ángeles</option>
+      </select>
+
+      <button onclick="resetFilters()">✕ Limpiar</button>
+      <span id="count"></span>
+    </div>
+
+    <div class="grid" id="grid">
+      <div id="loading">Cargando los 72 Nombres...</div>
+    </div>
+
+  </div>
+
+  <script>
+    let allAngels = [];
+
+    fetch("/api/angels")
+      .then(res => res.json())
+      .then(data => {
+        allAngels = data.angels;
+        renderGrid(allAngels);
+      })
+      .catch(() => {
+        document.getElementById("loading").textContent = "Error al cargar la API.";
+      });
+
+    function renderGrid(angels) {
+      const grid = document.getElementById("grid");
+      document.getElementById("count").textContent = `${angels.length} ángeles`;
+
+      if (angels.length === 0) {
+        grid.innerHTML = '<p style="color:var(--texto-suave);text-align:center;padding:40px;grid-column:1/-1;direction:ltr">Sin resultados</p>';
+        return;
+      }
+
+      const sorted = [...angels].sort((a, b) => a.number - b.number);
+      grid.innerHTML = sorted.map((a, i) => `
+        <a class="card" href="/angel.html?num=${a.number}" style="animation-delay:${i * 15}ms">
+          <div class="card-number">Nº ${String(a.number).padStart(2, '0')}</div>
+          <div class="card-name">${a.name}</div>
+          <div class="card-hebrew">${(a.hebrew_letters || []).join(' ')}</div>
+          <div class="card-badges">
+            <span class="badge zodiac">${a.zodiac || ''}</span>
+            <span class="badge choir">${a.choir || ''}</span>
+          </div>
+        </a>
+      `).join('');
+    }
+
+    function applyFilters() {
+      const zodiac = document.getElementById("filter-zodiac").value;
+      const choir  = document.getElementById("filter-choir").value;
+      let filtered = allAngels;
+      if (zodiac) filtered = filtered.filter(a => a.zodiac === zodiac);
+      if (choir)  filtered = filtered.filter(a => a.choir  === choir);
+      renderGrid(filtered);
+    }
+
+    function resetFilters() {
+      document.getElementById("filter-zodiac").value = "";
+      document.getElementById("filter-choir").value  = "";
+      renderGrid(allAngels);
+    }
+
+    function calcularPerfil() {
+      const day     = parseInt(document.getElementById("calc-day").value);
+      const month   = parseInt(document.getElementById("calc-month").value);
+      
+      const hours   = parseInt(document.getElementById("calc-hours").value)   || 0;
+      const minutes = parseInt(document.getElementById("calc-minutes").value) || 0;
+      const yearVal = parseInt(document.getElementById("calc-year").value) || new Date().getFullYear();
+
+      if (!day || !month) { alert("Ingresá al menos día y mes."); return; }
+
+      fetch(`/api/angels/profile?day=${day}&month=${month}&year=${yearVal}&hours=${hours}&minutes=${minutes}`)
+        .then(res => res.json())
+        .then(data => {
+          if (data.error) { alert(data.error); return; }
+          const p = data.profile;
+          fillCard("phys", p.physical,  "card-physical");
+          fillCard("emot", p.emotional, "card-emotional");
+          fillCard("ment", p.mental,    "card-mental");
+          if (p.emotional.calculation && !p.emotional.calculation.precise) {
+            document.getElementById("approx-note").textContent =
+              "✦ Ángel emocional calculado por aproximación solar. Mayor precisión disponible en v2.";
+          }
+          document.getElementById("profile-result").style.display = "block";
+        })
+        .catch(() => alert("Error al conectar con la API."));
+    }
+
+    function fillCard(prefix, plane, cardId) {
+      const a = plane.angel;
+      document.getElementById(`${prefix}-num`).textContent     = `Nº ${String(plane.angel_number).padStart(2,'0')}`;
+      document.getElementById(`${prefix}-name`).textContent    = a ? a.name : '—';
+      document.getElementById(`${prefix}-hebrew`).textContent  = a ? (a.hebrew_letters || []).join(' ') : '';
+      document.getElementById(`${prefix}-essence`).textContent = a ? (a.essence || '') : '';
+      document.getElementById(`${prefix}-zodiac`).textContent  = `${plane.zodiac.sign} · ${plane.zodiac.degree_in_sign}`;
+      document.getElementById(cardId).href = a ? `/angel.html?num=${plane.angel_number}` : '#';
+    }
+
+    document.addEventListener("keydown", e => { if (e.key === "Enter") calcularPerfil(); });
+
+    const namesSection = document.getElementById("names-section");
+    window.addEventListener("scroll", () => {
+      if (window.scrollY > 80) namesSection.classList.add("visible");
+    }, { passive: true });
+
+    const observer = new IntersectionObserver(entries => {
+      if (entries[0].isIntersecting) { namesSection.classList.add("visible"); observer.disconnect(); }
+    }, { threshold: 0.01 });
+    observer.observe(document.querySelector(".scroll-hint"));
+  </script>
+</body>
+</html>

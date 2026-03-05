@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ficha del Ángel – Shem 72</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <div class="topbar">
+    <a href="/">← Los 72 Nombres</a>
+    <span class="sep">|</span>
+    <span id="breadcrumb" class="breadcrumb-text"></span>
+  </div>
+
+  <div class="container" id="content">
+    <div id="loading" style="text-align:center;color:var(--texto-suave);padding:80px;font-style:italic">
+      Cargando ficha del ángel...
+    </div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const num = parseInt(params.get("num")) || 1;
+
+    fetch(`/api/angels/${num}`)
+      .then(res => { if (!res.ok) throw new Error(); return res.json(); })
+      .then(a => renderAngel(a))
+      .catch(() => {
+        document.getElementById("content").innerHTML =
+          '<p style="text-align:center;color:var(--texto-suave);padding:60px">Ángel no encontrado. <a href="/" style="color:var(--turquesa)">Volver</a></p>';
+      });
+
+    function renderAngel(a) {
+      document.title = `${a.name} – Shem 72`;
+      document.getElementById("breadcrumb").textContent =
+        `Nº ${String(a.number).padStart(2, '0')} – ${a.name}`;
+
+      const prevNum = a.number > 1  ? a.number - 1 : null;
+      const nextNum = a.number < 72 ? a.number + 1 : null;
+      const psalm   = a.psalm || {};
+      const psalmRef = psalm.number ? `Salmo ${psalm.number}:${psalm.verse}` : "Sin salmo asignado";
+
+      const attributes = (a.attributes || []).length > 0
+        ? a.attributes.map(attr => `<span class="attr-tag">${attr}</span>`).join("")
+        : '<span style="color:var(--texto-suave);font-style:italic">Sin atributos aún</span>';
+
+      document.getElementById("content").innerHTML = `
+        <div class="angel-header">
+          <div class="angel-number">✦ Ángel Nº ${String(a.number).padStart(2, '0')} ✦</div>
+          <div class="angel-hebrew">${(a.hebrew_letters || []).join(' ')}</div>
+          <div class="angel-name">${a.name}</div>
+          <div class="angel-meaning">${a.meaning || ''}</div>
+        </div>
+
+        <div class="data-grid">
+          <div class="data-card">
+            <div class="data-label">Esencia</div>
+            <div class="data-value highlight">${a.essence || '—'}</div>
+          </div>
+          <div class="data-card">
+            <div class="data-label">Zodiaco</div>
+            <div class="data-value">${a.zodiac || '—'} · ${a.degree_range || ''}</div>
+          </div>
+          <div class="data-card">
+            <div class="data-label">Período</div>
+            <div class="data-value">${a.date_range || '—'}</div>
+          </div>
+          <div class="data-card">
+            <div class="data-label">Planeta</div>
+            <div class="data-value">${a.planet || '—'}</div>
+          </div>
+          <div class="data-card">
+            <div class="data-label">Coro Angélico</div>
+            <div class="data-value">${a.choir || '—'}</div>
+          </div>
+          <div class="data-card">
+            <div class="data-label">Sefirá</div>
+            <div class="data-value">${a.sephira || '—'}</div>
+          </div>
+        </div>
+
+        <div class="psalm-section">
+          <div class="section-title">✦ Salmo</div>
+          <div class="psalm-ref">${psalmRef}</div>
+          ${psalm.text_es   ? `<div class="psalm-text">"${psalm.text_es}"</div>` : ''}
+          ${psalm.text_he   ? `<div class="psalm-hebrew">${psalm.text_he}</div>` : ''}
+          ${psalm.phonetic  ? `<div class="psalm-phonetic">${psalm.phonetic}</div>` : ''}
+          ${psalm.notaricon ? `<div class="psalm-phonetic" style="margin-top:8px">Notaricón: ${psalm.notaricon}</div>` : ''}
+        </div>
+
+        <div class="attributes-section">
+          <div class="section-title">✦ Atributos</div>
+          <div class="attributes-list">${attributes}</div>
+        </div>
+
+        ${a.notes ? `
+        <div class="notes-section">
+          <div class="section-title" style="margin-bottom:10px">✦ Notas</div>
+          ${a.notes}
+        </div>` : ''}
+
+        <div class="nav-angels">
+          ${prevNum ? `<a href="/angel.html?num=${prevNum}">← Ángel ${prevNum}</a>` : '<span></span>'}
+          ${nextNum ? `<a href="/angel.html?num=${nextNum}">Ángel ${nextNum} →</a>`  : '<span></span>'}
+        </div>
+      `;
+    }
+  </script>
+</body>
+</html>

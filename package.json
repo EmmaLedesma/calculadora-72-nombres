@@ -1,0 +1,16 @@
+{
+  "name": "shem72-api",
+  "version": "1.0.0",
+  "description": "API REST de los 72 Nombres del Shem HaMephorash",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Emma Ledesma",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "serverless-http": "^4.0.0"
+  }
+}

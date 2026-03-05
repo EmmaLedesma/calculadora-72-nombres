@@ -1,0 +1,72 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+
+Description: >
+  Shem 72 API – Lambda + API Gateway
+  API REST de los 72 Nombres del Shem HaMephorash
+  Author: Emma Ledesma
+
+Globals:
+  Function:
+    Timeout: 10
+    MemorySize: 256
+    Runtime: nodejs20.x
+    Environment:
+      Variables:
+        NODE_ENV: production
+
+Resources:
+
+  Shem72Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: shem72-api
+      Description: API REST – 72 Nombres del Shem HaMephorash
+      Handler: lambda.handler
+      CodeUri: .
+      Events:
+        ApiRoot:
+          Type: Api
+          Properties:
+            RestApiId: !Ref Shem72Api
+            Path: /api
+            Method: GET
+        ApiAngels:
+          Type: Api
+          Properties:
+            RestApiId: !Ref Shem72Api
+            Path: /api/angels
+            Method: GET
+        ApiAngelById:
+          Type: Api
+          Properties:
+            RestApiId: !Ref Shem72Api
+            Path: /api/angels/{number}
+            Method: GET
+        ApiCalculate:
+          Type: Api
+          Properties:
+            RestApiId: !Ref Shem72Api
+            Path: /api/angels/calculate/{day}/{month}
+            Method: GET
+
+  Shem72Api:
+    Type: AWS::Serverless::Api
+    Properties:
+      Name: shem72-api-gateway
+      StageName: prod
+      Cors:
+        AllowMethods: "'GET,OPTIONS'"
+        AllowHeaders: "'Content-Type'"
+        AllowOrigin: "'*'"
+
+Outputs:
+  ApiUrl:
+    Description: URL de la API en produccion
+    Value: !Sub "https://${Shem72Api}.execute-api.us-east-1.amazonaws.com/prod"
+    Export:
+      Name: Shem72ApiUrl
+
+  FunctionArn:
+    Description: ARN de la funcion Lambda
+    Value: !GetAtt Shem72Function.Arn
