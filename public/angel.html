@@ -5,6 +5,143 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Ficha del Ángel – Shem 72</title>
   <link rel="stylesheet" href="/css/style.css">
+  <style>
+    .vocalization-block {
+      text-align: center;
+      margin: 6px 0 18px;
+    }
+    .vocalization-label {
+      font-family: 'Cinzel', serif;
+      font-size: 0.6rem;
+      color: var(--texto-suave);
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .vocalization-value {
+      font-family: 'Cinzel', serif;
+      font-size: 1.1rem;
+      color: var(--acento);
+      letter-spacing: 8px;
+      text-shadow: 0 0 18px rgba(127,255,212,0.3);
+    }
+    .psalm-hebrew-big {
+      font-size: 1.9rem;
+      direction: rtl;
+      text-align: center;
+      color: var(--turquesa);
+      text-shadow: 0 0 24px rgba(78,205,196,0.35), 0 0 60px rgba(78,205,196,0.12);
+      letter-spacing: 6px;
+      line-height: 1.8;
+      margin-bottom: 14px;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(78,205,196,0.15);
+    }
+    .psalm-phonetic-line {
+      font-size: 0.9rem;
+      color: var(--petroleo-med);
+      font-style: italic;
+      text-align: center;
+      margin-bottom: 12px;
+      letter-spacing: 1px;
+    }
+    .psalm-es-line {
+      font-style: italic;
+      line-height: 1.75;
+      color: var(--texto-suave);
+      font-size: 1rem;
+      text-align: center;
+    }
+    .psalm-notaricon {
+      margin-top: 16px;
+      padding-top: 12px;
+      border-top: 1px solid rgba(0,109,91,0.3);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .nota-label {
+      font-family: 'Cinzel', serif;
+      font-size: 0.6rem;
+      color: var(--texto-suave);
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .nota-value {
+      font-size: 0.95rem;
+      color: var(--plata);
+      direction: rtl;
+      letter-spacing: 4px;
+    }
+    .gematria-block {
+      background: var(--verde-fondo);
+      border: 1px solid rgba(0,109,91,0.45);
+      border-radius: var(--radio);
+      padding: 20px 24px;
+      margin-bottom: 24px;
+    }
+    .gematria-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-top: 14px;
+    }
+    .gematria-item {
+      text-align: center;
+      padding: 16px;
+      background: var(--noche);
+      border-radius: var(--radio);
+      border: 1px solid rgba(0,109,91,0.3);
+    }
+    .gematria-num {
+      font-family: 'Cinzel', serif;
+      font-size: 2rem;
+      color: var(--turquesa);
+      text-shadow: 0 0 20px rgba(78,205,196,0.25);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .gematria-desc {
+      font-size: 0.72rem;
+      color: var(--texto-suave);
+      font-family: 'Cinzel', serif;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    .gematria-suffix {
+      margin-top: 10px;
+      font-size: 0.8rem;
+      color: var(--texto-suave);
+      font-style: italic;
+      text-align: center;
+    }
+    .sephira-block {
+      background: var(--verde-fondo);
+      border: 1px solid rgba(0,109,91,0.45);
+      border-radius: var(--radio);
+      padding: 18px 22px;
+      margin-bottom: 24px;
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .sephira-position {
+      font-family: 'Cinzel', serif;
+      font-size: 1.05rem;
+      color: var(--plata-brillante);
+      letter-spacing: 2px;
+      flex: 1;
+      min-width: 180px;
+    }
+    .sephira-position span { color: var(--turquesa); }
+    .sephira-classic {
+      font-size: 0.85rem;
+      color: var(--texto-suave);
+      font-style: italic;
+    }
+  </style>
 </head>
 <body>
 
@@ -40,11 +177,57 @@
       const prevNum = a.number > 1  ? a.number - 1 : null;
       const nextNum = a.number < 72 ? a.number + 1 : null;
       const psalm   = a.psalm || {};
-      const psalmRef = psalm.number ? `Salmo ${psalm.number}:${psalm.verse}` : "Sin salmo asignado";
+      const psalmRef = psalm.number ? `Salmo ${psalm.number}:${psalm.verse}` : '';
+      const gem     = a.gematria || {};
+      const mat     = a.sephira_matrix || {};
 
       const attributes = (a.attributes || []).length > 0
         ? a.attributes.map(attr => `<span class="attr-tag">${attr}</span>`).join("")
-        : '<span style="color:var(--texto-suave);font-style:italic">Sin atributos aún</span>';
+        : '<span style="color:var(--texto-suave);font-style:italic">—</span>';
+
+      const psalmBlock = `
+        <div class="psalm-section">
+          <div class="section-title">✦ Salmo</div>
+          ${psalmRef ? `<div class="psalm-ref">${psalmRef}</div>` : ''}
+          ${psalm.text_he
+            ? `<div class="psalm-hebrew-big">${psalm.text_he}</div>`
+            : `<div class="psalm-hebrew-big" style="font-size:0.9rem;color:var(--texto-suave);font-style:italic;text-shadow:none">Texto hebreo pendiente</div>`}
+          ${psalm.phonetic ? `<div class="psalm-phonetic-line">${psalm.phonetic}</div>` : ''}
+          ${psalm.text_es  ? `<div class="psalm-es-line">"${psalm.text_es}"</div>` : ''}
+          ${psalm.notaricon ? `
+            <div class="psalm-notaricon">
+              <span class="nota-label">Notaricón</span>
+              <span class="nota-value">${psalm.notaricon}</span>
+            </div>` : ''}
+        </div>`;
+
+      const gematriaBlock = (gem.name_value || gem.angel_value) ? `
+        <div class="gematria-block">
+          <div class="section-title">✦ Gematría</div>
+          <div class="gematria-grid">
+            <div class="gematria-item">
+              <div class="gematria-num">${gem.name_value ?? '—'}</div>
+              <div class="gematria-desc">Valor del Nombre</div>
+            </div>
+            <div class="gematria-item">
+              <div class="gematria-num">${gem.angel_value ?? '—'}</div>
+              <div class="gematria-desc">Valor del Ángel</div>
+            </div>
+          </div>
+          ${gem.suffix ? `<div class="gematria-suffix">Sufijo ${gem.suffix} · ${gem.suffix === 'EL' ? 'אל' : 'יה'} = ${gem.suffix_value}</div>` : ''}
+        </div>` : '';
+
+      const sephiraBlock = mat.position ? `
+        <div class="sephira-block">
+          <div>
+            <div class="data-label" style="margin-bottom:8px">Posición en la Matriz 8×9</div>
+            <div class="sephira-position"><span>${mat.sub_sephira}</span> de ${mat.sephira}</div>
+          </div>
+          <div class="sephira-classic">
+            <div class="data-label" style="margin-bottom:4px">Séfira según el libro</div>
+            <div>${a.sephira || '—'}</div>
+          </div>
+        </div>` : '';
 
       document.getElementById("content").innerHTML = `
         <div class="angel-header">
@@ -52,6 +235,11 @@
           <div class="angel-hebrew">${(a.hebrew_letters || []).join(' ')}</div>
           <div class="angel-name">${a.name}</div>
           <div class="angel-meaning">${a.meaning || ''}</div>
+          ${a.vocalization ? `
+          <div class="vocalization-block">
+            <div class="vocalization-label">Vocalización · Abulafia</div>
+            <div class="vocalization-value">${a.vocalization}</div>
+          </div>` : ''}
         </div>
 
         <div class="data-grid">
@@ -76,19 +264,14 @@
             <div class="data-value">${a.choir || '—'}</div>
           </div>
           <div class="data-card">
-            <div class="data-label">Sefirá</div>
+            <div class="data-label">Séfira</div>
             <div class="data-value">${a.sephira || '—'}</div>
           </div>
         </div>
 
-        <div class="psalm-section">
-          <div class="section-title">✦ Salmo</div>
-          <div class="psalm-ref">${psalmRef}</div>
-          ${psalm.text_es   ? `<div class="psalm-text">"${psalm.text_es}"</div>` : ''}
-          ${psalm.text_he   ? `<div class="psalm-hebrew">${psalm.text_he}</div>` : ''}
-          ${psalm.phonetic  ? `<div class="psalm-phonetic">${psalm.phonetic}</div>` : ''}
-          ${psalm.notaricon ? `<div class="psalm-phonetic" style="margin-top:8px">Notaricón: ${psalm.notaricon}</div>` : ''}
-        </div>
+        ${sephiraBlock}
+        ${psalmBlock}
+        ${gematriaBlock}
 
         <div class="attributes-section">
           <div class="section-title">✦ Atributos</div>

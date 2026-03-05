@@ -2,1153 +2,3259 @@
   {
     "number": 1,
     "name": "Vehuiah",
-    "hebrew_letters": ["ו", "ה", "ו"],
+    "hebrew_letters": [
+      "ו",
+      "ה",
+      "ו"
+    ],
+    "suffix": "EL",
     "zodiac": "Aries",
     "degree_range": "0° - 5°",
     "date_range": "21/3 - 25/3",
     "choir": "Serafines",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Kéter"
+    },
     "meaning": "Dios elevado y exaltado",
-    "essence": "Voluntad",
+    "essence": "Voluntad y creación",
     "planet": "Urano",
-    "psalm": { "number": 3, "verse": 4, "text_es": "Con mi voz clamé a Jehová", "text_he": "קוֹלִי אֶל-יְהוָה", "phonetic": "Qoli el-Adonai", "notaricon": "" },
-    "attributes": ["voluntad divina", "fuerza creadora", "iluminación"],
-    "notes": "Primer ángel del primer quíntuplo"
+    "vocalization": "Ve/Hu/Ia",
+    "gematria": {
+      "name_value": 17,
+      "angel_value": 48,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 3,
+      "verse": 4,
+      "text_he": "קוֹלִי אֶל-יְהוָה אֶקְרָא",
+      "phonetic": "Qolí el-Adonai eqrá",
+      "text_es": "Con mi voz clamé a Jehová, y él me respondió desde su monte santo",
+      "notaricon": "ק-א-י-א-א"
+    },
+    "attributes": [
+      "voluntad divina",
+      "fuerza creadora",
+      "iluminación",
+      "inteligencia superior"
+    ],
+    "notes": "Primer ángel del Shem HaMephorash"
   },
   {
     "number": 2,
     "name": "Jeliel",
-    "hebrew_letters": ["י", "ל", "י"],
+    "hebrew_letters": [
+      "י",
+      "ל",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Aries",
     "degree_range": "5° - 10°",
     "date_range": "26/3 - 30/3",
     "choir": "Serafines",
     "sephira": "Chokmah",
-    "meaning": "Dios que socorre",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Biná",
+      "position": "Biná de Kéter"
+    },
+    "meaning": "Dios auxiliador",
     "essence": "Amor y sabiduría",
     "planet": "Neptuno",
-    "psalm": { "number": 22, "verse": 20, "text_es": "Libra de la espada mi alma", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["amor conyugal", "fidelidad", "paz"],
+    "vocalization": "Ye/Li/El",
+    "gematria": {
+      "name_value": 50,
+      "angel_value": 81,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 22,
+      "verse": 20,
+      "text_he": "הַצִּילָה מֵחֶרֶב נַפְשִׁי",
+      "phonetic": "Hatzilá mejérev nafshí",
+      "text_es": "Líbrame de la espada mi alma, del poder del perro mi única vida",
+      "notaricon": "ה-מ-נ-מ-י"
+    },
+    "attributes": [
+      "amor conyugal",
+      "fidelidad",
+      "paz",
+      "fertilidad"
+    ],
     "notes": ""
   },
   {
     "number": 3,
     "name": "Sitael",
-    "hebrew_letters": ["ס", "י", "ט"],
+    "hebrew_letters": [
+      "ס",
+      "י",
+      "ט"
+    ],
+    "suffix": "EL",
     "zodiac": "Aries",
     "degree_range": "10° - 15°",
     "date_range": "31/3 - 4/4",
     "choir": "Serafines",
     "sephira": "Binah",
-    "meaning": "Dios, esperanza de todas las criaturas",
-    "essence": "Construcción",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Kéter"
+    },
+    "meaning": "Dios esperanza de todas las criaturas",
+    "essence": "Construcción y nobleza",
     "planet": "Saturno",
-    "psalm": { "number": 91, "verse": 2, "text_es": "Diré yo a Jehová: Esperanza mía", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["construcción", "nobleza", "palabra dada"],
+    "vocalization": "Sa/Yo/Te",
+    "gematria": {
+      "name_value": 79,
+      "angel_value": 110,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 91,
+      "verse": 2,
+      "text_he": "אֹמַר לַיהוָה מַחְסִי וּמְצוּדָתִי",
+      "phonetic": "Omár laAdonai majsí umtzudatí",
+      "text_es": "Diré yo a Jehová: Esperanza mía y castillo mío, mi Dios, en quien confiaré",
+      "notaricon": "א-ל-מ-ו-א"
+    },
+    "attributes": [
+      "construcción",
+      "nobleza",
+      "palabra dada",
+      "adversidades"
+    ],
     "notes": ""
   },
   {
     "number": 4,
     "name": "Elemiah",
-    "hebrew_letters": ["ע", "ל", "מ"],
+    "hebrew_letters": [
+      "ע",
+      "ל",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Aries",
     "degree_range": "15° - 20°",
     "date_range": "5/4 - 9/4",
     "choir": "Serafines",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Kéter"
+    },
     "meaning": "Dios oculto",
     "essence": "Viajes y transformación",
     "planet": "Marte",
-    "psalm": { "number": 6, "verse": 4, "text_es": "Vuélvete, oh Jehová, libra mi alma", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["viajes", "éxito profesional", "revelación de traidores"],
+    "vocalization": "El/Le/Mi",
+    "gematria": {
+      "name_value": 140,
+      "angel_value": 155,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 6,
+      "verse": 4,
+      "text_he": "שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי",
+      "phonetic": "Shuvá Adonai jaletza nafshí",
+      "text_es": "Vuélvete, oh Jehová, libra mi alma; sálvame por tu misericordia",
+      "notaricon": "ש-י-ח-נ-א"
+    },
+    "attributes": [
+      "viajes",
+      "éxito profesional",
+      "revelación de traidores",
+      "energía"
+    ],
     "notes": ""
   },
   {
     "number": 5,
     "name": "Mahasiah",
-    "hebrew_letters": ["מ", "ה", "ש"],
+    "hebrew_letters": [
+      "מ",
+      "ה",
+      "ש"
+    ],
+    "suffix": "IAH",
     "zodiac": "Aries",
     "degree_range": "20° - 25°",
     "date_range": "10/4 - 14/4",
     "choir": "Serafines",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Kéter"
+    },
     "meaning": "Dios salvador",
-    "essence": "Rectificación",
+    "essence": "Rectificación kármica",
     "planet": "Sol",
-    "psalm": { "number": 34, "verse": 5, "text_es": "Busqué a Jehová, y él me oyó", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["rectificación kármica", "aprendizaje fácil", "armonía"],
+    "vocalization": "Ma/He/Shi",
+    "gematria": {
+      "name_value": 345,
+      "angel_value": 360,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 34,
+      "verse": 5,
+      "text_he": "דָּרַשְׁתִּי אֶת-יְהוָה וְעָנָנִי",
+      "phonetic": "Darashti et-Adonai veananí",
+      "text_es": "Busqué a Jehová, y él me oyó, y me libró de todos mis temores",
+      "notaricon": "ד-א-י-ו-א"
+    },
+    "attributes": [
+      "rectificación kármica",
+      "aprendizaje fácil",
+      "armonía",
+      "magia"
+    ],
     "notes": ""
   },
   {
     "number": 6,
     "name": "Lelahel",
-    "hebrew_letters": ["ל", "ל", "ה"],
+    "hebrew_letters": [
+      "ל",
+      "ל",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Aries",
     "degree_range": "25° - 30°",
     "date_range": "15/4 - 20/4",
     "choir": "Serafines",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Kéter"
+    },
     "meaning": "Dios digno de alabanza",
     "essence": "Luz y curación",
     "planet": "Venus",
-    "psalm": { "number": 9, "verse": 12, "text_es": "Cantad a Jehová que habita en Sión", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["sanación", "arte", "ciencia", "amor"],
+    "vocalization": "Le/La/He",
+    "gematria": {
+      "name_value": 65,
+      "angel_value": 96,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 9,
+      "verse": 12,
+      "text_he": "זַמְּרוּ לַיהוָה יֹשֵׁב צִיּוֹן",
+      "phonetic": "Zamerú laAdonai yoshev Tzión",
+      "text_es": "Cantad a Jehová que habita en Sión; publicad entre los pueblos sus obras",
+      "notaricon": "ז-ל-י-צ-א"
+    },
+    "attributes": [
+      "sanación",
+      "amor",
+      "ciencia",
+      "arte",
+      "fortuna"
+    ],
     "notes": ""
   },
   {
     "number": 7,
     "name": "Achaiah",
-    "hebrew_letters": ["א", "כ", "א"],
+    "hebrew_letters": [
+      "א",
+      "כ",
+      "א"
+    ],
+    "suffix": "IAH",
     "zodiac": "Tauro",
     "degree_range": "0° - 5°",
     "date_range": "21/4 - 25/4",
     "choir": "Serafines",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Hod",
+      "position": "Hod de Kéter"
+    },
     "meaning": "Dios bueno y paciente",
-    "essence": "Paciencia",
+    "essence": "Paciencia y descubrimiento",
     "planet": "Mercurio",
-    "psalm": { "number": 103, "verse": 8, "text_es": "Misericordioso y clemente es Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["paciencia", "descubrimiento de secretos de la naturaleza", "misiones difíciles"],
+    "vocalization": "Aj/Ka/Ia",
+    "gematria": {
+      "name_value": 22,
+      "angel_value": 37,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 103,
+      "verse": 8,
+      "text_he": "רַחוּם וְחַנּוּן יְהוָה אֶרֶךְ אַפַּיִם",
+      "phonetic": "Rajum vejanum Adonai érej apáyim",
+      "text_es": "Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia",
+      "notaricon": "ר-ו-י-א-א"
+    },
+    "attributes": [
+      "paciencia",
+      "descubrimiento de secretos de la naturaleza",
+      "misiones difíciles"
+    ],
     "notes": ""
   },
   {
     "number": 8,
     "name": "Cahetel",
-    "hebrew_letters": ["כ", "ה", "ת"],
+    "hebrew_letters": [
+      "כ",
+      "ה",
+      "ת"
+    ],
+    "suffix": "EL",
     "zodiac": "Tauro",
     "degree_range": "5° - 10°",
     "date_range": "26/4 - 30/4",
     "choir": "Serafines",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Kéter",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Kéter"
+    },
     "meaning": "Dios adorable",
     "essence": "Bendición divina",
     "planet": "Luna",
-    "psalm": { "number": 95, "verse": 6, "text_es": "Venid, adoremos y postrémonos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["bendiciones", "agricultura", "armonía familiar"],
+    "vocalization": "Ka/He/Tel",
+    "gematria": {
+      "name_value": 425,
+      "angel_value": 456,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 95,
+      "verse": 6,
+      "text_he": "בֹּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה",
+      "phonetic": "Bou nishtajave venikraá",
+      "text_es": "Venid, adoremos y postrémonos; arrodillémonos delante de Jehová nuestro hacedor",
+      "notaricon": "ב-נ-ו-נ-א"
+    },
+    "attributes": [
+      "bendiciones divinas",
+      "agricultura",
+      "armonía familiar",
+      "alejamiento de espíritus malignos"
+    ],
     "notes": ""
   },
   {
     "number": 9,
     "name": "Haziel",
-    "hebrew_letters": ["ה", "ז", "י"],
+    "hebrew_letters": [
+      "ה",
+      "ז",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Tauro",
     "degree_range": "10° - 15°",
     "date_range": "1/5 - 5/5",
     "choir": "Querubines",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Jojmá"
+    },
     "meaning": "Dios misericordioso",
     "essence": "Perdón universal",
     "planet": "Urano",
-    "psalm": { "number": 25, "verse": 6, "text_es": "Recuerda, oh Jehová, tus piedades", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["misericordia", "perdón", "amistad", "reconciliación"],
+    "vocalization": "Ha/Za/Yel",
+    "gematria": {
+      "name_value": 22,
+      "angel_value": 53,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 25,
+      "verse": 6,
+      "text_he": "זְכֹר-רַחֲמֶיךָ יְהוָה וַחֲסָדֶיךָ",
+      "phonetic": "Zejor rajaméja Adonai vajasadéja",
+      "text_es": "Recuerda, oh Jehová, tus piedades y tus misericordias, que son perpetuas",
+      "notaricon": "ז-י-ו-ו-א"
+    },
+    "attributes": [
+      "misericordia divina",
+      "perdón",
+      "amistad",
+      "reconciliación",
+      "obtención de favores"
+    ],
     "notes": ""
   },
   {
     "number": 10,
     "name": "Aladiah",
-    "hebrew_letters": ["א", "ל", "ד"],
+    "hebrew_letters": [
+      "א",
+      "ל",
+      "ד"
+    ],
+    "suffix": "IAH",
     "zodiac": "Tauro",
     "degree_range": "15° - 20°",
     "date_range": "6/5 - 10/5",
     "choir": "Querubines",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Biná",
+      "position": "Biná de Jojmá"
+    },
     "meaning": "Dios propicio",
     "essence": "Gracia y regeneración",
     "planet": "Neptuno",
-    "psalm": { "number": 33, "verse": 22, "text_es": "Sea tu misericordia, oh Jehová, sobre nosotros", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["curación de enfermedades ocultas", "gracia divina", "regeneración"],
+    "vocalization": "Al/La/Di",
+    "gematria": {
+      "name_value": 35,
+      "angel_value": 50,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 33,
+      "verse": 22,
+      "text_he": "יְהִי-חַסְדְּךָ יְהוָה עָלֵינוּ",
+      "phonetic": "Yehí jasdejá Adonai alénu",
+      "text_es": "Sea tu misericordia, oh Jehová, sobre nosotros, según esperamos en ti",
+      "notaricon": "י-י-ע-א-א"
+    },
+    "attributes": [
+      "curación de enfermedades ocultas",
+      "gracia divina",
+      "regeneración",
+      "éxito"
+    ],
     "notes": ""
   },
   {
     "number": 11,
     "name": "Lauviah",
-    "hebrew_letters": ["ל", "א", "ו"],
+    "hebrew_letters": [
+      "ל",
+      "א",
+      "ו"
+    ],
+    "suffix": "IAH",
     "zodiac": "Tauro",
     "degree_range": "20° - 25°",
     "date_range": "11/5 - 15/5",
     "choir": "Querubines",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Jojmá"
+    },
     "meaning": "Dios exaltado y admirable",
-    "essence": "Victoria",
+    "essence": "Victoria y revelación",
     "planet": "Saturno",
-    "psalm": { "number": 18, "verse": 47, "text_es": "Vive Jehová, y bendita sea mi roca", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["victoria sobre adversidades", "sueños reveladores", "protección"],
+    "vocalization": "La/Va/Yah",
+    "gematria": {
+      "name_value": 37,
+      "angel_value": 52,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 18,
+      "verse": 47,
+      "text_he": "חַי-יְהוָה וּבָרוּךְ צוּרִי",
+      "phonetic": "Jai-Adonai uvaruj tzurí",
+      "text_es": "Vive Jehová, y bendita sea mi roca, y enaltecido sea el Dios de mi salvación",
+      "notaricon": "ח-י-ו-צ-א"
+    },
+    "attributes": [
+      "victoria sobre adversidades",
+      "sueños reveladores",
+      "protección",
+      "ciencias ocultas"
+    ],
     "notes": ""
   },
   {
     "number": 12,
     "name": "Hahaiah",
-    "hebrew_letters": ["ה", "ה", "ע"],
+    "hebrew_letters": [
+      "ה",
+      "ה",
+      "ע"
+    ],
+    "suffix": "IAH",
     "zodiac": "Tauro",
     "degree_range": "25° - 30°",
     "date_range": "16/5 - 20/5",
     "choir": "Querubines",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Jojmá"
+    },
     "meaning": "Dios refugio",
     "essence": "Refugio y misterio",
     "planet": "Marte",
-    "psalm": { "number": 10, "verse": 1, "text_es": "¿Por qué estás lejos, oh Jehová?", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["interpretación de sueños", "misterios ocultos", "sabiduría"],
+    "vocalization": "Ha/Ha/Yah",
+    "gematria": {
+      "name_value": 80,
+      "angel_value": 95,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 10,
+      "verse": 1,
+      "text_he": "לָמָה יְהוָה תַּעֲמֹד בְּרָחוֹק",
+      "phonetic": "Lamá Adonai taamod berajok",
+      "text_es": "¿Por qué estás lejos, oh Jehová? ¿Por qué te escondes en el tiempo de la tribulación?",
+      "notaricon": "ל-י-ת-ב-א"
+    },
+    "attributes": [
+      "interpretación de sueños",
+      "revelación de misterios ocultos",
+      "sabiduría"
+    ],
     "notes": ""
   },
   {
     "number": 13,
     "name": "Yezalel",
-    "hebrew_letters": ["י", "ז", "ל"],
+    "hebrew_letters": [
+      "י",
+      "ז",
+      "ל"
+    ],
+    "suffix": "EL",
     "zodiac": "Géminis",
     "degree_range": "0° - 5°",
     "date_range": "21/5 - 25/5",
     "choir": "Querubines",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Jojmá"
+    },
     "meaning": "Dios glorificado en todo",
     "essence": "Fidelidad y memoria",
     "planet": "Sol",
-    "psalm": { "number": 98, "verse": 4, "text_es": "Cantad alegres a Jehová toda la tierra", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fidelidad", "memoria", "reconciliación conyugal"],
+    "vocalization": "Ye/Za/Lel",
+    "gematria": {
+      "name_value": 47,
+      "angel_value": 78,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 98,
+      "verse": 4,
+      "text_he": "הָרִיעוּ לַיהוָה כָּל-הָאָרֶץ",
+      "phonetic": "Hariú laAdonai kol-haarétz",
+      "text_es": "Cantad alegres a Jehová toda la tierra; levantad la voz y aplaudid",
+      "notaricon": "ה-ל-כ-ה-א"
+    },
+    "attributes": [
+      "fidelidad",
+      "memoria prodigiosa",
+      "reconciliación conyugal",
+      "aprendizaje"
+    ],
     "notes": ""
   },
   {
     "number": 14,
     "name": "Mebahel",
-    "hebrew_letters": ["מ", "ב", "ה"],
+    "hebrew_letters": [
+      "מ",
+      "ב",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Géminis",
     "degree_range": "5° - 10°",
     "date_range": "26/5 - 31/5",
     "choir": "Querubines",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Jojmá"
+    },
     "meaning": "Dios conservador",
     "essence": "Justicia y verdad",
     "planet": "Venus",
-    "psalm": { "number": 9, "verse": 10, "text_es": "Jehová será refugio del pobre", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["verdad", "justicia", "liberación de opresión"],
+    "vocalization": "Me/Ba/Hel",
+    "gematria": {
+      "name_value": 47,
+      "angel_value": 78,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 9,
+      "verse": 10,
+      "text_he": "וְיִהְיֶה יְהוָה מִשְׂגָּב לַדָּךְ",
+      "phonetic": "Veyihié Adonai misgav ladaj",
+      "text_es": "Jehová será refugio del pobre, refugio para el tiempo de angustia",
+      "notaricon": "ו-י-מ-ל-א"
+    },
+    "attributes": [
+      "verdad",
+      "justicia",
+      "liberación de la opresión",
+      "defensa de inocentes"
+    ],
     "notes": ""
   },
   {
     "number": 15,
     "name": "Hariel",
-    "hebrew_letters": ["ה", "ר", "י"],
+    "hebrew_letters": [
+      "ה",
+      "ר",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Géminis",
     "degree_range": "10° - 15°",
     "date_range": "1/6 - 5/6",
     "choir": "Querubines",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Hod",
+      "position": "Hod de Jojmá"
+    },
     "meaning": "Dios creador",
-    "essence": "Purificación",
+    "essence": "Purificación y fe",
     "planet": "Mercurio",
-    "psalm": { "number": 94, "verse": 22, "text_es": "Pero Jehová me ha sido por refugio", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["purificación", "fe religiosa", "ciencias y artes"],
+    "vocalization": "Ha/Ri/El",
+    "gematria": {
+      "name_value": 215,
+      "angel_value": 246,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 94,
+      "verse": 22,
+      "text_he": "וַיְהִי יְהוָה לִי לְמִשְׂגָּב",
+      "phonetic": "Vayehí Adonai li lemisguav",
+      "text_es": "Pero Jehová me ha sido por refugio, y mi Dios por roca de mi confianza",
+      "notaricon": "ו-י-ל-ל-א"
+    },
+    "attributes": [
+      "purificación",
+      "fe religiosa",
+      "ciencias y artes",
+      "nuevos métodos"
+    ],
     "notes": ""
   },
   {
     "number": 16,
     "name": "Hekamiah",
-    "hebrew_letters": ["ה", "ק", "מ"],
+    "hebrew_letters": [
+      "ה",
+      "ק",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Géminis",
     "degree_range": "15° - 20°",
     "date_range": "6/6 - 10/6",
     "choir": "Querubines",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Jojmá",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Jojmá"
+    },
     "meaning": "Dios que erige el universo",
-    "essence": "Lealtad",
+    "essence": "Lealtad y liderazgo",
     "planet": "Luna",
-    "psalm": { "number": 88, "verse": 2, "text_es": "Llegue mi oración a tu presencia", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["lealtad", "liderazgo", "protección de reyes y jefes"],
+    "vocalization": "He/Ka/Mi",
+    "gematria": {
+      "name_value": 145,
+      "angel_value": 160,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 88,
+      "verse": 2,
+      "text_he": "תָּבוֹא לְפָנֶיךָ תְּפִלָּתִי",
+      "phonetic": "Tavó lefanéja tefilatí",
+      "text_es": "Llegue mi oración a tu presencia; inclina tu oído a mi clamor",
+      "notaricon": "ת-ל-ת-א-א"
+    },
+    "attributes": [
+      "lealtad",
+      "liderazgo",
+      "protección de altos mandos",
+      "honor"
+    ],
     "notes": ""
   },
   {
     "number": 17,
     "name": "Lauviah II",
-    "hebrew_letters": ["ל", "א", "ו"],
+    "hebrew_letters": [
+      "ל",
+      "א",
+      "ו"
+    ],
+    "suffix": "IAH",
     "zodiac": "Géminis",
     "degree_range": "20° - 25°",
     "date_range": "11/6 - 15/6",
     "choir": "Tronos",
     "sephira": "Yesod",
-    "meaning": "Dios admirable",
-    "essence": "Revelación",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Biná"
+    },
+    "meaning": "Dios admirable y maravilloso",
+    "essence": "Revelación y sabiduría",
     "planet": "Sol",
-    "psalm": { "number": 8, "verse": 2, "text_es": "Oh Jehová, Señor nuestro, cuán glorioso es tu nombre", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["revelaciones", "ciencias ocultas", "filosofía"],
+    "vocalization": "La/Va/Yah",
+    "gematria": {
+      "name_value": 37,
+      "angel_value": 52,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 8,
+      "verse": 2,
+      "text_he": "יְהוָה אֲדֹנֵינוּ מָה-אַדִּיר שִׁמְךָ",
+      "phonetic": "Adonai adoneinu ma-adir shimjá",
+      "text_es": "Oh Jehová, Señor nuestro, cuán glorioso es tu nombre en toda la tierra",
+      "notaricon": "י-א-מ-ש-א"
+    },
+    "attributes": [
+      "revelaciones divinas",
+      "ciencias ocultas",
+      "filosofía",
+      "sueños proféticos"
+    ],
     "notes": "Segundo ángel llamado Lauviah, distinto del nº11"
   },
   {
     "number": 18,
     "name": "Caliel",
-    "hebrew_letters": ["כ", "ל", "י"],
+    "hebrew_letters": [
+      "כ",
+      "ל",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Géminis",
     "degree_range": "25° - 30°",
     "date_range": "16/6 - 21/6",
     "choir": "Tronos",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Biná",
+      "position": "Biná de Biná"
+    },
     "meaning": "Dios pronto a socorrer",
     "essence": "Justicia divina",
     "planet": "Urano",
-    "psalm": { "number": 35, "verse": 24, "text_es": "Júzgame conforme a tu justicia", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["justicia", "verdad en procesos legales", "virtud"],
+    "vocalization": "Ka/Li/El",
+    "gematria": {
+      "name_value": 60,
+      "angel_value": 91,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 35,
+      "verse": 24,
+      "text_he": "שָׁפְטֵנִי כְצִדְקְךָ יְהוָה",
+      "phonetic": "Shoftení ketzidkejá Adonai",
+      "text_es": "Júzgame conforme a tu justicia, oh Jehová Dios mío, y no se alegren de mí",
+      "notaricon": "ש-כ-י-א-א"
+    },
+    "attributes": [
+      "justicia",
+      "verdad en procesos legales",
+      "virtud",
+      "integridad"
+    ],
     "notes": ""
   },
   {
     "number": 19,
     "name": "Leuviah",
-    "hebrew_letters": ["ל", "ו", "י"],
+    "hebrew_letters": [
+      "ל",
+      "ו",
+      "י"
+    ],
+    "suffix": "IAH",
     "zodiac": "Cáncer",
     "degree_range": "0° - 5°",
     "date_range": "22/6 - 26/6",
     "choir": "Tronos",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Biná"
+    },
     "meaning": "Dios que oye a los pecadores",
-    "essence": "Memoria y inteligencia",
+    "essence": "Memoria e inteligencia divina",
     "planet": "Neptuno",
-    "psalm": { "number": 40, "verse": 2, "text_es": "Pacientemente esperé a Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["memoria", "inteligencia", "resignación en sufrimientos"],
+    "vocalization": "Le/Vu/Yah",
+    "gematria": {
+      "name_value": 46,
+      "angel_value": 61,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 40,
+      "verse": 2,
+      "text_he": "קַוֹּה קִוִּיתִי יְהוָה",
+      "phonetic": "Kavó kivíti Adonai",
+      "text_es": "Pacientemente esperé a Jehová, y se inclinó a mí y oyó mi clamor",
+      "notaricon": "ק-ק-י-א-א"
+    },
+    "attributes": [
+      "memoria prodigiosa",
+      "inteligencia",
+      "resignación en sufrimientos",
+      "gracia"
+    ],
     "notes": ""
   },
   {
     "number": 20,
     "name": "Pahaliah",
-    "hebrew_letters": ["פ", "ה", "ל"],
+    "hebrew_letters": [
+      "פ",
+      "ה",
+      "ל"
+    ],
+    "suffix": "IAH",
     "zodiac": "Cáncer",
     "degree_range": "5° - 10°",
     "date_range": "27/6 - 1/7",
     "choir": "Tronos",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Biná"
+    },
     "meaning": "Dios redentor",
-    "essence": "Redención y vocación",
+    "essence": "Redención y vocación espiritual",
     "planet": "Saturno",
-    "psalm": { "number": 120, "verse": 2, "text_es": "Libra mi alma, oh Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["vocación religiosa", "castidad", "moral"],
+    "vocalization": "Pa/Ha/Li",
+    "gematria": {
+      "name_value": 115,
+      "angel_value": 130,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 120,
+      "verse": 2,
+      "text_he": "הַצִּילָה יְהוָה נַפְשִׁי מִשְּׂפַת-שֶׁקֶר",
+      "phonetic": "Hatzilá Adonai nafshí misefat-shéker",
+      "text_es": "Libra mi alma, oh Jehová, del labio mentiroso y de la lengua fraudulenta",
+      "notaricon": "ה-י-נ-מ-ש"
+    },
+    "attributes": [
+      "vocación religiosa",
+      "castidad",
+      "moral elevada",
+      "conversión"
+    ],
     "notes": ""
   },
   {
     "number": 21,
     "name": "Nelkhael",
-    "hebrew_letters": ["נ", "ל", "כ"],
+    "hebrew_letters": [
+      "נ",
+      "ל",
+      "כ"
+    ],
+    "suffix": "EL",
     "zodiac": "Cáncer",
     "degree_range": "10° - 15°",
     "date_range": "2/7 - 6/7",
     "choir": "Tronos",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Biná"
+    },
     "meaning": "Dios único y eterno",
-    "essence": "Enseñanza y conocimiento",
+    "essence": "Enseñanza y conocimiento superior",
     "planet": "Marte",
-    "psalm": { "number": 31, "verse": 15, "text_es": "En tu mano están mis tiempos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["estudio", "astronomía", "matemáticas", "poesía"],
+    "vocalization": "Nel/Ka/El",
+    "gematria": {
+      "name_value": 100,
+      "angel_value": 131,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 31,
+      "verse": 15,
+      "text_he": "בְּיָדְךָ עִתֹּתָי",
+      "phonetic": "Beyadejá itotái",
+      "text_es": "En tu mano están mis tiempos; líbrame de la mano de mis enemigos",
+      "notaricon": "ב-ע-א-א-א"
+    },
+    "attributes": [
+      "estudio",
+      "astronomía",
+      "matemáticas",
+      "poesía",
+      "destrucción de hechizos"
+    ],
     "notes": ""
   },
   {
     "number": 22,
     "name": "Yeiayel",
-    "hebrew_letters": ["י", "י", "י"],
+    "hebrew_letters": [
+      "י",
+      "י",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Cáncer",
     "degree_range": "15° - 20°",
     "date_range": "7/7 - 11/7",
     "choir": "Tronos",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Biná"
+    },
     "meaning": "Mano derecha de Dios",
     "essence": "Renombre y diplomacia",
     "planet": "Sol",
-    "psalm": { "number": 121, "verse": 5, "text_es": "Jehová es tu guardador", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fama", "diplomacia", "comercio", "viajes"],
+    "vocalization": "Ye/Ya/El",
+    "gematria": {
+      "name_value": 30,
+      "angel_value": 61,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 121,
+      "verse": 5,
+      "text_he": "יְהוָה שֹׁמְרֶךָ",
+      "phonetic": "Adonai shomrejá",
+      "text_es": "Jehová es tu guardador; Jehová es tu sombra a tu mano derecha",
+      "notaricon": "י-ש-א-א-א"
+    },
+    "attributes": [
+      "fama",
+      "diplomacia",
+      "comercio",
+      "viajes seguros",
+      "intuición"
+    ],
     "notes": ""
   },
   {
     "number": 23,
     "name": "Melahel",
-    "hebrew_letters": ["מ", "ל", "ה"],
+    "hebrew_letters": [
+      "מ",
+      "ל",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Cáncer",
     "degree_range": "20° - 25°",
     "date_range": "12/7 - 16/7",
     "choir": "Tronos",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Hod",
+      "position": "Hod de Biná"
+    },
     "meaning": "Dios que aleja el mal",
     "essence": "Curación y naturaleza",
     "planet": "Venus",
-    "psalm": { "number": 121, "verse": 8, "text_es": "Jehová guardará tu salida y tu entrada", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["curación por plantas", "agua", "viajes seguros"],
+    "vocalization": "Me/La/Hel",
+    "gematria": {
+      "name_value": 75,
+      "angel_value": 106,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 121,
+      "verse": 8,
+      "text_he": "יְהוָה יִשְׁמָר-צֵאתְךָ וּבוֹאֶךָ",
+      "phonetic": "Adonai yishmor-tzeetjá uvoéjá",
+      "text_es": "Jehová guardará tu salida y tu entrada desde ahora y para siempre",
+      "notaricon": "י-י-צ-ו-א"
+    },
+    "attributes": [
+      "curación por plantas",
+      "agua sagrada",
+      "viajes seguros",
+      "salud"
+    ],
     "notes": ""
   },
   {
     "number": 24,
     "name": "Haheuiah",
-    "hebrew_letters": ["ח", "ה", "ו"],
+    "hebrew_letters": [
+      "ח",
+      "ה",
+      "ו"
+    ],
+    "suffix": "IAH",
     "zodiac": "Cáncer",
     "degree_range": "25° - 30°",
     "date_range": "17/7 - 22/7",
     "choir": "Tronos",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Biná",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Biná"
+    },
     "meaning": "Dios bueno en sí mismo",
-    "essence": "Protección y exilio",
+    "essence": "Protección y exilio voluntario",
     "planet": "Mercurio",
-    "psalm": { "number": 33, "verse": 18, "text_es": "He aquí el ojo de Jehová sobre los que le temen", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["protección", "exilio voluntario", "gracia divina"],
+    "vocalization": "Ha/Heu/Yah",
+    "gematria": {
+      "name_value": 19,
+      "angel_value": 34,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 33,
+      "verse": 18,
+      "text_he": "הִנֵּה עֵין יְהוָה אֶל-יְרֵאָיו",
+      "phonetic": "Hiné ein Adonai el-yereiav",
+      "text_es": "He aquí el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia",
+      "notaricon": "ה-ע-י-א-א"
+    },
+    "attributes": [
+      "protección divina",
+      "exilio voluntario",
+      "gracia",
+      "revelación de secretos"
+    ],
     "notes": ""
   },
   {
     "number": 25,
     "name": "Nithaiah",
-    "hebrew_letters": ["נ", "ת", "ה"],
+    "hebrew_letters": [
+      "נ",
+      "ת",
+      "ה"
+    ],
+    "suffix": "IAH",
     "zodiac": "Leo",
     "degree_range": "0° - 5°",
     "date_range": "23/7 - 27/7",
     "choir": "Potestades",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Jésed"
+    },
     "meaning": "Dios que da la sabiduría",
     "essence": "Poesía y magia sagrada",
     "planet": "Luna",
-    "psalm": { "number": 9, "verse": 2, "text_es": "Me alegraré y me regocijaré en ti", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["magia sagrada", "poesía", "revelación de verdades ocultas"],
+    "vocalization": "Ni/Ta/Hah",
+    "gematria": {
+      "name_value": 455,
+      "angel_value": 470,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 9,
+      "verse": 2,
+      "text_he": "אֶשְׂמְחָה וְאֶעֶלְצָה בָךְ",
+      "phonetic": "Esmejiá veeeltza vaj",
+      "text_es": "Me alegraré y me regocijaré en ti; cantaré a tu nombre, oh Altísimo",
+      "notaricon": "א-ו-ב-א-א"
+    },
+    "attributes": [
+      "magia sagrada",
+      "poesía mística",
+      "revelación de verdades ocultas",
+      "profecía"
+    ],
     "notes": ""
   },
   {
     "number": 26,
     "name": "Haaiah",
-    "hebrew_letters": ["ה", "ע", "א"],
+    "hebrew_letters": [
+      "ה",
+      "ע",
+      "א"
+    ],
+    "suffix": "IAH",
     "zodiac": "Leo",
     "degree_range": "5° - 10°",
     "date_range": "28/7 - 1/8",
     "choir": "Potestades",
     "sephira": "Yesod",
-    "meaning": "Dios oculto",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Biná",
+      "position": "Biná de Jésed"
+    },
+    "meaning": "Dios oculto en su morada",
     "essence": "Política y discreción",
     "planet": "Sol",
-    "psalm": { "number": 119, "verse": 159, "text_es": "Mira cuánto amo tus mandamientos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["política", "diplomacia", "contemplación", "victoria"],
+    "vocalization": "Ha/Aa/Yah",
+    "gematria": {
+      "name_value": 76,
+      "angel_value": 91,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 119,
+      "verse": 159,
+      "text_he": "רְאֵה כִּי-פִקּוּדֶיךָ אָהָבְתִּי",
+      "phonetic": "Reé ki-piquudéja ahavtí",
+      "text_es": "Mira cuánto amo tus mandamientos; vivifícame conforme a tu misericordia",
+      "notaricon": "ר-כ-פ-א-א"
+    },
+    "attributes": [
+      "política",
+      "diplomacia",
+      "contemplación",
+      "victoria en litigios"
+    ],
     "notes": ""
   },
   {
     "number": 27,
     "name": "Yeratel",
-    "hebrew_letters": ["י", "ר", "ת"],
+    "hebrew_letters": [
+      "י",
+      "ר",
+      "ת"
+    ],
+    "suffix": "EL",
     "zodiac": "Leo",
     "degree_range": "10° - 15°",
     "date_range": "2/8 - 6/8",
     "choir": "Potestades",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Jésed"
+    },
     "meaning": "Dios que castiga a los malvados",
     "essence": "Propagación de la luz",
     "planet": "Urano",
-    "psalm": { "number": 140, "verse": 2, "text_es": "Líbrame, oh Jehová, del hombre malo", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["civilización", "propagación de la luz", "protección contra enemigos"],
+    "vocalization": "Ye/Ra/Tel",
+    "gematria": {
+      "name_value": 610,
+      "angel_value": 641,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 140,
+      "verse": 2,
+      "text_he": "חַלְּצֵנִי יְהוָה מֵאָדָם רָע",
+      "phonetic": "Jaltzéni Adonai meeadám ra",
+      "text_es": "Líbrame, oh Jehová, del hombre malo; guárdame de hombres violentos",
+      "notaricon": "ח-י-מ-ר-א"
+    },
+    "attributes": [
+      "civilización",
+      "propagación de la luz",
+      "protección contra agresores",
+      "justicia"
+    ],
     "notes": ""
   },
   {
     "number": 28,
     "name": "Seheiah",
-    "hebrew_letters": ["ש", "א", "ה"],
+    "hebrew_letters": [
+      "ש",
+      "א",
+      "ה"
+    ],
+    "suffix": "IAH",
     "zodiac": "Leo",
     "degree_range": "15° - 20°",
     "date_range": "7/8 - 12/8",
     "choir": "Potestades",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Jésed"
+    },
     "meaning": "Dios que cura a los enfermos",
-    "essence": "Longevidad y salud",
+    "essence": "Longevidad y protección",
     "planet": "Neptuno",
-    "psalm": { "number": 71, "verse": 12, "text_es": "Oh Dios, no te alejes de mí", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["longevidad", "salud", "protección contra accidentes e incendios"],
+    "vocalization": "Se/He/Yah",
+    "gematria": {
+      "name_value": 306,
+      "angel_value": 321,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 71,
+      "verse": 12,
+      "text_he": "אֱלֹהִים אַל-תִּרְחַק מִמֶּנִּי",
+      "phonetic": "Elohim al-tirjak mimení",
+      "text_es": "Oh Dios, no te alejes de mí; Dios mío, acude pronto en mi socorro",
+      "notaricon": "א-א-ת-מ-א"
+    },
+    "attributes": [
+      "longevidad",
+      "salud",
+      "protección contra accidentes",
+      "fuego y rayos"
+    ],
     "notes": ""
   },
   {
     "number": 29,
     "name": "Reiyel",
-    "hebrew_letters": ["ר", "י", "י"],
+    "hebrew_letters": [
+      "ר",
+      "י",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Leo",
     "degree_range": "20° - 25°",
     "date_range": "13/8 - 17/8",
     "choir": "Potestades",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Jésed"
+    },
     "meaning": "Dios pronto para socorrer",
     "essence": "Liberación espiritual",
     "planet": "Saturno",
-    "psalm": { "number": 54, "verse": 4, "text_es": "He aquí, Dios es el que me ayuda", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["liberación", "destrucción del enemigo interior", "mística"],
+    "vocalization": "Re/Yi/El",
+    "gematria": {
+      "name_value": 220,
+      "angel_value": 251,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 54,
+      "verse": 4,
+      "text_he": "הִנֵּה אֱלֹהִים עֹזֵר לִי",
+      "phonetic": "Hiné Elohim ozer li",
+      "text_es": "He aquí, Dios es el que me ayuda; el Señor está con los que sostienen mi vida",
+      "notaricon": "ה-א-ע-ל-א"
+    },
+    "attributes": [
+      "liberación espiritual",
+      "destrucción del enemigo interior",
+      "mística",
+      "meditación"
+    ],
     "notes": ""
   },
   {
     "number": 30,
     "name": "Omael",
-    "hebrew_letters": ["ע", "מ", "א"],
+    "hebrew_letters": [
+      "ע",
+      "מ",
+      "א"
+    ],
+    "suffix": "EL",
     "zodiac": "Leo",
     "degree_range": "25° - 30°",
     "date_range": "18/8 - 22/8",
     "choir": "Potestades",
     "sephira": "Chesed",
-    "meaning": "Dios paciente",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Jésed"
+    },
+    "meaning": "Dios paciente y largo en ira",
     "essence": "Multiplicación y paciencia",
     "planet": "Marte",
-    "psalm": { "number": 71, "verse": 5, "text_es": "Porque tú, oh Señor, eres mi esperanza", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["paciencia", "reinos animal y vegetal", "medicina"],
+    "vocalization": "Om/Ma/El",
+    "gematria": {
+      "name_value": 111,
+      "angel_value": 142,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 71,
+      "verse": 5,
+      "text_he": "כִּי-אַתָּה יְהוָה תִּקְוָתִי",
+      "phonetic": "Ki-atá Adonai tikvatí",
+      "text_es": "Porque tú, oh Señor, eres mi esperanza; seguridad mía desde mi juventud",
+      "notaricon": "כ-א-י-ת-א"
+    },
+    "attributes": [
+      "paciencia",
+      "reino animal",
+      "medicina",
+      "química",
+      "multiplicación"
+    ],
     "notes": ""
   },
   {
     "number": 31,
     "name": "Lecabel",
-    "hebrew_letters": ["ל", "כ", "ב"],
+    "hebrew_letters": [
+      "ל",
+      "כ",
+      "ב"
+    ],
+    "suffix": "EL",
     "zodiac": "Virgo",
     "degree_range": "0° - 5°",
     "date_range": "23/8 - 28/8",
     "choir": "Virtudes",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Hod",
+      "position": "Hod de Jésed"
+    },
     "meaning": "Dios que inspira",
-    "essence": "Inteligencia y vegetación",
+    "essence": "Inteligencia y agricultura",
     "planet": "Sol",
-    "psalm": { "number": 71, "verse": 16, "text_es": "Vendré a los hechos poderosos de Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["agricultura", "astronomía", "talento para ciencias exactas"],
+    "vocalization": "Le/Ka/Bel",
+    "gematria": {
+      "name_value": 52,
+      "angel_value": 83,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 71,
+      "verse": 16,
+      "text_he": "אָבוֹא בִּגְבֻרוֹת יְהוָה",
+      "phonetic": "Avó bigvurot Adonai",
+      "text_es": "Vendré a los hechos poderosos de Jehová el Señor; haré memoria de tu justicia",
+      "notaricon": "א-ב-י-א-א"
+    },
+    "attributes": [
+      "agricultura",
+      "astronomía",
+      "talento para ciencias exactas",
+      "inteligencia práctica"
+    ],
     "notes": ""
   },
   {
     "number": 32,
     "name": "Vasariah",
-    "hebrew_letters": ["ו", "ש", "ר"],
+    "hebrew_letters": [
+      "ו",
+      "ש",
+      "ר"
+    ],
+    "suffix": "IAH",
     "zodiac": "Virgo",
     "degree_range": "5° - 10°",
     "date_range": "29/8 - 2/9",
     "choir": "Virtudes",
     "sephira": "Tiphereth",
-    "meaning": "Dios justo",
-    "essence": "Clemencia y justicia",
+    "sephira_matrix": {
+      "sephira": "Jésed",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Jésed"
+    },
+    "meaning": "Dios justo y recto",
+    "essence": "Clemencia y palabra",
     "planet": "Venus",
-    "psalm": { "number": 33, "verse": 4, "text_es": "Porque recta es la palabra de Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["clemencia", "justicia", "oratoria", "elocuencia"],
+    "vocalization": "Va/Sa/Ri",
+    "gematria": {
+      "name_value": 506,
+      "angel_value": 521,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 33,
+      "verse": 4,
+      "text_he": "כִּי-יָשָׁר דְּבַר-יְהוָה",
+      "phonetic": "Ki-yashar devar-Adonai",
+      "text_es": "Porque recta es la palabra de Jehová, y toda su obra es hecha con fidelidad",
+      "notaricon": "כ-י-ד-י-א"
+    },
+    "attributes": [
+      "clemencia",
+      "justicia",
+      "oratoria",
+      "elocuencia",
+      "acusados inocentes"
+    ],
     "notes": ""
   },
   {
     "number": 33,
     "name": "Yehuiah",
-    "hebrew_letters": ["י", "ה", "ו"],
+    "hebrew_letters": [
+      "י",
+      "ה",
+      "ו"
+    ],
+    "suffix": "IAH",
     "zodiac": "Virgo",
     "degree_range": "10° - 15°",
     "date_range": "3/9 - 7/9",
     "choir": "Virtudes",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Guevurá"
+    },
     "meaning": "Dios que conoce todas las cosas",
-    "essence": "Subordinación divina",
+    "essence": "Subordinación y orden divino",
     "planet": "Mercurio",
-    "psalm": { "number": 94, "verse": 11, "text_es": "Jehová conoce los pensamientos de los hombres", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["obediencia", "descubrimiento de conspiraciones", "subordinación al bien"],
+    "vocalization": "Ye/Hu/Yah",
+    "gematria": {
+      "name_value": 21,
+      "angel_value": 36,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 94,
+      "verse": 11,
+      "text_he": "יְהוָה יֹדֵעַ מַחְשְׁבוֹת אָדָם",
+      "phonetic": "Adonai yodéa majshevot adam",
+      "text_es": "Jehová conoce los pensamientos de los hombres, que son vanidad",
+      "notaricon": "י-י-מ-א-א"
+    },
+    "attributes": [
+      "obediencia divina",
+      "descubrimiento de conspiraciones",
+      "orden",
+      "disciplina"
+    ],
     "notes": ""
   },
   {
     "number": 34,
     "name": "Lehahiah",
-    "hebrew_letters": ["ל", "ה", "ח"],
+    "hebrew_letters": [
+      "ל",
+      "ה",
+      "ח"
+    ],
+    "suffix": "IAH",
     "zodiac": "Virgo",
     "degree_range": "15° - 20°",
     "date_range": "8/9 - 12/9",
     "choir": "Virtudes",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Biná",
+      "position": "Biná de Guevurá"
+    },
     "meaning": "Dios clemente",
-    "essence": "Obediencia y orden",
+    "essence": "Obediencia y confianza en Dios",
     "planet": "Luna",
-    "psalm": { "number": 131, "verse": 3, "text_es": "Espera, oh Israel, en Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["orden", "obediencia a las leyes divinas", "comprensión de la voluntad de Dios"],
+    "vocalization": "Le/Ha/Hi",
+    "gematria": {
+      "name_value": 43,
+      "angel_value": 58,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 131,
+      "verse": 3,
+      "text_he": "יַחֵל יִשְׂרָאֵל אֶל-יְהוָה",
+      "phonetic": "Yajel Israel el-Adonai",
+      "text_es": "Espera, oh Israel, en Jehová, porque en Jehová hay misericordia",
+      "notaricon": "י-י-א-י-א"
+    },
+    "attributes": [
+      "obediencia a las leyes divinas",
+      "orden",
+      "confianza",
+      "mansedumbre"
+    ],
     "notes": ""
   },
   {
     "number": 35,
     "name": "Chavakhiah",
-    "hebrew_letters": ["כ", "ו", "ק"],
+    "hebrew_letters": [
+      "כ",
+      "ו",
+      "ק"
+    ],
+    "suffix": "IAH",
     "zodiac": "Virgo",
     "degree_range": "20° - 25°",
     "date_range": "13/9 - 17/9",
     "choir": "Virtudes",
     "sephira": "Yesod",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Guevurá"
+    },
     "meaning": "Dios que da la alegría",
     "essence": "Reconciliación y herencias",
     "planet": "Sol",
-    "psalm": { "number": 116, "verse": 1, "text_es": "Amo a Jehová, pues ha oído mi voz", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["reconciliación familiar", "testamentos", "herencias", "perdón"],
+    "vocalization": "Ja/Va/Ki",
+    "gematria": {
+      "name_value": 126,
+      "angel_value": 141,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 116,
+      "verse": 1,
+      "text_he": "אָהַבְתִּי כִּי-יִשְׁמַע יְהוָה",
+      "phonetic": "Ahavtí ki-yishmá Adonai",
+      "text_es": "Amo a Jehová, pues ha oído mi voz y mis súplicas",
+      "notaricon": "א-כ-י-י-א"
+    },
+    "attributes": [
+      "reconciliación familiar",
+      "herencias",
+      "perdón",
+      "acuerdos justos"
+    ],
     "notes": ""
   },
   {
     "number": 36,
     "name": "Menadel",
-    "hebrew_letters": ["מ", "נ", "ד"],
+    "hebrew_letters": [
+      "מ",
+      "נ",
+      "ד"
+    ],
+    "suffix": "EL",
     "zodiac": "Virgo",
     "degree_range": "25° - 30°",
     "date_range": "18/9 - 23/9",
     "choir": "Virtudes",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Guevurá"
+    },
     "meaning": "Dios adorable",
-    "essence": "Trabajo y exilio",
+    "essence": "Trabajo y preservación del empleo",
     "planet": "Urano",
-    "psalm": { "number": 26, "verse": 8, "text_es": "Jehová, la habitación de tu casa he amado", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["trabajo", "liberación del exilio", "preservación del trabajo"],
+    "vocalization": "Me/Na/Del",
+    "gematria": {
+      "name_value": 94,
+      "angel_value": 125,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 26,
+      "verse": 8,
+      "text_he": "יְהוָה אָהַבְתִּי מְעוֹן בֵּיתֶךָ",
+      "phonetic": "Adonai ahavtí meón bejtejá",
+      "text_es": "Jehová, la habitación de tu casa he amado, y el lugar de la morada de tu gloria",
+      "notaricon": "י-א-מ-ב-א"
+    },
+    "attributes": [
+      "trabajo",
+      "preservación del empleo",
+      "liberación del exilio",
+      "reputación"
+    ],
     "notes": ""
   },
   {
     "number": 37,
     "name": "Aniel",
-    "hebrew_letters": ["א", "נ", "י"],
+    "hebrew_letters": [
+      "א",
+      "נ",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Libra",
     "degree_range": "0° - 5°",
     "date_range": "24/9 - 28/9",
     "choir": "Virtudes",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Guevurá"
+    },
     "meaning": "Dios de las virtudes",
-    "essence": "Ruptura del círculo vicioso",
+    "essence": "Ruptura del ciclo negativo",
     "planet": "Neptuno",
-    "psalm": { "number": 80, "verse": 8, "text_es": "Oh Dios, restáuranos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["ciencias ocultas", "ruptura de rutinas negativas", "meditación"],
+    "vocalization": "An/Ni/El",
+    "gematria": {
+      "name_value": 61,
+      "angel_value": 92,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 80,
+      "verse": 8,
+      "text_he": "אֱלֹהִים שׁוּבֵנוּ",
+      "phonetic": "Elohim shuvenu",
+      "text_es": "Oh Dios, restáuranos; haz resplandecer tu rostro y seremos salvos",
+      "notaricon": "א-ש-א-א-א"
+    },
+    "attributes": [
+      "ciencias ocultas",
+      "ruptura de rutinas negativas",
+      "meditación",
+      "inspiración"
+    ],
     "notes": ""
   },
   {
     "number": 38,
     "name": "Haamiah",
-    "hebrew_letters": ["ה", "ע", "מ"],
+    "hebrew_letters": [
+      "ה",
+      "ע",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Libra",
     "degree_range": "5° - 10°",
     "date_range": "29/9 - 3/10",
     "choir": "Virtudes",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Guevurá"
+    },
     "meaning": "Dios esperanza de todas las criaturas",
-    "essence": "Ritual y preparación",
+    "essence": "Ritual y preparación espiritual",
     "planet": "Saturno",
-    "psalm": { "number": 91, "verse": 9, "text_es": "Porque has puesto a Jehová por tu habitación", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["ritual", "ceremonias sagradas", "religiones del mundo", "tesoros ocultos"],
+    "vocalization": "Ha/Am/Yah",
+    "gematria": {
+      "name_value": 115,
+      "angel_value": 130,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 91,
+      "verse": 9,
+      "text_he": "כִּי-אַתָּה יְהוָה מַחְסִי",
+      "phonetic": "Ki-atá Adonai majsí",
+      "text_es": "Porque has puesto a Jehová, que es mi esperanza, al Altísimo por tu habitación",
+      "notaricon": "כ-א-י-מ-א"
+    },
+    "attributes": [
+      "ritual sagrado",
+      "ceremonias",
+      "tesoros ocultos",
+      "religión"
+    ],
     "notes": ""
   },
   {
     "number": 39,
     "name": "Rehael",
-    "hebrew_letters": ["ר", "ה", "ע"],
+    "hebrew_letters": [
+      "ר",
+      "ה",
+      "ע"
+    ],
+    "suffix": "EL",
     "zodiac": "Libra",
     "degree_range": "10° - 15°",
     "date_range": "4/10 - 8/10",
     "choir": "Virtudes",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Hod",
+      "position": "Hod de Guevurá"
+    },
     "meaning": "Dios que recibe a los pecadores",
     "essence": "Curación y amor paternal",
     "planet": "Marte",
-    "psalm": { "number": 30, "verse": 3, "text_es": "Oh Jehová, hiciste subir mi alma del Seol", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["curación de enfermedades", "amor paternal y filial", "autoridad"],
+    "vocalization": "Re/Ha/El",
+    "gematria": {
+      "name_value": 275,
+      "angel_value": 306,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 30,
+      "verse": 3,
+      "text_he": "יְהוָה הֶעֱלִיתָ מִן-שְׁאוֹל נַפְשִׁי",
+      "phonetic": "Adonai heelitá min-sheol nafshí",
+      "text_es": "Oh Jehová, hiciste subir mi alma del Seol; me hiciste revivir",
+      "notaricon": "י-ה-מ-ש-נ"
+    },
+    "attributes": [
+      "curación de enfermedades",
+      "amor paternal y filial",
+      "autoridad",
+      "obediencia"
+    ],
     "notes": ""
   },
   {
     "number": 40,
     "name": "Ieiazel",
-    "hebrew_letters": ["י", "י", "ז"],
+    "hebrew_letters": [
+      "י",
+      "י",
+      "ז"
+    ],
+    "suffix": "EL",
     "zodiac": "Libra",
     "degree_range": "15° - 20°",
     "date_range": "9/10 - 13/10",
     "choir": "Virtudes",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Guevurá",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Guevurá"
+    },
     "meaning": "Dios que se alegra",
     "essence": "Consuelo y liberación",
     "planet": "Sol",
-    "psalm": { "number": 88, "verse": 15, "text_es": "¿Por qué, oh Jehová, desechas mi alma?", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["consuelo", "liberación de la prisión", "artes", "impresión"],
+    "vocalization": "Ye/Ya/Zel",
+    "gematria": {
+      "name_value": 27,
+      "angel_value": 58,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 88,
+      "verse": 15,
+      "text_he": "לָמָה יְהוָה תִּזְנַח נַפְשִׁי",
+      "phonetic": "Lamá Adonai tiznaj nafshí",
+      "text_es": "¿Por qué, oh Jehová, desechas mi alma? ¿Por qué escondes tu rostro de mí?",
+      "notaricon": "ל-י-ת-נ-א"
+    },
+    "attributes": [
+      "consuelo",
+      "liberación de prisiones",
+      "artes gráficas",
+      "impresión",
+      "alegría"
+    ],
     "notes": ""
   },
   {
     "number": 41,
     "name": "Hahahel",
-    "hebrew_letters": ["ה", "ה", "ה"],
+    "hebrew_letters": [
+      "ה",
+      "ה",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Libra",
     "degree_range": "20° - 25°",
     "date_range": "14/10 - 18/10",
     "choir": "Arcángeles",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Tiferet"
+    },
     "meaning": "Dios trinidad",
-    "essence": "Misión y fe",
+    "essence": "Misión espiritual y fe",
     "planet": "Venus",
-    "psalm": { "number": 120, "verse": 2, "text_es": "Libra mi alma, oh Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["misión", "vocación religiosa", "fortaleza espiritual", "espiritualidad"],
+    "vocalization": "Ha/Ha/Hel",
+    "gematria": {
+      "name_value": 15,
+      "angel_value": 46,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 120,
+      "verse": 2,
+      "text_he": "הַצִּילָה יְהוָה נַפְשִׁי מִשְּׂפַת-שֶׁקֶר",
+      "phonetic": "Hatzilá Adonai nafshí misefat-shéker",
+      "text_es": "Libra mi alma, oh Jehová, del labio mentiroso y de la lengua fraudulenta",
+      "notaricon": "ה-י-נ-מ-ש"
+    },
+    "attributes": [
+      "misión espiritual",
+      "vocación religiosa",
+      "fortaleza",
+      "fe profunda"
+    ],
     "notes": ""
   },
   {
     "number": 42,
     "name": "Mikael",
-    "hebrew_letters": ["מ", "י", "כ"],
+    "hebrew_letters": [
+      "מ",
+      "י",
+      "כ"
+    ],
+    "suffix": "EL",
     "zodiac": "Libra",
     "degree_range": "25° - 30°",
     "date_range": "19/10 - 23/10",
     "choir": "Arcángeles",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Biná",
+      "position": "Biná de Tiferet"
+    },
     "meaning": "Casa de Dios",
-    "essence": "Orden político y viajes",
+    "essence": "Orden político y obediencia",
     "planet": "Mercurio",
-    "psalm": { "number": 121, "verse": 7, "text_es": "Jehová te guardará de todo mal", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["orden político", "obediencia", "viajes seguros"],
+    "vocalization": "Mi/Ka/El",
+    "gematria": {
+      "name_value": 70,
+      "angel_value": 101,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 121,
+      "verse": 7,
+      "text_he": "יְהוָה יִשְׁמָרְךָ מִכָּל-רָע",
+      "phonetic": "Adonai yishmrejá mikol-ra",
+      "text_es": "Jehová te guardará de todo mal; él guardará tu alma",
+      "notaricon": "י-י-מ-ר-א"
+    },
+    "attributes": [
+      "orden político",
+      "obediencia",
+      "viajes seguros",
+      "revelación de conspiraciones"
+    ],
     "notes": ""
   },
   {
     "number": 43,
     "name": "Veuliah",
-    "hebrew_letters": ["ו", "ל", "י"],
+    "hebrew_letters": [
+      "ו",
+      "ל",
+      "י"
+    ],
+    "suffix": "IAH",
     "zodiac": "Escorpio",
     "degree_range": "0° - 5°",
     "date_range": "24/10 - 28/10",
     "choir": "Arcángeles",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Tiferet"
+    },
     "meaning": "Dios rey dominante",
     "essence": "Prosperidad y liberación",
     "planet": "Luna",
-    "psalm": { "number": 88, "verse": 14, "text_es": "¿Por qué, oh Jehová, desechas mi alma?", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["prosperidad", "liberación de la esclavitud", "destrucción de enemigos"],
+    "vocalization": "Ve/Ul/Yah",
+    "gematria": {
+      "name_value": 46,
+      "angel_value": 61,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 88,
+      "verse": 14,
+      "text_he": "לָמָה יְהוָה תִּזְנַח נַפְשִׁי",
+      "phonetic": "Lamá Adonai tiznaj nafshí",
+      "text_es": "¿Por qué, oh Jehová, desechas mi alma y escondes de mí tu rostro?",
+      "notaricon": "ל-י-ת-נ-א"
+    },
+    "attributes": [
+      "prosperidad",
+      "liberación de la esclavitud",
+      "destrucción del mal",
+      "poder"
+    ],
     "notes": ""
   },
   {
     "number": 44,
     "name": "Yelahiah",
-    "hebrew_letters": ["י", "ל", "ה"],
+    "hebrew_letters": [
+      "י",
+      "ל",
+      "ה"
+    ],
+    "suffix": "IAH",
     "zodiac": "Escorpio",
     "degree_range": "5° - 10°",
     "date_range": "29/10 - 2/11",
     "choir": "Arcángeles",
     "sephira": "Yesod",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Tiferet"
+    },
     "meaning": "Dios eterno",
     "essence": "Karma y guerra espiritual",
     "planet": "Sol",
-    "psalm": { "number": 119, "verse": 108, "text_es": "Te ruego, oh Jehová, que te sean agradables los sacrificios", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["karma", "victoria en batallas", "magistratura"],
+    "vocalization": "Ye/La/Hi",
+    "gematria": {
+      "name_value": 45,
+      "angel_value": 60,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 119,
+      "verse": 108,
+      "text_he": "נִדְבוֹת פִּי רְצֵה-נָא יְהוָה",
+      "phonetic": "Nidvot pi retzé-na Adonai",
+      "text_es": "Te ruego, oh Jehová, que te sean agradables los sacrificios voluntarios de mi boca",
+      "notaricon": "נ-פ-ר-י-א"
+    },
+    "attributes": [
+      "karma",
+      "victoria en batallas espirituales",
+      "magistratura",
+      "valor"
+    ],
     "notes": ""
   },
   {
     "number": 45,
     "name": "Sealiah",
-    "hebrew_letters": ["ס", "א", "ל"],
+    "hebrew_letters": [
+      "ס",
+      "א",
+      "ל"
+    ],
+    "suffix": "IAH",
     "zodiac": "Escorpio",
     "degree_range": "10° - 15°",
     "date_range": "3/11 - 7/11",
     "choir": "Arcángeles",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Tiferet"
+    },
     "meaning": "Dios motor de todas las cosas",
-    "essence": "Voluntad y motivación",
+    "essence": "Voluntad y motivación divina",
     "planet": "Urano",
-    "psalm": { "number": 94, "verse": 18, "text_es": "Cuando yo decía: Mi pie resbala", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["motivación", "elevar a los humildes", "confundir a los orgullosos"],
+    "vocalization": "Se/Al/Yah",
+    "gematria": {
+      "name_value": 91,
+      "angel_value": 106,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 94,
+      "verse": 18,
+      "text_he": "אִם-אָמַרְתִּי מָטָה רַגְלִי",
+      "phonetic": "Im-amartí matá raglí",
+      "text_es": "Cuando yo decía: Mi pie resbala, tu misericordia, oh Jehová, me sustentaba",
+      "notaricon": "א-א-מ-ר-א"
+    },
+    "attributes": [
+      "motivación",
+      "elevar a los humildes",
+      "confundir a los orgullosos",
+      "naturaleza"
+    ],
     "notes": ""
   },
   {
     "number": 46,
     "name": "Ariel",
-    "hebrew_letters": ["ע", "ר", "י"],
+    "hebrew_letters": [
+      "ע",
+      "ר",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Escorpio",
     "degree_range": "15° - 20°",
     "date_range": "8/11 - 12/11",
     "choir": "Arcángeles",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Tiferet"
+    },
     "meaning": "Dios revelador",
     "essence": "Percepción y descubrimiento",
     "planet": "Neptuno",
-    "psalm": { "number": 145, "verse": 9, "text_es": "Bueno es Jehová para con todos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["percepción sutil", "descubrimiento de tesoros", "agradecimiento"],
+    "vocalization": "Ar/Ri/El",
+    "gematria": {
+      "name_value": 280,
+      "angel_value": 311,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 145,
+      "verse": 9,
+      "text_he": "טוֹב-יְהוָה לַכֹּל",
+      "phonetic": "Tov-Adonai lakol",
+      "text_es": "Bueno es Jehová para con todos, y sus misericordias sobre todas sus obras",
+      "notaricon": "ט-י-ל-א-א"
+    },
+    "attributes": [
+      "percepción sutil",
+      "descubrimiento de tesoros",
+      "agradecimiento",
+      "revelaciones"
+    ],
     "notes": ""
   },
   {
     "number": 47,
     "name": "Asaliah",
-    "hebrew_letters": ["ע", "ש", "ל"],
+    "hebrew_letters": [
+      "ע",
+      "ש",
+      "ל"
+    ],
+    "suffix": "IAH",
     "zodiac": "Escorpio",
     "degree_range": "20° - 25°",
     "date_range": "13/11 - 17/11",
     "choir": "Arcángeles",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Hod",
+      "position": "Hod de Tiferet"
+    },
     "meaning": "Dios justo que indica la verdad",
     "essence": "Contemplación y elevación",
     "planet": "Saturno",
-    "psalm": { "number": 104, "verse": 24, "text_es": "¡Cuán innumerables son tus obras, oh Jehová!", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["contemplación divina", "verdad elevada", "meditación profunda"],
+    "vocalization": "As/Sa/Li",
+    "gematria": {
+      "name_value": 400,
+      "angel_value": 415,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 104,
+      "verse": 24,
+      "text_he": "מָה-רַבּוּ מַעֲשֶׂיךָ יְהוָה",
+      "phonetic": "Má-rabu maaséja Adonai",
+      "text_es": "¡Cuán innumerables son tus obras, oh Jehová! Hiciste todas ellas con sabiduría",
+      "notaricon": "מ-מ-מ-י-א"
+    },
+    "attributes": [
+      "contemplación divina",
+      "verdad elevada",
+      "meditación profunda",
+      "justicia oculta"
+    ],
     "notes": ""
   },
   {
     "number": 48,
     "name": "Mihael",
-    "hebrew_letters": ["מ", "י", "ה"],
+    "hebrew_letters": [
+      "מ",
+      "י",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Escorpio",
     "degree_range": "25° - 30°",
     "date_range": "18/11 - 22/11",
     "choir": "Arcángeles",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Tiferet",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Tiferet"
+    },
     "meaning": "Dios padre misericordioso",
-    "essence": "Fertilidad y paz",
+    "essence": "Fertilidad y paz conyugal",
     "planet": "Marte",
-    "psalm": { "number": 98, "verse": 2, "text_es": "Jehová ha hecho notoria su salvación", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fertilidad", "paz conyugal", "presagios y presentimientos"],
+    "vocalization": "Mi/Ha/El",
+    "gematria": {
+      "name_value": 55,
+      "angel_value": 86,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 98,
+      "verse": 2,
+      "text_he": "הוֹדִיעַ יְהוָה יְשׁוּעָתוֹ",
+      "phonetic": "Hodia Adonai yeshuató",
+      "text_es": "Jehová ha hecho notoria su salvación; a vista de las naciones ha descubierto su justicia",
+      "notaricon": "ה-י-י-א-א"
+    },
+    "attributes": [
+      "fertilidad",
+      "paz conyugal",
+      "presagios",
+      "amor",
+      "fidelidad"
+    ],
     "notes": ""
   },
   {
     "number": 49,
     "name": "Vehuel",
-    "hebrew_letters": ["ו", "ה", "ו"],
+    "hebrew_letters": [
+      "ו",
+      "ה",
+      "ו"
+    ],
+    "suffix": "EL",
     "zodiac": "Sagitario",
     "degree_range": "0° - 5°",
     "date_range": "23/11 - 27/11",
     "choir": "Ángeles",
     "sephira": "Geburah",
-    "meaning": "Dios grande y alto",
-    "essence": "Elevación y grandeza",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Nétzaj"
+    },
+    "meaning": "Dios grande y exaltado",
+    "essence": "Elevación y grandeza espiritual",
     "planet": "Sol",
-    "psalm": { "number": 145, "verse": 3, "text_es": "Grande es Jehová y digno de suprema alabanza", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["elevación espiritual", "gloria", "benevolencia", "generosidad"],
+    "vocalization": "Ve/Hu/El",
+    "gematria": {
+      "name_value": 17,
+      "angel_value": 48,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 145,
+      "verse": 3,
+      "text_he": "גָּדוֹל יְהוָה וּמְהֻלָּל מְאֹד",
+      "phonetic": "Gadol Adonai umehulal meod",
+      "text_es": "Grande es Jehová y digno de suprema alabanza; su grandeza es inescrutable",
+      "notaricon": "ג-י-ו-מ-א"
+    },
+    "attributes": [
+      "elevación espiritual",
+      "gloria",
+      "benevolencia",
+      "generosidad",
+      "sabiduría"
+    ],
     "notes": ""
   },
   {
     "number": 50,
     "name": "Daniel",
-    "hebrew_letters": ["ד", "נ", "י"],
+    "hebrew_letters": [
+      "ד",
+      "נ",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Sagitario",
     "degree_range": "5° - 10°",
     "date_range": "28/11 - 2/12",
     "choir": "Ángeles",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Biná",
+      "position": "Biná de Nétzaj"
+    },
     "meaning": "Dios signo de misericordias",
     "essence": "Elocuencia y decisión",
     "planet": "Venus",
-    "psalm": { "number": 103, "verse": 8, "text_es": "Misericordioso y clemente es Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["elocuencia", "decisión", "prosperidad en negocios", "advocados"],
+    "vocalization": "Da/Ni/El",
+    "gematria": {
+      "name_value": 64,
+      "angel_value": 95,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 103,
+      "verse": 8,
+      "text_he": "רַחוּם וְחַנּוּן יְהוָה",
+      "phonetic": "Rajum vejanum Adonai",
+      "text_es": "Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia",
+      "notaricon": "ר-ו-י-א-א"
+    },
+    "attributes": [
+      "elocuencia",
+      "decisión",
+      "prosperidad en negocios",
+      "consolación"
+    ],
     "notes": ""
   },
   {
     "number": 51,
     "name": "Hahasiah",
-    "hebrew_letters": ["ה", "ח", "ש"],
+    "hebrew_letters": [
+      "ה",
+      "ח",
+      "ש"
+    ],
+    "suffix": "IAH",
     "zodiac": "Sagitario",
     "degree_range": "10° - 15°",
     "date_range": "3/12 - 7/12",
     "choir": "Ángeles",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Nétzaj"
+    },
     "meaning": "Dios oculto",
     "essence": "Medicina y sabiduría universal",
     "planet": "Mercurio",
-    "psalm": { "number": 104, "verse": 31, "text_es": "Sea la gloria de Jehová para siempre", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["medicina", "filosofía", "sabiduría universal", "sanación"],
+    "vocalization": "Ha/Ha/Si",
+    "gematria": {
+      "name_value": 313,
+      "angel_value": 328,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 104,
+      "verse": 31,
+      "text_he": "יְהִי כְבוֹד יְהוָה לְעוֹלָם",
+      "phonetic": "Yehí jevod Adonai leolam",
+      "text_es": "Sea la gloria de Jehová para siempre; alégrese Jehová en sus obras",
+      "notaricon": "י-כ-י-ל-א"
+    },
+    "attributes": [
+      "medicina universal",
+      "filosofía",
+      "sabiduría oculta",
+      "sanación profunda"
+    ],
     "notes": ""
   },
   {
     "number": 52,
     "name": "Imamiah",
-    "hebrew_letters": ["ע", "מ", "מ"],
+    "hebrew_letters": [
+      "ע",
+      "מ",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Sagitario",
     "degree_range": "15° - 20°",
     "date_range": "8/12 - 12/12",
     "choir": "Ángeles",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Nétzaj"
+    },
     "meaning": "Dios elevado sobre todas las cosas",
     "essence": "Expiación y viajes",
     "planet": "Luna",
-    "psalm": { "number": 7, "verse": 18, "text_es": "Alabaré a Jehová conforme a su justicia", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["expiación de errores", "paciencia en la adversidad", "presos"],
+    "vocalization": "Im/Ma/Mi",
+    "gematria": {
+      "name_value": 150,
+      "angel_value": 165,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 7,
+      "verse": 18,
+      "text_he": "אוֹדֶה יְהוָה כְּצִדְקוֹ",
+      "phonetic": "Odé Adonai ketzidkó",
+      "text_es": "Alabaré a Jehová conforme a su justicia, y cantaré al nombre de Jehová el Altísimo",
+      "notaricon": "א-י-כ-צ-א"
+    },
+    "attributes": [
+      "expiación de errores",
+      "paciencia en la adversidad",
+      "liberación de presos",
+      "viajes"
+    ],
     "notes": ""
   },
   {
     "number": 53,
     "name": "Nanael",
-    "hebrew_letters": ["נ", "נ", "א"],
+    "hebrew_letters": [
+      "נ",
+      "נ",
+      "א"
+    ],
+    "suffix": "EL",
     "zodiac": "Sagitario",
     "degree_range": "20° - 25°",
     "date_range": "13/12 - 16/12",
     "choir": "Ángeles",
     "sephira": "Yesod",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Nétzaj"
+    },
     "meaning": "Dios que humilla a los orgullosos",
-    "essence": "Comunicación espiritual",
+    "essence": "Comunicación espiritual elevada",
     "planet": "Sol",
-    "psalm": { "number": 119, "verse": 75, "text_es": "Conozco, oh Jehová, que tus juicios son justos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["ciencias abstractas", "meditación", "comunicación con lo divino"],
+    "vocalization": "Na/Na/El",
+    "gematria": {
+      "name_value": 101,
+      "angel_value": 132,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 119,
+      "verse": 75,
+      "text_he": "יָדַעְתִּי יְהוָה כִּי-צֶדֶק מִשְׁפָּטֶיךָ",
+      "phonetic": "Yadatí Adonai ki-tzédek mishpatéja",
+      "text_es": "Conozco, oh Jehová, que tus juicios son justos, y que conforme a tu fidelidad me afligiste",
+      "notaricon": "י-י-כ-צ-מ"
+    },
+    "attributes": [
+      "ciencias abstractas",
+      "meditación",
+      "comunicación con lo divino",
+      "enseñanza"
+    ],
     "notes": ""
   },
   {
     "number": 54,
     "name": "Nithael",
-    "hebrew_letters": ["נ", "י", "ת"],
+    "hebrew_letters": [
+      "נ",
+      "י",
+      "ת"
+    ],
+    "suffix": "EL",
     "zodiac": "Sagitario",
     "degree_range": "25° - 30°",
     "date_range": "17/12 - 21/12",
     "choir": "Ángeles",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Nétzaj"
+    },
     "meaning": "Dios rey del cielo",
     "essence": "Legitimidad y eternidad",
     "planet": "Urano",
-    "psalm": { "number": 103, "verse": 19, "text_es": "Jehová estableció en los cielos su trono", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["estabilidad", "legitimidad", "misericordia divina", "eternidad"],
+    "vocalization": "Ni/Ta/El",
+    "gematria": {
+      "name_value": 460,
+      "angel_value": 491,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 103,
+      "verse": 19,
+      "text_he": "יְהוָה בַּשָּׁמַיִם הֵכִין כִּסְאוֹ",
+      "phonetic": "Adonai bashamáyim hejin kisó",
+      "text_es": "Jehová estableció en los cielos su trono, y su reino domina sobre todos",
+      "notaricon": "י-ב-ה-כ-א"
+    },
+    "attributes": [
+      "estabilidad",
+      "legitimidad",
+      "misericordia divina",
+      "eternidad",
+      "sucesión"
+    ],
     "notes": ""
   },
   {
     "number": 55,
     "name": "Mebahiah",
-    "hebrew_letters": ["מ", "ב", "ה"],
+    "hebrew_letters": [
+      "מ",
+      "ב",
+      "ה"
+    ],
+    "suffix": "IAH",
     "zodiac": "Capricornio",
     "degree_range": "0° - 5°",
     "date_range": "22/12 - 26/12",
     "choir": "Ángeles",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Hod",
+      "position": "Hod de Nétzaj"
+    },
     "meaning": "Dios eterno",
-    "essence": "Moral y fecundidad",
+    "essence": "Moral y fecundidad espiritual",
     "planet": "Neptuno",
-    "psalm": { "number": 102, "verse": 13, "text_es": "Mas tú, Jehová, permanecerás para siempre", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["moral", "piedad", "obras benéficas", "fecundidad"],
+    "vocalization": "Me/Ba/Hi",
+    "gematria": {
+      "name_value": 47,
+      "angel_value": 62,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 102,
+      "verse": 13,
+      "text_he": "וְאַתָּה יְהוָה לְעוֹלָם תֵּשֵׁב",
+      "phonetic": "Veatá Adonai leolam teshev",
+      "text_es": "Mas tú, Jehová, permanecerás para siempre; tu memoria de generación en generación",
+      "notaricon": "ו-י-ל-ת-א"
+    },
+    "attributes": [
+      "moral elevada",
+      "piedad",
+      "obras benéficas",
+      "fecundidad",
+      "claridad de ideas"
+    ],
     "notes": ""
   },
   {
     "number": 56,
     "name": "Poyel",
-    "hebrew_letters": ["פ", "ו", "י"],
+    "hebrew_letters": [
+      "פ",
+      "ו",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Capricornio",
     "degree_range": "5° - 10°",
     "date_range": "27/12 - 31/12",
     "choir": "Ángeles",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Nétzaj",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Nétzaj"
+    },
     "meaning": "Dios que sostiene el universo",
-    "essence": "Fortuna y ambición",
+    "essence": "Fortuna y modestia",
     "planet": "Saturno",
-    "psalm": { "number": 145, "verse": 14, "text_es": "Jehová sostiene a todos los que caen", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fortuna", "fama", "modestia", "humor"],
+    "vocalization": "Po/Ya/El",
+    "gematria": {
+      "name_value": 96,
+      "angel_value": 127,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 145,
+      "verse": 14,
+      "text_he": "סוֹמֵךְ יְהוָה לְכָל-הַנֹּפְלִים",
+      "phonetic": "Somej Adonai lejol-hanofelim",
+      "text_es": "Jehová sostiene a todos los que caen, y levanta a todos los oprimidos",
+      "notaricon": "ס-י-ל-ה-א"
+    },
+    "attributes": [
+      "fortuna",
+      "fama",
+      "modestia",
+      "humor",
+      "satisfacción de deseos"
+    ],
     "notes": ""
   },
   {
     "number": 57,
     "name": "Nemamiah",
-    "hebrew_letters": ["נ", "מ", "מ"],
+    "hebrew_letters": [
+      "נ",
+      "מ",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Capricornio",
     "degree_range": "10° - 15°",
     "date_range": "1/1 - 5/1",
     "choir": "Ángeles",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Hod"
+    },
     "meaning": "Dios adorable y loable",
-    "essence": "Discernimiento y éxito militar",
+    "essence": "Discernimiento y prosperidad",
     "planet": "Marte",
-    "psalm": { "number": 115, "verse": 11, "text_es": "Los que teméis a Jehová, confiad en Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["discernimiento", "capitanes militares", "prosperidad"],
+    "vocalization": "Ne/Ma/Mi",
+    "gematria": {
+      "name_value": 130,
+      "angel_value": 145,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 115,
+      "verse": 11,
+      "text_he": "יִרְאֵי יְהוָה בִּטְחוּ בַיהוָה",
+      "phonetic": "Yirei Adonai bitju vaAdonai",
+      "text_es": "Los que teméis a Jehová, confiad en Jehová; él es vuestra ayuda y escudo",
+      "notaricon": "י-י-ב-ב-א"
+    },
+    "attributes": [
+      "discernimiento",
+      "prosperidad",
+      "capitanes militares",
+      "liberación de la opresión"
+    ],
     "notes": ""
   },
   {
     "number": 58,
     "name": "Yeialel",
-    "hebrew_letters": ["י", "י", "ל"],
+    "hebrew_letters": [
+      "י",
+      "י",
+      "ל"
+    ],
+    "suffix": "EL",
     "zodiac": "Capricornio",
     "degree_range": "15° - 20°",
     "date_range": "6/1 - 10/1",
     "choir": "Ángeles",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Biná",
+      "position": "Biná de Hod"
+    },
     "meaning": "Dios que responde a generaciones",
     "essence": "Fuerza mental y curación",
     "planet": "Sol",
-    "psalm": { "number": 6, "verse": 4, "text_es": "Vuélvete, oh Jehová, libra mi alma", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fuerza mental", "curación de enfermedades mentales", "franqueza"],
+    "vocalization": "Ye/Ya/Lel",
+    "gematria": {
+      "name_value": 50,
+      "angel_value": 81,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 6,
+      "verse": 4,
+      "text_he": "שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי",
+      "phonetic": "Shuvá Adonai jaletza nafshí",
+      "text_es": "Vuélvete, oh Jehová, libra mi alma; sálvame por tu misericordia",
+      "notaricon": "ש-י-ח-נ-א"
+    },
+    "attributes": [
+      "fuerza mental",
+      "curación de enfermedades mentales",
+      "franqueza",
+      "hierro y acero"
+    ],
     "notes": ""
   },
   {
     "number": 59,
     "name": "Harahel",
-    "hebrew_letters": ["ה", "ר", "ח"],
+    "hebrew_letters": [
+      "ה",
+      "ר",
+      "ח"
+    ],
+    "suffix": "EL",
     "zodiac": "Capricornio",
     "degree_range": "20° - 25°",
     "date_range": "11/1 - 15/1",
     "choir": "Ángeles",
     "sephira": "Tiphereth",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Hod"
+    },
     "meaning": "Dios que todo lo conoce",
-    "essence": "Riqueza intelectual",
+    "essence": "Riqueza intelectual y fecundidad",
     "planet": "Venus",
-    "psalm": { "number": 113, "verse": 3, "text_es": "Desde el nacimiento del sol hasta donde se pone", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["fecundidad intelectual", "riquezas", "archivos", "bibliotecas"],
+    "vocalization": "Ha/Ra/Hel",
+    "gematria": {
+      "name_value": 213,
+      "angel_value": 244,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 113,
+      "verse": 3,
+      "text_he": "מִמִּזְרַח-שֶׁמֶשׁ עַד-מְבוֹאוֹ",
+      "phonetic": "Mimizraj-shémesh ad-mevoó",
+      "text_es": "Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Jehová",
+      "notaricon": "מ-ש-ע-מ-א"
+    },
+    "attributes": [
+      "fecundidad intelectual",
+      "riquezas",
+      "archivos",
+      "bibliotecas",
+      "fertilidad"
+    ],
     "notes": ""
   },
   {
     "number": 60,
     "name": "Mitzrael",
-    "hebrew_letters": ["מ", "צ", "ר"],
+    "hebrew_letters": [
+      "מ",
+      "צ",
+      "ר"
+    ],
+    "suffix": "EL",
     "zodiac": "Capricornio",
     "degree_range": "25° - 30°",
     "date_range": "16/1 - 20/1",
     "choir": "Ángeles",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Hod"
+    },
     "meaning": "Dios que socorre a los oprimidos",
     "essence": "Reparación y virtud",
     "planet": "Mercurio",
-    "psalm": { "number": 145, "verse": 17, "text_es": "Justo es Jehová en todos sus caminos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["curación de enfermedades mentales", "obediencia virtuosa", "longevidad"],
+    "vocalization": "Mi/Tz/Ra",
+    "gematria": {
+      "name_value": 330,
+      "angel_value": 361,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 145,
+      "verse": 17,
+      "text_he": "צַדִּיק יְהוָה בְּכָל-דְּרָכָיו",
+      "phonetic": "Tzadik Adonai bejol-derajav",
+      "text_es": "Justo es Jehová en todos sus caminos, y misericordioso en todas sus obras",
+      "notaricon": "צ-י-ב-ד-א"
+    },
+    "attributes": [
+      "curación de enfermedades mentales",
+      "obediencia",
+      "longevidad",
+      "virtud"
+    ],
     "notes": ""
   },
   {
     "number": 61,
     "name": "Umabel",
-    "hebrew_letters": ["א", "מ", "ב"],
+    "hebrew_letters": [
+      "א",
+      "מ",
+      "ב"
+    ],
+    "suffix": "EL",
     "zodiac": "Acuario",
     "degree_range": "0° - 5°",
     "date_range": "21/1 - 25/1",
     "choir": "Ángeles",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Hod"
+    },
     "meaning": "Dios por encima de todas las cosas",
-    "essence": "Amistad y astronomía",
+    "essence": "Amistad y sensibilidad",
     "planet": "Luna",
-    "psalm": { "number": 113, "verse": 2, "text_es": "Sea el nombre de Jehová bendito desde ahora", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["astronomía", "astrología", "física", "amistad fiel"],
+    "vocalization": "Um/Ma/Bel",
+    "gematria": {
+      "name_value": 43,
+      "angel_value": 74,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 113,
+      "verse": 2,
+      "text_he": "יְהִי שֵׁם יְהוָה מְבֹרָךְ",
+      "phonetic": "Yehí shem Adonai mevorach",
+      "text_es": "Sea el nombre de Jehová bendito desde ahora y para siempre",
+      "notaricon": "י-ש-י-מ-א"
+    },
+    "attributes": [
+      "astronomía",
+      "astrología",
+      "física",
+      "amistad fiel",
+      "sensibilidad"
+    ],
     "notes": ""
   },
   {
     "number": 62,
     "name": "Iah-hel",
-    "hebrew_letters": ["י", "ה", "ה"],
+    "hebrew_letters": [
+      "י",
+      "ה",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Acuario",
     "degree_range": "5° - 10°",
     "date_range": "26/1 - 30/1",
     "choir": "Ángeles",
     "sephira": "Yesod",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Hod"
+    },
     "meaning": "Ser supremo",
     "essence": "Sabiduría y retiro espiritual",
     "planet": "Sol",
-    "psalm": { "number": 119, "verse": 159, "text_es": "Mira cuánto amo tus mandamientos", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["sabiduría", "filosofía", "retiro", "tranquilidad"],
+    "vocalization": "Ya/Ha/Hel",
+    "gematria": {
+      "name_value": 20,
+      "angel_value": 51,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 119,
+      "verse": 159,
+      "text_he": "רְאֵה כִּי-פִקּוּדֶיךָ אָהָבְתִּי",
+      "phonetic": "Reé ki-piquudéja ahavtí",
+      "text_es": "Mira cuánto amo tus mandamientos; vivifícame conforme a tu misericordia",
+      "notaricon": "ר-כ-פ-א-א"
+    },
+    "attributes": [
+      "sabiduría sublime",
+      "filosofía",
+      "retiro espiritual",
+      "tranquilidad mental"
+    ],
     "notes": ""
   },
   {
     "number": 63,
     "name": "Anauel",
-    "hebrew_letters": ["ע", "נ", "ו"],
+    "hebrew_letters": [
+      "ע",
+      "נ",
+      "ו"
+    ],
+    "suffix": "EL",
     "zodiac": "Acuario",
     "degree_range": "10° - 15°",
     "date_range": "31/1 - 4/2",
     "choir": "Ángeles",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Hod",
+      "position": "Hod de Hod"
+    },
     "meaning": "Dios infinitamente bueno",
-    "essence": "Unidad y prosperidad",
+    "essence": "Unidad y prosperidad universal",
     "planet": "Urano",
-    "psalm": { "number": 100, "verse": 2, "text_es": "Servid a Jehová con alegría", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["unidad", "protección de negocios", "curación"],
+    "vocalization": "An/Na/El",
+    "gematria": {
+      "name_value": 126,
+      "angel_value": 157,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 100,
+      "verse": 2,
+      "text_he": "עִבְדוּ אֶת-יְהוָה בְּשִׂמְחָה",
+      "phonetic": "Ivdu et-Adonai besimjá",
+      "text_es": "Servid a Jehová con alegría; venid ante su presencia con regocijo",
+      "notaricon": "ע-א-י-ב-א"
+    },
+    "attributes": [
+      "unidad",
+      "protección de negocios",
+      "curación",
+      "percepción de lo divino"
+    ],
     "notes": ""
   },
   {
     "number": 64,
     "name": "Mehiel",
-    "hebrew_letters": ["מ", "ה", "י"],
+    "hebrew_letters": [
+      "מ",
+      "ה",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Acuario",
     "degree_range": "15° - 20°",
     "date_range": "5/2 - 9/2",
     "choir": "Ángeles",
     "sephira": "Chokmah",
+    "sephira_matrix": {
+      "sephira": "Hod",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Hod"
+    },
     "meaning": "Dios que vivifica todas las cosas",
-    "essence": "Vivificación y escritura",
+    "essence": "Vivificación y mundo intelectual",
     "planet": "Neptuno",
-    "psalm": { "number": 33, "verse": 18, "text_es": "He aquí el ojo de Jehová sobre los que le temen", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["escritura", "oradores", "profesores", "universidad"],
+    "vocalization": "Me/Hi/El",
+    "gematria": {
+      "name_value": 55,
+      "angel_value": 86,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 33,
+      "verse": 18,
+      "text_he": "הִנֵּה עֵין יְהוָה אֶל-יְרֵאָיו",
+      "phonetic": "Hiné ein Adonai el-yereiav",
+      "text_es": "He aquí el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia",
+      "notaricon": "ה-ע-י-א-א"
+    },
+    "attributes": [
+      "escritura",
+      "oratoria",
+      "profesores",
+      "universidad",
+      "protección contra fieras"
+    ],
     "notes": ""
   },
   {
     "number": 65,
     "name": "Damabiah",
-    "hebrew_letters": ["ד", "מ", "ב"],
+    "hebrew_letters": [
+      "ד",
+      "מ",
+      "ב"
+    ],
+    "suffix": "IAH",
     "zodiac": "Acuario",
     "degree_range": "20° - 25°",
     "date_range": "10/2 - 14/2",
     "choir": "Ángeles",
     "sephira": "Binah",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Jojmá",
+      "position": "Jojmá de Yesod"
+    },
     "meaning": "Dios fuente de sabiduría",
-    "essence": "Fuente de sabiduría y marina",
+    "essence": "Fuente de sabiduría y buena fortuna",
     "planet": "Saturno",
-    "psalm": { "number": 90, "verse": 13, "text_es": "Vuélvete, oh Jehová, ¿hasta cuándo?", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["sabiduría", "navegación", "marina", "fortuna"],
+    "vocalization": "Da/Ma/Bi",
+    "gematria": {
+      "name_value": 46,
+      "angel_value": 61,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 90,
+      "verse": 13,
+      "text_he": "שׁוּבָה יְהוָה עַד-מָתָי",
+      "phonetic": "Shuvá Adonai ad-matai",
+      "text_es": "Vuélvete, oh Jehová, ¿hasta cuándo? Y aplácate para con tus siervos",
+      "notaricon": "ש-י-ע-מ-א"
+    },
+    "attributes": [
+      "sabiduría",
+      "navegación",
+      "marina",
+      "fortuna",
+      "construcción naval"
+    ],
     "notes": ""
   },
   {
     "number": 66,
     "name": "Manakel",
-    "hebrew_letters": ["מ", "נ", "ק"],
+    "hebrew_letters": [
+      "מ",
+      "נ",
+      "ק"
+    ],
+    "suffix": "EL",
     "zodiac": "Acuario",
     "degree_range": "25° - 30°",
     "date_range": "15/2 - 19/2",
     "choir": "Ángeles",
     "sephira": "Chesed",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Biná",
+      "position": "Biná de Yesod"
+    },
     "meaning": "Dios que sostiene a todos",
-    "essence": "Sueños y calma",
+    "essence": "Sueños lúcidos y calma interior",
     "planet": "Marte",
-    "psalm": { "number": 38, "verse": 22, "text_es": "Apresúrate a ayudarme, oh Señor", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["conocimiento del bien y el mal", "calma", "sueños lúcidos"],
+    "vocalization": "Ma/Na/Kel",
+    "gematria": {
+      "name_value": 190,
+      "angel_value": 221,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 38,
+      "verse": 22,
+      "text_he": "חוּשָׁה לְעֶזְרָתִי אֲדֹנָי",
+      "phonetic": "Jushá leezratí Adonai",
+      "text_es": "Apresúrate a ayudarme, oh Señor, salvación mía",
+      "notaricon": "ח-ל-ע-א-א"
+    },
+    "attributes": [
+      "conocimiento del bien y del mal",
+      "calma interior",
+      "sueños lúcidos",
+      "apaciguamiento"
+    ],
     "notes": ""
   },
   {
     "number": 67,
     "name": "Eyael",
-    "hebrew_letters": ["ע", "י", "א"],
+    "hebrew_letters": [
+      "ע",
+      "י",
+      "א"
+    ],
+    "suffix": "EL",
     "zodiac": "Piscis",
     "degree_range": "0° - 5°",
     "date_range": "20/2 - 24/2",
     "choir": "Ángeles",
     "sephira": "Geburah",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Jésed",
+      "position": "Jésed de Yesod"
+    },
     "meaning": "Dios deleite de los hijos de los hombres",
-    "essence": "Transformación y consuelo",
+    "essence": "Transformación hacia lo sublime",
     "planet": "Sol",
-    "psalm": { "number": 37, "verse": 4, "text_es": "Deléitate asimismo en Jehová", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["transformación hacia lo sublime", "consuelo en la adversidad", "filosofía"],
+    "vocalization": "Ey/Ya/El",
+    "gematria": {
+      "name_value": 81,
+      "angel_value": 112,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 37,
+      "verse": 4,
+      "text_he": "וְהִתְעַנַּג עַל-יְהוָה",
+      "phonetic": "Vehitanag al-Adonai",
+      "text_es": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón",
+      "notaricon": "ו-ע-י-א-א"
+    },
+    "attributes": [
+      "transformación espiritual",
+      "consuelo",
+      "filosofía",
+      "artes",
+      "longevidad"
+    ],
     "notes": ""
   },
   {
     "number": 68,
     "name": "Habuhiah",
-    "hebrew_letters": ["ח", "ב", "ו"],
+    "hebrew_letters": [
+      "ח",
+      "ב",
+      "ו"
+    ],
+    "suffix": "IAH",
     "zodiac": "Piscis",
     "degree_range": "5° - 10°",
     "date_range": "25/2 - 1/3",
     "choir": "Ángeles",
     "sephira": "Tiphereth",
-    "meaning": "Dios dador liberalmente",
-    "essence": "Curación y fecundidad",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Guevurá",
+      "position": "Guevurá de Yesod"
+    },
+    "meaning": "Dios dador con liberalidad",
+    "essence": "Curación y fecundidad de la tierra",
     "planet": "Venus",
-    "psalm": { "number": 106, "verse": 1, "text_es": "Alabad a Jehová, porque él es bueno", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["curación", "fecundidad", "agricultura", "naturaleza"],
+    "vocalization": "Ha/Bu/Hi",
+    "gematria": {
+      "name_value": 16,
+      "angel_value": 31,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 106,
+      "verse": 1,
+      "text_he": "הוֹדוּ לַיהוָה כִּי-טוֹב",
+      "phonetic": "Hodu laAdonai ki-tov",
+      "text_es": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia",
+      "notaricon": "ה-ל-כ-ט-א"
+    },
+    "attributes": [
+      "curación",
+      "fecundidad",
+      "agricultura",
+      "naturaleza",
+      "salud en general"
+    ],
     "notes": ""
   },
   {
     "number": 69,
     "name": "Rochel",
-    "hebrew_letters": ["ר", "א", "ה"],
+    "hebrew_letters": [
+      "ר",
+      "א",
+      "ה"
+    ],
+    "suffix": "EL",
     "zodiac": "Piscis",
     "degree_range": "10° - 15°",
     "date_range": "2/3 - 6/3",
     "choir": "Ángeles",
     "sephira": "Netzach",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Tiferet",
+      "position": "Tiferet de Yesod"
+    },
     "meaning": "Dios que todo lo ve",
-    "essence": "Restitución y ley",
+    "essence": "Restitución y conocimiento de la ley",
     "planet": "Mercurio",
-    "psalm": { "number": 16, "verse": 5, "text_es": "Jehová es la porción de mi herencia", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["restitución de objetos perdidos", "fama", "derecho"],
+    "vocalization": "Ro/Ja/El",
+    "gematria": {
+      "name_value": 206,
+      "angel_value": 237,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 16,
+      "verse": 5,
+      "text_he": "יְהוָה מְנָת-חֶלְקִי וְכוֹסִי",
+      "phonetic": "Adonai menat-jelkí vejosí",
+      "text_es": "Jehová es la porción de mi herencia y de mi copa; tú sustentas mi suerte",
+      "notaricon": "י-מ-ח-ו-א"
+    },
+    "attributes": [
+      "restitución de objetos perdidos",
+      "fama",
+      "derecho",
+      "herencias",
+      "notariado"
+    ],
     "notes": ""
   },
   {
     "number": 70,
     "name": "Jabamiah",
-    "hebrew_letters": ["י", "ב", "מ"],
+    "hebrew_letters": [
+      "י",
+      "ב",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Piscis",
     "degree_range": "15° - 20°",
     "date_range": "7/3 - 11/3",
     "choir": "Ángeles",
     "sephira": "Hod",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Nétzaj",
+      "position": "Nétzaj de Yesod"
+    },
     "meaning": "Verbo que produce todas las cosas",
-    "essence": "Alquimia y regeneración",
+    "essence": "Alquimia y regeneración profunda",
     "planet": "Luna",
-    "psalm": { "number": 113, "verse": 2, "text_es": "Sea el nombre de Jehová bendito", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["alquimia", "regeneración de seres", "transformación profunda"],
+    "vocalization": "Ya/Ba/Mi",
+    "gematria": {
+      "name_value": 52,
+      "angel_value": 67,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 113,
+      "verse": 2,
+      "text_he": "יְהִי שֵׁם יְהוָה מְבֹרָךְ",
+      "phonetic": "Yehí shem Adonai mevorach",
+      "text_es": "Sea el nombre de Jehová bendito desde ahora y para siempre",
+      "notaricon": "י-ש-י-מ-א"
+    },
+    "attributes": [
+      "alquimia",
+      "regeneración de seres",
+      "transformación profunda",
+      "filosofía hermética"
+    ],
     "notes": ""
   },
   {
     "number": 71,
     "name": "Haiaiel",
-    "hebrew_letters": ["ה", "י", "י"],
+    "hebrew_letters": [
+      "ה",
+      "י",
+      "י"
+    ],
+    "suffix": "EL",
     "zodiac": "Piscis",
     "degree_range": "20° - 25°",
     "date_range": "12/3 - 16/3",
     "choir": "Ángeles",
     "sephira": "Yesod",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Hod",
+      "position": "Hod de Yesod"
+    },
     "meaning": "Dios señor del universo",
-    "essence": "Armas de luz",
+    "essence": "Armas de luz y valentía",
     "planet": "Sol",
-    "psalm": { "number": 109, "verse": 30, "text_es": "Yo alabaré a Jehová en gran manera", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["victoria", "armas de luz", "nuevos órdenes", "audacia"],
+    "vocalization": "Ha/Ya/El",
+    "gematria": {
+      "name_value": 25,
+      "angel_value": 56,
+      "suffix": "EL",
+      "suffix_value": 31
+    },
+    "psalm": {
+      "number": 109,
+      "verse": 30,
+      "text_he": "אוֹדֶה יְהוָה מְאֹד בְּפִי",
+      "phonetic": "Odé Adonai meod befí",
+      "text_es": "Yo alabaré a Jehová en gran manera con mi boca, y le alabaré entre muchos",
+      "notaricon": "א-י-מ-ב-א"
+    },
+    "attributes": [
+      "victoria",
+      "armas de luz",
+      "nuevos órdenes",
+      "audacia",
+      "liberación de opresores"
+    ],
     "notes": ""
   },
   {
     "number": 72,
     "name": "Mumiah",
-    "hebrew_letters": ["מ", "ו", "מ"],
+    "hebrew_letters": [
+      "מ",
+      "ו",
+      "מ"
+    ],
+    "suffix": "IAH",
     "zodiac": "Piscis",
     "degree_range": "25° - 30°",
     "date_range": "17/3 - 20/3",
     "choir": "Ángeles",
     "sephira": "Kether",
+    "sephira_matrix": {
+      "sephira": "Yesod",
+      "sub_sephira": "Yesod",
+      "position": "Yesod de Yesod"
+    },
     "meaning": "Dios fin de todo",
-    "essence": "Renacimiento y ocaso",
+    "essence": "Renacimiento y cierre del ciclo",
     "planet": "Urano",
-    "psalm": { "number": 116, "verse": 7, "text_es": "Vuelve, oh alma mía, a tu reposo", "text_he": "", "phonetic": "", "notaricon": "" },
-    "attributes": ["renacimiento", "alfa y omega", "éxito en todas las operaciones", "longevidad"],
-    "notes": "Último ángel del Shem HaMephorash, cierra el ciclo"
+    "vocalization": "Mu/Um/Yah",
+    "gematria": {
+      "name_value": 86,
+      "angel_value": 101,
+      "suffix": "IAH",
+      "suffix_value": 15
+    },
+    "psalm": {
+      "number": 116,
+      "verse": 7,
+      "text_he": "שׁוּבִי נַפְשִׁי לִמְנוּחָיְכִי",
+      "phonetic": "Shuvé nafshí limnujáyeji",
+      "text_es": "Vuelve, oh alma mía, a tu reposo, porque Jehová te ha hecho bien",
+      "notaricon": "ש-נ-ל-א-א"
+    },
+    "attributes": [
+      "renacimiento",
+      "alfa y omega",
+      "cierre de ciclos",
+      "éxito en todas las operaciones"
+    ],
+    "notes": "Último ángel del Shem HaMephorash, cierra el ciclo de los 72"
   }
 ]
