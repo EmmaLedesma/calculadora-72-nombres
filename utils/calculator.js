@@ -90,6 +90,54 @@ const SECONDARY_DATES = [
   { number: 72, dates: [{m:1,d:8},  {m:3,d:20}, {m:6,d:2},  {m:8,d:16}, {m:10,d:29}] },
 ];
 
+// ── Fechas primarias por ángel (tabla Madirolas) ─────────────
+// Cada entrada: [número, mes_inicio, día_inicio, mes_fin, día_fin]
+const PRIMARY_DATES = [
+  [1,  3,21,  3,25], [2,  3,26,  3,30], [3,  3,31,  4,4],
+  [4,  4,5,   4,9],  [5,  4,10,  4,14], [6,  4,15,  4,20],
+  [7,  4,21,  4,25], [8,  4,26,  4,30], [9,  5,1,   5,5],
+  [10, 5,6,   5,10], [11, 5,11,  5,15], [12, 5,16,  5,20],
+  [13, 5,21,  5,25], [14, 5,26,  5,31], [15, 6,1,   6,5],
+  [16, 6,6,   6,10], [17, 6,11,  6,15], [18, 6,16,  6,21],
+  [19, 6,22,  6,26], [20, 6,27,  7,1],  [21, 7,2,   7,6],
+  [22, 7,7,   7,11], [23, 7,12,  7,16], [24, 7,17,  7,22],
+  [25, 7,23,  7,27], [26, 7,28,  8,1],  [27, 8,2,   8,6],
+  [28, 8,7,   8,12], [29, 8,13,  8,17], [30, 8,18,  8,22],
+  [31, 8,23,  8,28], [32, 8,29,  9,2],  [33, 9,3,   9,7],
+  [34, 9,8,   9,12], [35, 9,13,  9,17], [36, 9,18,  9,23],
+  [37, 9,24,  9,28], [38, 9,29,  10,3], [39, 10,4,  10,8],
+  [40, 10,9,  10,13],[41, 10,14, 10,18],[42, 10,19, 10,23],
+  [43, 10,24, 10,28],[44, 10,29, 11,2], [45, 11,3,  11,7],
+  [46, 11,8,  11,12],[47, 11,13, 11,17],[48, 11,18, 11,22],
+  [49, 11,23, 11,27],[50, 11,28, 12,2], [51, 12,3,  12,7],
+  [52, 12,8,  12,12],[53, 12,13, 12,16],[54, 12,17, 12,21],
+  [55, 12,22, 12,26],[56, 12,27, 12,31],[57, 1,1,   1,5],
+  [58, 1,6,   1,10], [59, 1,11,  1,15], [60, 1,16,  1,20],
+  [61, 1,21,  1,25], [62, 1,26,  1,30], [63, 1,31,  2,4],
+  [64, 2,5,   2,9],  [65, 2,10,  2,14], [66, 2,15,  2,19],
+  [67, 2,20,  2,24], [68, 2,25,  2,28], [69, 3,1,   3,5],
+  [70, 3,6,   3,10], [71, 3,11,  3,15], [72, 3,16,  3,20],
+];
+
+/**
+ * Busca el ángel físico en la tabla de fechas primarias de Madirolas.
+ * Fuente de verdad exacta, sin aproximación matemática.
+ */
+function angelFromPrimaryDates(day, month) {
+  const date = month * 100 + day;
+  for (const [angel, sm, sd, em, ed] of PRIMARY_DATES) {
+    const start = sm * 100 + sd;
+    const end   = em * 100 + ed;
+    if (start <= end) {
+      if (date >= start && date <= end) return angel;
+    } else {
+      // Rango que cruza fin de año (ej: dic→ene)
+      if (date >= start || date <= end) return angel;
+    }
+  }
+  return null;
+}
+
 // ── Helpers ───────────────────────────────────────────────────
 
 function isLeapYear(year) {
@@ -146,12 +194,15 @@ function zodiacFromDegree(sunDegree) {
 
 /**
  * ÁNGEL FÍSICO
- * Quinario solar por fecha (grado solar al mediodía).
+ * Usa la tabla de fechas primarias de Madirolas como fuente de verdad.
+ * El grado solar se calcula para referencia zodiacal, pero el ángel
+ * se determina por la tabla exacta.
  */
 function calcPhysicalAngel(day, month, year = new Date().getFullYear()) {
-  const sunDegree = calcSunDegree(day, month, year, 12, 0);
+  const angelNumber = angelFromPrimaryDates(day, month);
+  const sunDegree   = calcSunDegree(day, month, year, 12, 0);
   return {
-    angel_number: angelFromDegree(sunDegree),
+    angel_number: angelNumber,
     sun_degree:   sunDegree,
     zodiac:       zodiacFromDegree(sunDegree)
   };
