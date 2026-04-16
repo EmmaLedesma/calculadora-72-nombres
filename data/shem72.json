@@ -7,7 +7,7 @@
       "ה",
       "ו"
     ],
-    "suffix": "EL",
+    "suffix": "IAH",
     "zodiac": "Aries",
     "degree_range": "0° - 5°",
     "date_range": "21/3 - 25/3",
@@ -18,23 +18,23 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Kéter"
     },
-    "meaning": "Dios elevado y exaltado",
+    "meaning": "Dios exaltador",
     "essence": "Voluntad y creación",
     "planet": "Urano",
-    "vocalization": "Ve/Hu/Ia",
+    "vocalization": "Va/He/Va",
     "gematria": {
       "name_value": 17,
-      "angel_value": 48,
-      "suffix": "EL",
-      "suffix_value": 31
+      "angel_value": 32,
+      "suffix": "IAH",
+      "suffix_value": 15
     },
     "psalm": {
       "number": 3,
       "verse": 4,
-      "text_he": "קוֹלִי אֶל-יְהוָה אֶקְרָא",
-      "phonetic": "Qolí el-Adonai eqrá",
-      "text_es": "Con mi voz clamé a Jehová, y él me respondió desde su monte santo",
-      "notaricon": "ק-א-י-א-א"
+      "text_he": "וְאַתָּה יְהוָה מָגֵן בַּעֲדִי כְּבוֹדִי וּמֵרִים רֹאשִׁי",
+      "phonetic": "Veata Adonai maguen baadi, kevodi umerim roshi",
+      "text_es": "Mas Tú, Adonái, eres un escudo alrededor de mí, mi gloria, y Aquel que levanta mi cabeza",
+      "notaricon": "ו-י-מ-ב-כ-ו-ר"
     },
     "attributes": [
       "voluntad divina",
@@ -46,7 +46,7 @@
   },
   {
     "number": 2,
-    "name": "Jeliel",
+    "name": "Yeliel",
     "hebrew_letters": [
       "י",
       "ל",
@@ -66,7 +66,7 @@
     "meaning": "Dios auxiliador",
     "essence": "Amor y sabiduría",
     "planet": "Neptuno",
-    "vocalization": "Ye/Li/El",
+    "vocalization": "Yo/La/Yo",
     "gematria": {
       "name_value": 50,
       "angel_value": 81,
@@ -76,8 +76,8 @@
     "psalm": {
       "number": 22,
       "verse": 20,
-      "text_he": "הַצִּילָה מֵחֶרֶב נַפְשִׁי",
-      "phonetic": "Hatzilá mejérev nafshí",
+      "text_he": "וְאַתָּה יְהוָה אַל תִּרְחָק אֱיָלוּתִי לְעֶזְרָתִי חוּשָׁה:",
+      "phonetic": "Veata Adonai al tirjac, eialuti leezrati josha",
       "text_es": "Líbrame de la espada mi alma, del poder del perro mi única vida",
       "notaricon": "ה-מ-נ-מ-י"
     },
@@ -121,9 +121,9 @@
     "psalm": {
       "number": 91,
       "verse": 2,
-      "text_he": "אֹמַר לַיהוָה מַחְסִי וּמְצוּדָתִי",
-      "phonetic": "Omár laAdonai majsí umtzudatí",
-      "text_es": "Diré yo a Jehová: Esperanza mía y castillo mío, mi Dios, en quien confiaré",
+      "text_he": "אֹמַר לַיהוָה מַחְסִי וּמְצוּדָתִי אֱלֹהַי אֶבְטַח בּוֹ:",
+      "phonetic": "Omár laAdonai majsí utzudatí Elohai objat bo",
+      "text_es": "Diré yo a Adonai: mi refugio y mi fortaleza, mi Dios, en quien confiaré",
       "notaricon": "א-ל-מ-ו-א"
     },
     "attributes": [
@@ -156,7 +156,7 @@
     "meaning": "Dios oculto",
     "essence": "Viajes y transformación",
     "planet": "Marte",
-    "vocalization": "El/Le/Mi",
+    "vocalization": "A/La/Me",
     "gematria": {
       "name_value": 140,
       "angel_value": 155,
@@ -165,10 +165,10 @@
     },
     "psalm": {
       "number": 6,
-      "verse": 4,
-      "text_he": "שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי",
-      "phonetic": "Shuvá Adonai jaletza nafshí",
-      "text_es": "Vuélvete, oh Jehová, libra mi alma; sálvame por tu misericordia",
+      "verse": 5,
+      "text_he": "שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי הוֹשִׁיעֵנִי לְמַעַן חַסְדֶּךָ",
+      "phonetic": "Shuva Adonai, chaletsá nafshi, hoshiêni lemaan chasdêcha",
+      "text_es": "Torná a mi Hashem, salva mi alma; sálvame por tu misericordia",
       "notaricon": "ש-י-ח-נ-א"
     },
     "attributes": [
@@ -201,7 +201,7 @@
     "meaning": "Dios salvador",
     "essence": "Rectificación kármica",
     "planet": "Sol",
-    "vocalization": "Ma/He/Shi",
+    "vocalization": "Me/He/Shi",
     "gematria": {
       "name_value": 345,
       "angel_value": 360,
@@ -211,9 +211,9 @@
     "psalm": {
       "number": 34,
       "verse": 5,
-      "text_he": "דָּרַשְׁתִּי אֶת-יְהוָה וְעָנָנִי",
-      "phonetic": "Darashti et-Adonai veananí",
-      "text_es": "Busqué a Jehová, y él me oyó, y me libró de todos mis temores",
+      "text_he": "דָּרַשְׁתִּי אֶת יְהוָה וְעָנָנִי וּמִכָּל מְגוּרוֹתַי הִצִּילָנִי",
+      "phonetic": "Daráshti et Adonai veanáni, umicol megurotai hitsiláni",
+      "text_es": "Busqué a Hashem, y él me respondió, y me libró de todos mis temores",
       "notaricon": "ד-א-י-ו-א"
     },
     "attributes": [
@@ -243,10 +243,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Kéter"
     },
-    "meaning": "Dios digno de alabanza",
+    "meaning": "Dios loable",
     "essence": "Luz y curación",
     "planet": "Venus",
-    "vocalization": "Le/La/He",
+    "vocalization": "La/La/He",
     "gematria": {
       "name_value": 65,
       "angel_value": 96,
@@ -256,9 +256,9 @@
     "psalm": {
       "number": 9,
       "verse": 12,
-      "text_he": "זַמְּרוּ לַיהוָה יֹשֵׁב צִיּוֹן",
-      "phonetic": "Zamerú laAdonai yoshev Tzión",
-      "text_es": "Cantad a Jehová que habita en Sión; publicad entre los pueblos sus obras",
+      "text_he": "זַמְּרוּ לַיהוָה יֹשֵׁב צִיּוֹן הַגִּידוּ בָעַמִּים עֲלִילוֹתָיו",
+      "phonetic": "Zamerú laAdonai yoshev Tzión, iadin leumim bemesharim",
+      "text_es": "Loád a Adonai que habita en Sión; relatad entre los pueblos sus proezas",
       "notaricon": "ז-ל-י-צ-א"
     },
     "attributes": [
@@ -272,7 +272,7 @@
   },
   {
     "number": 7,
-    "name": "Achaiah",
+    "name": "Ajaiah",
     "hebrew_letters": [
       "א",
       "כ",
@@ -289,10 +289,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Kéter"
     },
-    "meaning": "Dios bueno y paciente",
+    "meaning": "Dios bueno y lento para la ira",
     "essence": "Paciencia y descubrimiento",
     "planet": "Mercurio",
-    "vocalization": "Aj/Ka/Ia",
+    "vocalization": "A/Ja/A",
     "gematria": {
       "name_value": 22,
       "angel_value": 37,
@@ -302,9 +302,9 @@
     "psalm": {
       "number": 103,
       "verse": 8,
-      "text_he": "רַחוּם וְחַנּוּן יְהוָה אֶרֶךְ אַפַּיִם",
-      "phonetic": "Rajum vejanum Adonai érej apáyim",
-      "text_es": "Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia",
+      "text_he": "רַחוּם וְחַנּוּן יְהוָה אֶרֶךְ אַפַּיִם וְרַב חָסֶד",
+      "phonetic": "Rajum vejanum Adonai érej apáyim verav jássed",
+      "text_es": "Misericordioso y clemente es Adonai, lento para la ira y grande en misericordia",
       "notaricon": "ר-ו-י-א-א"
     },
     "attributes": [
@@ -316,7 +316,7 @@
   },
   {
     "number": 8,
-    "name": "Cahetel",
+    "name": "Kahetel",
     "hebrew_letters": [
       "כ",
       "ה",
@@ -336,7 +336,7 @@
     "meaning": "Dios adorable",
     "essence": "Bendición divina",
     "planet": "Luna",
-    "vocalization": "Ka/He/Tel",
+    "vocalization": "Ka/He/Ta",
     "gematria": {
       "name_value": 425,
       "angel_value": 456,
@@ -346,9 +346,9 @@
     "psalm": {
       "number": 95,
       "verse": 6,
-      "text_he": "בֹּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה",
-      "phonetic": "Bou nishtajave venikraá",
-      "text_es": "Venid, adoremos y postrémonos; arrodillémonos delante de Jehová nuestro hacedor",
+      "text_he": "בֹּאוּ נִשְׁתַּחֲוֶה וְנִכְרָעָה נִבְרְכָה לִפְנֵי יְהוָה עֹשֵׂנוּ:",
+      "phonetic": "Bou nishtajave venikraá, nivreja lifnê Adonai ossênu",
+      "text_es": "Venid, adoremos y postrémonos; arrodillémonos delante de Adonai nuestro hacedor",
       "notaricon": "ב-נ-ו-נ-א"
     },
     "attributes": [
@@ -381,7 +381,7 @@
     "meaning": "Dios misericordioso",
     "essence": "Perdón universal",
     "planet": "Urano",
-    "vocalization": "Ha/Za/Yel",
+    "vocalization": "He/Za/Yo",
     "gematria": {
       "name_value": 22,
       "angel_value": 53,
@@ -391,9 +391,9 @@
     "psalm": {
       "number": 25,
       "verse": 6,
-      "text_he": "זְכֹר-רַחֲמֶיךָ יְהוָה וַחֲסָדֶיךָ",
-      "phonetic": "Zejor rajaméja Adonai vajasadéja",
-      "text_es": "Recuerda, oh Jehová, tus piedades y tus misericordias, que son perpetuas",
+      "text_he": "זְכֹר רַחֲמֶיךָ יְהוָה וַחֲסָדֶיךָ כִּי מֵעוֹלָם הֵמָּה:",
+      "phonetic": "Zejor rajaméja Adonai vajasadéja, ki meolam héma",
+      "text_es": "Recuerda, oh Hashem, tus piedades y tus misericordias, que son perpetuas",
       "notaricon": "ז-י-ו-ו-א"
     },
     "attributes": [
@@ -427,7 +427,7 @@
     "meaning": "Dios propicio",
     "essence": "Gracia y regeneración",
     "planet": "Neptuno",
-    "vocalization": "Al/La/Di",
+    "vocalization": "A/La/Da",
     "gematria": {
       "name_value": 35,
       "angel_value": 50,
@@ -437,8 +437,8 @@
     "psalm": {
       "number": 33,
       "verse": 22,
-      "text_he": "יְהִי-חַסְדְּךָ יְהוָה עָלֵינוּ",
-      "phonetic": "Yehí jasdejá Adonai alénu",
+      "text_he": "יְהִי חַסְדְּךָ יְהוָה עָלֵינוּ כַּאֲשֶׁר יִחַלְנוּ לָךְ:",
+      "phonetic": "Yehí jasdejá Adonai alénu, kaasher yjálnu laj",
       "text_es": "Sea tu misericordia, oh Jehová, sobre nosotros, según esperamos en ti",
       "notaricon": "י-י-ע-א-א"
     },
@@ -469,10 +469,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Jojmá"
     },
-    "meaning": "Dios exaltado y admirable",
+    "meaning": "Dios alabado y exaltado",
     "essence": "Victoria y revelación",
     "planet": "Saturno",
-    "vocalization": "La/Va/Yah",
+    "vocalization": "La/A/Va",
     "gematria": {
       "name_value": 37,
       "angel_value": 52,
@@ -482,9 +482,9 @@
     "psalm": {
       "number": 18,
       "verse": 47,
-      "text_he": "חַי-יְהוָה וּבָרוּךְ צוּרִי",
-      "phonetic": "Jai-Adonai uvaruj tzurí",
-      "text_es": "Vive Jehová, y bendita sea mi roca, y enaltecido sea el Dios de mi salvación",
+      "text_he": "חַי יְהוָה וּבָרוּךְ צוּרִי וְיָרוּם אֱלוֹהֵי יִשְׁעִי:",
+      "phonetic": "Jai-Adonai ubaruj tzurí veyarum Elohe ishi",
+      "text_es": "Vive Adonai, y bendita sea mi roca, y enaltecido sea el Dios de mi salvación",
       "notaricon": "ח-י-ו-צ-א"
     },
     "attributes": [
@@ -517,7 +517,7 @@
     "meaning": "Dios refugio",
     "essence": "Refugio y misterio",
     "planet": "Marte",
-    "vocalization": "Ha/Ha/Yah",
+    "vocalization": "Ha/Ha/A",
     "gematria": {
       "name_value": 80,
       "angel_value": 95,
@@ -527,9 +527,9 @@
     "psalm": {
       "number": 10,
       "verse": 1,
-      "text_he": "לָמָה יְהוָה תַּעֲמֹד בְּרָחוֹק",
-      "phonetic": "Lamá Adonai taamod berajok",
-      "text_es": "¿Por qué estás lejos, oh Jehová? ¿Por qué te escondes en el tiempo de la tribulación?",
+      "text_he": "לָמָה יְהוָה תַּעֲמֹד בְּרָחוֹק תַּעְלִים לְעִתּוֹת בַּצָּרָה:",
+      "phonetic": "Lamá Adonai taamod berajok, talim leitot batsará",
+      "text_es": "¿Por qué estás lejos, oh Adonai? ¿Por qué te escondes en el tiempo de angustia?",
       "notaricon": "ל-י-ת-ב-א"
     },
     "attributes": [
@@ -558,10 +558,10 @@
       "sub_sephira": "Tiferet",
       "position": "Tiferet de Jojmá"
     },
-    "meaning": "Dios glorificado en todo",
+    "meaning": "Dios glorificado sobre todas las cosas",
     "essence": "Fidelidad y memoria",
     "planet": "Sol",
-    "vocalization": "Ye/Za/Lel",
+    "vocalization": "Ye/Za/La",
     "gematria": {
       "name_value": 47,
       "angel_value": 78,
@@ -571,9 +571,9 @@
     "psalm": {
       "number": 98,
       "verse": 4,
-      "text_he": "הָרִיעוּ לַיהוָה כָּל-הָאָרֶץ",
-      "phonetic": "Hariú laAdonai kol-haarétz",
-      "text_es": "Cantad alegres a Jehová toda la tierra; levantad la voz y aplaudid",
+      "text_he": "הָרִיעוּ לַיהוָה כָּל הָאָרֶץ פִּצְחוּ וְרַנְּנוּ וְזַמֵּרוּ:",
+      "phonetic": "Hariú laAdonai kol-haarétz, pitsjú veranenú vezamêru",
+      "text_es": "Aclamad con júbilo a Adonai toda la tierra, vociferad y salmodiad y cantad con gozo",
       "notaricon": "ה-ל-כ-ה-א"
     },
     "attributes": [
@@ -603,10 +603,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Jojmá"
     },
-    "meaning": "Dios conservador",
+    "meaning": "Dios custodio y salvador",
     "essence": "Justicia y verdad",
     "planet": "Venus",
-    "vocalization": "Me/Ba/Hel",
+    "vocalization": "Ma/Ba/He",
     "gematria": {
       "name_value": 47,
       "angel_value": 78,
@@ -616,9 +616,9 @@
     "psalm": {
       "number": 9,
       "verse": 10,
-      "text_he": "וְיִהְיֶה יְהוָה מִשְׂגָּב לַדָּךְ",
-      "phonetic": "Veyihié Adonai misgav ladaj",
-      "text_es": "Jehová será refugio del pobre, refugio para el tiempo de angustia",
+      "text_he": "וִיהִי יְהוָה מִשְׂגָּב לַדָּךְ מִשְׂגָּב לְעִתּוֹת בַּצָּרָה:",
+      "phonetic": "Vihi Adonai misgav ladaj, misgav leitot batsará",
+      "text_es": "Y será Adonai refugio para el oprimido, refugio en tiempo de angustia",
       "notaricon": "ו-י-מ-ל-א"
     },
     "attributes": [
@@ -648,10 +648,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Jojmá"
     },
-    "meaning": "Dios creador",
+    "meaning": "Dios confortador",
     "essence": "Purificación y fe",
     "planet": "Mercurio",
-    "vocalization": "Ha/Ri/El",
+    "vocalization": "He/Re/Yo",
     "gematria": {
       "name_value": 215,
       "angel_value": 246,
@@ -661,9 +661,9 @@
     "psalm": {
       "number": 94,
       "verse": 22,
-      "text_he": "וַיְהִי יְהוָה לִי לְמִשְׂגָּב",
-      "phonetic": "Vayehí Adonai li lemisguav",
-      "text_es": "Pero Jehová me ha sido por refugio, y mi Dios por roca de mi confianza",
+      "text_he": "וַיְהִי יְהוָה לִי לְמִשְׂגָּב וֵאלֹהַי לְצוּר מַחְסִי:",
+      "phonetic": "Vaihi Adonai li lemisgav, velohai letsur majsi",
+      "text_es": "Y ha sido Hashem para mi refugio, y mi Dios por roca de mi confianza",
       "notaricon": "ו-י-ל-ל-א"
     },
     "attributes": [
@@ -693,10 +693,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Jojmá"
     },
-    "meaning": "Dios que erige el universo",
+    "meaning": "Dios constructor",
     "essence": "Lealtad y liderazgo",
     "planet": "Luna",
-    "vocalization": "He/Ka/Mi",
+    "vocalization": "He/Qo/Me",
     "gematria": {
       "name_value": 145,
       "angel_value": 160,
@@ -706,9 +706,9 @@
     "psalm": {
       "number": 88,
       "verse": 2,
-      "text_he": "תָּבוֹא לְפָנֶיךָ תְּפִלָּתִי",
-      "phonetic": "Tavó lefanéja tefilatí",
-      "text_es": "Llegue mi oración a tu presencia; inclina tu oído a mi clamor",
+      "text_he": "יְהוָה אֱלֹהֵי יְשׁוּעָתִי יוֹם צָעַקְתִּי בַלַּיְלָה נֶגְדֶּךָ:",
+      "phonetic": "Adonai Elohê yeshuati, yom tsaáqti valaila negdêja",
+      "text_es": "Adonai Dios de mi salvación de día clamé a Ti, en la noche ofrezco mi plegaria ante Ti",
       "notaricon": "ת-ל-ת-א-א"
     },
     "attributes": [
@@ -738,7 +738,7 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Biná"
     },
-    "meaning": "Dios admirable y maravilloso",
+    "meaning": "Dios maravilloso",
     "essence": "Revelación y sabiduría",
     "planet": "Sol",
     "vocalization": "La/Va/Yah",
@@ -751,9 +751,9 @@
     "psalm": {
       "number": 8,
       "verse": 2,
-      "text_he": "יְהוָה אֲדֹנֵינוּ מָה-אַדִּיר שִׁמְךָ",
-      "phonetic": "Adonai adoneinu ma-adir shimjá",
-      "text_es": "Oh Jehová, Señor nuestro, cuán glorioso es tu nombre en toda la tierra",
+      "text_he": "יְהוָה אֲדֹנֵינוּ מָה אַדִּיר שִׁמְךָ בְּכָל הָאָרֶץ",
+      "phonetic": "Adonai adoneinu ma-adir shimjá bejol haárets",
+      "text_es": "Oh Hashem, Señor nuestro, cuán glorioso es tu nombre en toda la tierra",
       "notaricon": "י-א-מ-ש-א"
     },
     "attributes": [
@@ -766,7 +766,7 @@
   },
   {
     "number": 18,
-    "name": "Caliel",
+    "name": "Kaliel",
     "hebrew_letters": [
       "כ",
       "ל",
@@ -783,10 +783,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Biná"
     },
-    "meaning": "Dios pronto a socorrer",
+    "meaning": "Dios invocable",
     "essence": "Justicia divina",
     "planet": "Urano",
-    "vocalization": "Ka/Li/El",
+    "vocalization": "Ka/La/Yo",
     "gematria": {
       "name_value": 60,
       "angel_value": 91,
@@ -796,9 +796,9 @@
     "psalm": {
       "number": 35,
       "verse": 24,
-      "text_he": "שָׁפְטֵנִי כְצִדְקְךָ יְהוָה",
-      "phonetic": "Shoftení ketzidkejá Adonai",
-      "text_es": "Júzgame conforme a tu justicia, oh Jehová Dios mío, y no se alegren de mí",
+      "text_he": "שָׁפְטֵנִי כְצִדְקְךָ יְהוָה אֱלֹהָי וְאַל יִשְׂמְחוּ לִי:",
+      "phonetic": "Shoftení ketzidkejá Adonai Elohai veal yismejú li",
+      "text_es": "Júzgame conforme a tu justicia, oh Adonai Dios mío, y no se alegren de mí",
       "notaricon": "ש-כ-י-א-א"
     },
     "attributes": [
@@ -828,10 +828,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Biná"
     },
-    "meaning": "Dios que oye a los pecadores",
+    "meaning": "Dios ansioso de escuchar",
     "essence": "Memoria e inteligencia divina",
     "planet": "Neptuno",
-    "vocalization": "Le/Vu/Yah",
+    "vocalization": "La/Va/Va",
     "gematria": {
       "name_value": 46,
       "angel_value": 61,
@@ -841,9 +841,9 @@
     "psalm": {
       "number": 40,
       "verse": 2,
-      "text_he": "קַוֹּה קִוִּיתִי יְהוָה",
-      "phonetic": "Kavó kivíti Adonai",
-      "text_es": "Pacientemente esperé a Jehová, y se inclinó a mí y oyó mi clamor",
+      "text_he": "קַוֹּה קִוִּיתִי יְהוָה וַיֵּט אֵלַי וַיִּשְׁמַע שַׁוְעָתִי:",
+      "phonetic": "Kavó kivíti Adonai, vaiet elai vayishmá shav’ati",
+      "text_es": "Pacientemente esperé a Adonai, y se inclinó hacia mí y oyó mi clamor",
       "notaricon": "ק-ק-י-א-א"
     },
     "attributes": [
@@ -876,7 +876,7 @@
     "meaning": "Dios redentor",
     "essence": "Redención y vocación espiritual",
     "planet": "Saturno",
-    "vocalization": "Pa/Ha/Li",
+    "vocalization": "Pe/He/La",
     "gematria": {
       "name_value": 115,
       "angel_value": 130,
@@ -884,11 +884,11 @@
       "suffix_value": 15
     },
     "psalm": {
-      "number": 120,
-      "verse": 2,
-      "text_he": "הַצִּילָה יְהוָה נַפְשִׁי מִשְּׂפַת-שֶׁקֶר",
-      "phonetic": "Hatzilá Adonai nafshí misefat-shéker",
-      "text_es": "Libra mi alma, oh Jehová, del labio mentiroso y de la lengua fraudulenta",
+      "number": 116,
+      "verse": 4,
+      "text_he": "וּבְשֵׁם יְהוָה אֶקְרָא אָנָּה יְהוָה מַלְּטָה נַפְשִׁי:",
+      "phonetic": "Uvshem Adonai eqra, ána Adonai maleta nafshi",
+      "text_es": "Invoqué el nombre de Adonai: YHVH libra ahora mi alma",
       "notaricon": "ה-י-נ-מ-ש"
     },
     "attributes": [
@@ -901,7 +901,7 @@
   },
   {
     "number": 21,
-    "name": "Nelkhael",
+    "name": "Neljael",
     "hebrew_letters": [
       "נ",
       "ל",
@@ -918,10 +918,10 @@
       "sub_sephira": "Tiferet",
       "position": "Tiferet de Biná"
     },
-    "meaning": "Dios único y eterno",
+    "meaning": "Dios solo y único",
     "essence": "Enseñanza y conocimiento superior",
     "planet": "Marte",
-    "vocalization": "Nel/Ka/El",
+    "vocalization": "Nu/La/Ja",
     "gematria": {
       "name_value": 100,
       "angel_value": 131,
@@ -931,9 +931,9 @@
     "psalm": {
       "number": 31,
       "verse": 15,
-      "text_he": "בְּיָדְךָ עִתֹּתָי",
-      "phonetic": "Beyadejá itotái",
-      "text_es": "En tu mano están mis tiempos; líbrame de la mano de mis enemigos",
+      "text_he": "וַאֲנִי עָלֶיךָ בָטַחְתִּי יְהוָה אָמַרְתִּי אֱלֹהַי אָתָּה:",
+      "phonetic": "Vaani aleja vatájti Adonai, amarti Elohai áta",
+      "text_es": "Pero yo en Ti confié Adonai, dije mi Dios eres Tú",
       "notaricon": "ב-ע-א-א-א"
     },
     "attributes": [
@@ -964,10 +964,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Biná"
     },
-    "meaning": "Mano derecha de Dios",
+    "meaning": "La derecha de Dios",
     "essence": "Renombre y diplomacia",
     "planet": "Sol",
-    "vocalization": "Ye/Ya/El",
+    "vocalization": "Yo/Yo/Yo",
     "gematria": {
       "name_value": 30,
       "angel_value": 61,
@@ -977,9 +977,9 @@
     "psalm": {
       "number": 121,
       "verse": 5,
-      "text_he": "יְהוָה שֹׁמְרֶךָ",
-      "phonetic": "Adonai shomrejá",
-      "text_es": "Jehová es tu guardador; Jehová es tu sombra a tu mano derecha",
+      "text_he": "יְהוָה שֹׁמְרֶךָ יְהוָה צִלְּךָ עַל יַד יְמִינֶךָ:",
+      "phonetic": "Adonai shomrejá, Adonai tsilejá al yad yemineja",
+      "text_es": "Adonai es tu cuidador; Adonai es tu sombra sobre tu mano derecha",
       "notaricon": "י-ש-א-א-א"
     },
     "attributes": [
@@ -1010,10 +1010,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Biná"
     },
-    "meaning": "Dios que aleja el mal",
+    "meaning": "Dios que libra del mal",
     "essence": "Curación y naturaleza",
     "planet": "Venus",
-    "vocalization": "Me/La/Hel",
+    "vocalization": "Me/La/He",
     "gematria": {
       "name_value": 75,
       "angel_value": 106,
@@ -1023,9 +1023,9 @@
     "psalm": {
       "number": 121,
       "verse": 8,
-      "text_he": "יְהוָה יִשְׁמָר-צֵאתְךָ וּבוֹאֶךָ",
-      "phonetic": "Adonai yishmor-tzeetjá uvoéjá",
-      "text_es": "Jehová guardará tu salida y tu entrada desde ahora y para siempre",
+      "text_he": "יְהוָה יִשְׁמָר צֵאתְךָ וּבוֹאֶךָ מֵעַתָּה וְעַד עוֹלָם:",
+      "phonetic": "Adonai yishmor-tzeetjá uvoéjá meata vead olam",
+      "text_es": "Adonai cuidará tu salida y tu llegada desde ahora y para siempre",
       "notaricon": "י-י-צ-ו-א"
     },
     "attributes": [
@@ -1038,7 +1038,7 @@
   },
   {
     "number": 24,
-    "name": "Haheuiah",
+    "name": "Jahuyah",
     "hebrew_letters": [
       "ח",
       "ה",
@@ -1055,10 +1055,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Biná"
     },
-    "meaning": "Dios bueno en sí mismo",
+    "meaning": "Dios bueno por sí mismo",
     "essence": "Protección y exilio voluntario",
     "planet": "Mercurio",
-    "vocalization": "Ha/Heu/Yah",
+    "vocalization": "Je/He/Va",
     "gematria": {
       "name_value": 19,
       "angel_value": 34,
@@ -1066,11 +1066,11 @@
       "suffix_value": 15
     },
     "psalm": {
-      "number": 33,
-      "verse": 18,
-      "text_he": "הִנֵּה עֵין יְהוָה אֶל-יְרֵאָיו",
-      "phonetic": "Hiné ein Adonai el-yereiav",
-      "text_es": "He aquí el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia",
+      "number": 147,
+      "verse": 11,
+      "text_he": "רוֹצֶה יְהוָה אֶת יְרֵאָיו אֶת הַמְיַחֲלִים לְחַסְדּוֹ:",
+      "phonetic": "Rotse Adonai et yereav, et hamyajalim lejasdo",
+      "text_es": "Se complace Adonai en los que le temen y en los que esperan en su misericordia",
       "notaricon": "ה-ע-י-א-א"
     },
     "attributes": [
@@ -1100,10 +1100,10 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Jésed"
     },
-    "meaning": "Dios que da la sabiduría",
+    "meaning": "Dios dador",
     "essence": "Poesía y magia sagrada",
     "planet": "Luna",
-    "vocalization": "Ni/Ta/Hah",
+    "vocalization": "Nu/Ta/He",
     "gematria": {
       "name_value": 455,
       "angel_value": 470,
@@ -1113,9 +1113,9 @@
     "psalm": {
       "number": 9,
       "verse": 2,
-      "text_he": "אֶשְׂמְחָה וְאֶעֶלְצָה בָךְ",
-      "phonetic": "Esmejiá veeeltza vaj",
-      "text_es": "Me alegraré y me regocijaré en ti; cantaré a tu nombre, oh Altísimo",
+      "text_he": "אוֹדֶה יְהוָה בְּכָל לִבִּי אֲסַפְּרָה כָּל נִפְלְאוֹתֶיךָ:",
+      "phonetic": "Ode Adonai bejol libi, asaperá col nifleoteja",
+      "text_es": "Te alabaré, oh Adonai, con todo mi corazón; contaré todas tus maravillas",
       "notaricon": "א-ו-ב-א-א"
     },
     "attributes": [
@@ -1145,10 +1145,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Jésed"
     },
-    "meaning": "Dios oculto en su morada",
+    "meaning": "Dios que escucha en secreto",
     "essence": "Política y discreción",
     "planet": "Sol",
-    "vocalization": "Ha/Aa/Yah",
+    "vocalization": "Ha/A/A",
     "gematria": {
       "name_value": 76,
       "angel_value": 91,
@@ -1157,10 +1157,10 @@
     },
     "psalm": {
       "number": 119,
-      "verse": 159,
-      "text_he": "רְאֵה כִּי-פִקּוּדֶיךָ אָהָבְתִּי",
-      "phonetic": "Reé ki-piquudéja ahavtí",
-      "text_es": "Mira cuánto amo tus mandamientos; vivifícame conforme a tu misericordia",
+      "verse": 145,
+      "text_he": "קָרָאתִי בְכָל-לֵב, עֲנֵנִי יְהוָה;    חֻקֶּיךָ אֶצֹּרָה.",
+      "phonetic": "Qarati bejol leb aneni Adonai juqueja etsora",
+      "text_es": "Clamé con todo mi corazón, respondeme, Adonai, y guardaré tus estatutos",
       "notaricon": "ר-כ-פ-א-א"
     },
     "attributes": [
@@ -1190,10 +1190,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Jésed"
     },
-    "meaning": "Dios que castiga a los malvados",
+    "meaning": "Dios que previene e impide",
     "essence": "Propagación de la luz",
     "planet": "Urano",
-    "vocalization": "Ye/Ra/Tel",
+    "vocalization": "Yo/Re/Ta",
     "gematria": {
       "name_value": 610,
       "angel_value": 641,
@@ -1203,9 +1203,9 @@
     "psalm": {
       "number": 140,
       "verse": 2,
-      "text_he": "חַלְּצֵנִי יְהוָה מֵאָדָם רָע",
-      "phonetic": "Jaltzéni Adonai meeadám ra",
-      "text_es": "Líbrame, oh Jehová, del hombre malo; guárdame de hombres violentos",
+      "text_he": "חַלְּצֵנִי יְהוָה מֵאָדָם רָע מֵאִישׁ חֲמָסִים תִּנְצְרֵנִי:",
+      "phonetic": "Jaltzéni Adonai meeadám ra, meish jamassim tintserêni",
+      "text_es": "Líbrame, oh Adonai, del hombre malo; de hombres violentos cuidamé",
       "notaricon": "ח-י-מ-ר-א"
     },
     "attributes": [
@@ -1218,7 +1218,7 @@
   },
   {
     "number": 28,
-    "name": "Seheiah",
+    "name": "Sheheiah",
     "hebrew_letters": [
       "ש",
       "א",
@@ -1238,7 +1238,7 @@
     "meaning": "Dios que cura a los enfermos",
     "essence": "Longevidad y protección",
     "planet": "Neptuno",
-    "vocalization": "Se/He/Yah",
+    "vocalization": "Shi/A/He",
     "gematria": {
       "name_value": 306,
       "angel_value": 321,
@@ -1248,8 +1248,8 @@
     "psalm": {
       "number": 71,
       "verse": 12,
-      "text_he": "אֱלֹהִים אַל-תִּרְחַק מִמֶּנִּי",
-      "phonetic": "Elohim al-tirjak mimení",
+      "text_he": "אֱלֹהִים אַל תִּרְחַק מִמֶּנִּי אֱלֹהַי לְעֶזְרָתִי חוּשָׁה:",
+      "phonetic": "Elohim al-tirjak mimení, Elohai leezráti júsha",
       "text_es": "Oh Dios, no te alejes de mí; Dios mío, acude pronto en mi socorro",
       "notaricon": "א-א-ת-מ-א"
     },
@@ -1280,10 +1280,10 @@
       "sub_sephira": "Tiferet",
       "position": "Tiferet de Jésed"
     },
-    "meaning": "Dios pronto para socorrer",
+    "meaning": "Dios pronto a socorrer",
     "essence": "Liberación espiritual",
     "planet": "Saturno",
-    "vocalization": "Re/Yi/El",
+    "vocalization": "Re/Yo/Yo",
     "gematria": {
       "name_value": 220,
       "angel_value": 251,
@@ -1292,9 +1292,9 @@
     },
     "psalm": {
       "number": 54,
-      "verse": 4,
-      "text_he": "הִנֵּה אֱלֹהִים עֹזֵר לִי",
-      "phonetic": "Hiné Elohim ozer li",
+      "verse": 6,
+      "text_he": "הִנֵּה אֱלֹהִים עֹזֵר לִי אֲדֹנָי בְּסֹמְכֵי נַפְשִׁי:",
+      "phonetic": "Hiné Elohim ozer li, Adonai bessomje nafshi",
       "text_es": "He aquí, Dios es el que me ayuda; el Señor está con los que sostienen mi vida",
       "notaricon": "ה-א-ע-ל-א"
     },
@@ -1325,10 +1325,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Jésed"
     },
-    "meaning": "Dios paciente y largo en ira",
+    "meaning": "Dios paciente",
     "essence": "Multiplicación y paciencia",
     "planet": "Marte",
-    "vocalization": "Om/Ma/El",
+    "vocalization": "A/Va/Me",
     "gematria": {
       "name_value": 111,
       "angel_value": 142,
@@ -1338,9 +1338,9 @@
     "psalm": {
       "number": 71,
       "verse": 5,
-      "text_he": "כִּי-אַתָּה יְהוָה תִּקְוָתִי",
-      "phonetic": "Ki-atá Adonai tikvatí",
-      "text_es": "Porque tú, oh Señor, eres mi esperanza; seguridad mía desde mi juventud",
+      "text_he": "כִּי אַתָּה תִקְוָתִי אֲדֹנָי יְהוִה [אומרים:",
+      "phonetic": "Ki-atá tikvatí Adonai Elohim mivtaji mineurai",
+      "text_es": "Pues Tú eres mi esperanza, Adonái mi Dios, mi seguridad desde mi juventud.",
       "notaricon": "כ-א-י-ת-א"
     },
     "attributes": [
@@ -1354,7 +1354,7 @@
   },
   {
     "number": 31,
-    "name": "Lecabel",
+    "name": "Lekabel",
     "hebrew_letters": [
       "ל",
       "כ",
@@ -1374,7 +1374,7 @@
     "meaning": "Dios que inspira",
     "essence": "Inteligencia y agricultura",
     "planet": "Sol",
-    "vocalization": "Le/Ka/Bel",
+    "vocalization": "Le/Ja/Be",
     "gematria": {
       "name_value": 52,
       "angel_value": 83,
@@ -1384,9 +1384,9 @@
     "psalm": {
       "number": 71,
       "verse": 16,
-      "text_he": "אָבוֹא בִּגְבֻרוֹת יְהוָה",
-      "phonetic": "Avó bigvurot Adonai",
-      "text_es": "Vendré a los hechos poderosos de Jehová el Señor; haré memoria de tu justicia",
+      "text_he": "אָבוֹא בִּגְבֻרוֹת אֲדֹנָי יְהוָה אַזְכִּיר צִדְקָתְךָ לְבַדֶּךָ:",
+      "phonetic": "Abo bigvurót Adonai Elohim, azkir tsidcatejá levadeja",
+      "text_es": "Vendré a relatar tus proezas mi Señor YHVH, traeré a la memoria solamente tu justicia",
       "notaricon": "א-ב-י-א-א"
     },
     "attributes": [
@@ -1399,7 +1399,7 @@
   },
   {
     "number": 32,
-    "name": "Vasariah",
+    "name": "Vashariah",
     "hebrew_letters": [
       "ו",
       "ש",
@@ -1416,10 +1416,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Jésed"
     },
-    "meaning": "Dios justo y recto",
+    "meaning": "Dios recto",
     "essence": "Clemencia y palabra",
     "planet": "Venus",
-    "vocalization": "Va/Sa/Ri",
+    "vocalization": "Va/Shi/Re",
     "gematria": {
       "name_value": 506,
       "angel_value": 521,
@@ -1429,9 +1429,9 @@
     "psalm": {
       "number": 33,
       "verse": 4,
-      "text_he": "כִּי-יָשָׁר דְּבַר-יְהוָה",
-      "phonetic": "Ki-yashar devar-Adonai",
-      "text_es": "Porque recta es la palabra de Jehová, y toda su obra es hecha con fidelidad",
+      "text_he": "כִּי יָשָׁר דְּבַר יְהוָה וְכָל מַעֲשֵׂהוּ בֶּאֱמוּנָה:",
+      "phonetic": "Ki-yashar devar-Adonai, , vejol maassêhu beemuná",
+      "text_es": "Porque recta es la palabra de YHVH, y toda su obra es hecha con fidelidad",
       "notaricon": "כ-י-ד-י-א"
     },
     "attributes": [
@@ -1445,7 +1445,7 @@
   },
   {
     "number": 33,
-    "name": "Yehuiah",
+    "name": "Yejuiah",
     "hebrew_letters": [
       "י",
       "ה",
@@ -1465,7 +1465,7 @@
     "meaning": "Dios que conoce todas las cosas",
     "essence": "Subordinación y orden divino",
     "planet": "Mercurio",
-    "vocalization": "Ye/Hu/Yah",
+    "vocalization": "Yo/Je/Va",
     "gematria": {
       "name_value": 21,
       "angel_value": 36,
@@ -1475,9 +1475,9 @@
     "psalm": {
       "number": 94,
       "verse": 11,
-      "text_he": "יְהוָה יֹדֵעַ מַחְשְׁבוֹת אָדָם",
-      "phonetic": "Adonai yodéa majshevot adam",
-      "text_es": "Jehová conoce los pensamientos de los hombres, que son vanidad",
+      "text_he": "יְהוָה יֹדֵעַ מַחְשְׁבוֹת אָדָם כִּי הֵמָּה הָבֶל:",
+      "phonetic": "Adonai yodéa majshevot adam, , ki hêma hável",
+      "text_es": "YHVH conoce los pensamientos de los hombres, que son vanidad",
       "notaricon": "י-י-מ-א-א"
     },
     "attributes": [
@@ -1490,7 +1490,7 @@
   },
   {
     "number": 34,
-    "name": "Lehahiah",
+    "name": "Lehajiah",
     "hebrew_letters": [
       "ל",
       "ה",
@@ -1510,7 +1510,7 @@
     "meaning": "Dios clemente",
     "essence": "Obediencia y confianza en Dios",
     "planet": "Luna",
-    "vocalization": "Le/Ha/Hi",
+    "vocalization": "La/Ha/Je",
     "gematria": {
       "name_value": 43,
       "angel_value": 58,
@@ -1520,9 +1520,9 @@
     "psalm": {
       "number": 131,
       "verse": 3,
-      "text_he": "יַחֵל יִשְׂרָאֵל אֶל-יְהוָה",
-      "phonetic": "Yajel Israel el-Adonai",
-      "text_es": "Espera, oh Israel, en Jehová, porque en Jehová hay misericordia",
+      "text_he": "יַחֵל יִשְׂרָאֵל אֶל יְהוָה מֵעַתָּה וְעַד עוֹלָם:",
+      "phonetic": "Yajel Israel el-Adonai meata vead olam",
+      "text_es": "Espera, Israel, deposita tu confianza en Adonái, desde ahora y por toda la eternidad.",
       "notaricon": "י-י-א-י-א"
     },
     "attributes": [
@@ -1535,7 +1535,7 @@
   },
   {
     "number": 35,
-    "name": "Chavakhiah",
+    "name": "Kavaquiah",
     "hebrew_letters": [
       "כ",
       "ו",
@@ -1552,10 +1552,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Guevurá"
     },
-    "meaning": "Dios que da la alegría",
+    "meaning": "Dios de la alegría",
     "essence": "Reconciliación y herencias",
     "planet": "Sol",
-    "vocalization": "Ja/Va/Ki",
+    "vocalization": "Ka/Va/Qo",
     "gematria": {
       "name_value": 126,
       "angel_value": 141,
@@ -1565,9 +1565,9 @@
     "psalm": {
       "number": 116,
       "verse": 1,
-      "text_he": "אָהַבְתִּי כִּי-יִשְׁמַע יְהוָה",
-      "phonetic": "Ahavtí ki-yishmá Adonai",
-      "text_es": "Amo a Jehová, pues ha oído mi voz y mis súplicas",
+      "text_he": "אָהַבְתִּי כִּי יִשְׁמַע יְהוָה אֶת קוֹלִי תַּחֲנוּנָי:",
+      "phonetic": "Ahavtí ki-yishmá Adonai et coli tajanunai",
+      "text_es": "Amo a Adonai, pues ha oído mi voz y mis súplicas",
       "notaricon": "א-כ-י-י-א"
     },
     "attributes": [
@@ -1597,10 +1597,10 @@
       "sub_sephira": "Guevurá",
       "position": "Guevurá de Guevurá"
     },
-    "meaning": "Dios adorable",
+    "meaning": "Dios honorable",
     "essence": "Trabajo y preservación del empleo",
     "planet": "Urano",
-    "vocalization": "Me/Na/Del",
+    "vocalization": "Me/Nu/Da",
     "gematria": {
       "name_value": 94,
       "angel_value": 125,
@@ -1610,9 +1610,9 @@
     "psalm": {
       "number": 26,
       "verse": 8,
-      "text_he": "יְהוָה אָהַבְתִּי מְעוֹן בֵּיתֶךָ",
-      "phonetic": "Adonai ahavtí meón bejtejá",
-      "text_es": "Jehová, la habitación de tu casa he amado, y el lugar de la morada de tu gloria",
+      "text_he": "יְהוָה אָהַבְתִּי מְעוֹן בֵּיתֶךָ וּמְקוֹם מִשְׁכַּן כְּבוֹדֶךָ:",
+      "phonetic": "Adonai ahavtí meón bejtejá, umcom mishkan kevodêja",
+      "text_es": "Adonái, amo la casa de Tu residencia, el lugar en que reside Tu gloria.",
       "notaricon": "י-א-מ-ב-א"
     },
     "attributes": [
@@ -1645,7 +1645,7 @@
     "meaning": "Dios de las virtudes",
     "essence": "Ruptura del ciclo negativo",
     "planet": "Neptuno",
-    "vocalization": "An/Ni/El",
+    "vocalization": "A/Nu/Yo",
     "gematria": {
       "name_value": 61,
       "angel_value": 92,
@@ -1654,10 +1654,10 @@
     },
     "psalm": {
       "number": 80,
-      "verse": 8,
-      "text_he": "אֱלֹהִים שׁוּבֵנוּ",
-      "phonetic": "Elohim shuvenu",
-      "text_es": "Oh Dios, restáuranos; haz resplandecer tu rostro y seremos salvos",
+      "verse": 20,
+      "text_he": "יְהוָה אֱלֹהִים צְבָאוֹת הֲשִׁיבֵנוּ הָאֵר פָּנֶיךָ וְנִוָּשֵׁעָה:",
+      "phonetic": "Adonai Elohim Tsebaót hashivênu, haer paneja venivashea",
+      "text_es": "Adonái, Dios de los Ejércitos, regrésanos; haz resplandecer tu rostro y seremos salvados",
       "notaricon": "א-ש-א-א-א"
     },
     "attributes": [
@@ -1670,7 +1670,7 @@
   },
   {
     "number": 38,
-    "name": "Haamiah",
+    "name": "Jaamiah",
     "hebrew_letters": [
       "ה",
       "ע",
@@ -1687,10 +1687,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Guevurá"
     },
-    "meaning": "Dios esperanza de todas las criaturas",
+    "meaning": "Dios esperanza de todos los confines de la tierra",
     "essence": "Ritual y preparación espiritual",
     "planet": "Saturno",
-    "vocalization": "Ha/Am/Yah",
+    "vocalization": "Je/A/Me",
     "gematria": {
       "name_value": 115,
       "angel_value": 130,
@@ -1700,9 +1700,9 @@
     "psalm": {
       "number": 91,
       "verse": 9,
-      "text_he": "כִּי-אַתָּה יְהוָה מַחְסִי",
-      "phonetic": "Ki-atá Adonai majsí",
-      "text_es": "Porque has puesto a Jehová, que es mi esperanza, al Altísimo por tu habitación",
+      "text_he": "כִּי אַתָּה יְהוָה מַחְסִי עֶלְיוֹן שַׂמְתָּ מְעוֹנֶךָ:",
+      "phonetic": "Ki-atá Adonai majsí, elion sámta meoneja",
+      "text_es": "Porque has puesto a HaShem, que es mi esperanza, al Altísimo por tu habitación",
       "notaricon": "כ-א-י-מ-א"
     },
     "attributes": [
@@ -1732,10 +1732,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Guevurá"
     },
-    "meaning": "Dios que recibe a los pecadores",
+    "meaning": "Dios rápido en el perdón",
     "essence": "Curación y amor paternal",
     "planet": "Marte",
-    "vocalization": "Re/Ha/El",
+    "vocalization": "Re/He/A",
     "gematria": {
       "name_value": 275,
       "angel_value": 306,
@@ -1744,10 +1744,10 @@
     },
     "psalm": {
       "number": 30,
-      "verse": 3,
-      "text_he": "יְהוָה הֶעֱלִיתָ מִן-שְׁאוֹל נַפְשִׁי",
-      "phonetic": "Adonai heelitá min-sheol nafshí",
-      "text_es": "Oh Jehová, hiciste subir mi alma del Seol; me hiciste revivir",
+      "verse": 11,
+      "text_he": "שְׁמַע יְהוָה וְחָנֵּנִי יְהוָה הֱיֵה עֹזֵר לִי:",
+      "phonetic": "Shema Adonai vejoneni, Adonai heiê ozer li",
+      "text_es": "Escuchá Adonai y concédeme gracia, Adonai sé mi ayuda.",
       "notaricon": "י-ה-מ-ש-נ"
     },
     "attributes": [
@@ -1760,7 +1760,7 @@
   },
   {
     "number": 40,
-    "name": "Ieiazel",
+    "name": "Yeiazel",
     "hebrew_letters": [
       "י",
       "י",
@@ -1777,10 +1777,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Guevurá"
     },
-    "meaning": "Dios que se alegra",
+    "meaning": "Dios que regocija",
     "essence": "Consuelo y liberación",
     "planet": "Sol",
-    "vocalization": "Ye/Ya/Zel",
+    "vocalization": "Yo/Yo/Za",
     "gematria": {
       "name_value": 27,
       "angel_value": 58,
@@ -1790,9 +1790,9 @@
     "psalm": {
       "number": 88,
       "verse": 15,
-      "text_he": "לָמָה יְהוָה תִּזְנַח נַפְשִׁי",
-      "phonetic": "Lamá Adonai tiznaj nafshí",
-      "text_es": "¿Por qué, oh Jehová, desechas mi alma? ¿Por qué escondes tu rostro de mí?",
+      "text_he": "לָמָה יְהוָה תִּזְנַח נַפְשִׁי תַּסְתִּיר פָּנֶיךָ מִמֶּנִּי:",
+      "phonetic": "Lamá Adonai tiznaj nafshí, tastir panêja mimeni",
+      "text_es": "¿Por qué, Adonái, abandonas mi alma? ¿Por qué ocultas Tu rostro de mí?",
       "notaricon": "ל-י-ת-נ-א"
     },
     "attributes": [
@@ -1823,10 +1823,10 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Tiferet"
     },
-    "meaning": "Dios trinidad",
+    "meaning": "Dios triuno",
     "essence": "Misión espiritual y fe",
     "planet": "Venus",
-    "vocalization": "Ha/Ha/Hel",
+    "vocalization": "He/He/He",
     "gematria": {
       "name_value": 15,
       "angel_value": 46,
@@ -1836,9 +1836,9 @@
     "psalm": {
       "number": 120,
       "verse": 2,
-      "text_he": "הַצִּילָה יְהוָה נַפְשִׁי מִשְּׂפַת-שֶׁקֶר",
-      "phonetic": "Hatzilá Adonai nafshí misefat-shéker",
-      "text_es": "Libra mi alma, oh Jehová, del labio mentiroso y de la lengua fraudulenta",
+      "text_he": "יְהוָה הַצִּילָה נַפְשִׁי מִשְּׂפַת שֶׁקֶר מִלָּשׁוֹן רְמִיָּה:",
+      "phonetic": "Adonai hatzilá nafshí misefat-shéker, milashon remiya",
+      "text_es": "Adonai, Libra mi alma, del labio mentiroso y de la lengua fraudulenta",
       "notaricon": "ה-י-נ-מ-ש"
     },
     "attributes": [
@@ -1851,7 +1851,7 @@
   },
   {
     "number": 42,
-    "name": "Mikael",
+    "name": "Mijael",
     "hebrew_letters": [
       "מ",
       "י",
@@ -1868,10 +1868,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Tiferet"
     },
-    "meaning": "Casa de Dios",
+    "meaning": "Virtud de Dios",
     "essence": "Orden político y obediencia",
     "planet": "Mercurio",
-    "vocalization": "Mi/Ka/El",
+    "vocalization": "Me/Yo/Ja",
     "gematria": {
       "name_value": 70,
       "angel_value": 101,
@@ -1881,9 +1881,9 @@
     "psalm": {
       "number": 121,
       "verse": 7,
-      "text_he": "יְהוָה יִשְׁמָרְךָ מִכָּל-רָע",
-      "phonetic": "Adonai yishmrejá mikol-ra",
-      "text_es": "Jehová te guardará de todo mal; él guardará tu alma",
+      "text_he": "יְהוָה יִשְׁמָרְךָ מִכָּל רָע יִשְׁמֹר אֶת נַפְשֶׁךָ:",
+      "phonetic": "Adonai yishmorjá mikol-ra, yishmor et nafsheja",
+      "text_es": "Adonai te guardará de todo mal; él guardará tu alma",
       "notaricon": "י-י-מ-ר-א"
     },
     "attributes": [
@@ -1913,10 +1913,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Tiferet"
     },
-    "meaning": "Dios rey dominante",
+    "meaning": "Dios rey dominador",
     "essence": "Prosperidad y liberación",
     "planet": "Luna",
-    "vocalization": "Ve/Ul/Yah",
+    "vocalization": "Va/Va/La",
     "gematria": {
       "name_value": 46,
       "angel_value": 61,
@@ -1926,9 +1926,9 @@
     "psalm": {
       "number": 88,
       "verse": 14,
-      "text_he": "לָמָה יְהוָה תִּזְנַח נַפְשִׁי",
-      "phonetic": "Lamá Adonai tiznaj nafshí",
-      "text_es": "¿Por qué, oh Jehová, desechas mi alma y escondes de mí tu rostro?",
+      "text_he": "וַאֲנִי אֵלֶיךָ יְהוָה שִׁוַּעְתִּי וּבַבֹּקֶר תְּפִלָּתִי תְקַדְּמֶךָּ:",
+      "phonetic": "Vaani elêja Adonai shiváti, uvabóker tefilati tecademêca",
+      "text_es": "Y yo, a Ti, Adonái, clamo; y por la mañana mi plegaria llega ante Ti.",
       "notaricon": "ל-י-ת-נ-א"
     },
     "attributes": [
@@ -1958,10 +1958,10 @@
       "sub_sephira": "Guevurá",
       "position": "Guevurá de Tiferet"
     },
-    "meaning": "Dios eterno",
+    "meaning": "Dios que permanece por siempre",
     "essence": "Karma y guerra espiritual",
     "planet": "Sol",
-    "vocalization": "Ye/La/Hi",
+    "vocalization": "Yo/La/He",
     "gematria": {
       "name_value": 45,
       "angel_value": 60,
@@ -1971,9 +1971,9 @@
     "psalm": {
       "number": 119,
       "verse": 108,
-      "text_he": "נִדְבוֹת פִּי רְצֵה-נָא יְהוָה",
-      "phonetic": "Nidvot pi retzé-na Adonai",
-      "text_es": "Te ruego, oh Jehová, que te sean agradables los sacrificios voluntarios de mi boca",
+      "text_he": "נִדְבוֹת פִּי רְצֵה נָא יְהוָה וּמִשְׁפָּטֶיךָ לַמְּדֵנִי:",
+      "phonetic": "Nidvót pi retse na Adonai, umishpatêja lamedêni",
+      "text_es": "Las ofrendas de mi boca, Adonai, acepta favorablemente, y enséñame Tus juicios.",
       "notaricon": "נ-פ-ר-י-א"
     },
     "attributes": [
@@ -2006,7 +2006,7 @@
     "meaning": "Dios motor de todas las cosas",
     "essence": "Voluntad y motivación divina",
     "planet": "Urano",
-    "vocalization": "Se/Al/Yah",
+    "vocalization": "Sa/A/La",
     "gematria": {
       "name_value": 91,
       "angel_value": 106,
@@ -2016,9 +2016,9 @@
     "psalm": {
       "number": 94,
       "verse": 18,
-      "text_he": "אִם-אָמַרְתִּי מָטָה רַגְלִי",
-      "phonetic": "Im-amartí matá raglí",
-      "text_es": "Cuando yo decía: Mi pie resbala, tu misericordia, oh Jehová, me sustentaba",
+      "text_he": "אִם-אָמַרְתִּי מָטָה רַגְלִי חַסְדְּךָ יְהוָה יִסְעָדֵנִי",
+      "phonetic": "Im-amartí matá raglí, jasdejá Adonai ysadeni",
+      "text_es": "Cuando yo dije que: Mi pie resbala, tu misericordia Adonai, me sustentaba",
       "notaricon": "א-א-מ-ר-א"
     },
     "attributes": [
@@ -2051,7 +2051,7 @@
     "meaning": "Dios revelador",
     "essence": "Percepción y descubrimiento",
     "planet": "Neptuno",
-    "vocalization": "Ar/Ri/El",
+    "vocalization": "A/Re/Yo",
     "gematria": {
       "name_value": 280,
       "angel_value": 311,
@@ -2061,9 +2061,9 @@
     "psalm": {
       "number": 145,
       "verse": 9,
-      "text_he": "טוֹב-יְהוָה לַכֹּל",
-      "phonetic": "Tov-Adonai lakol",
-      "text_es": "Bueno es Jehová para con todos, y sus misericordias sobre todas sus obras",
+      "text_he": "טוֹב יְהוָה לַכֹּל וְרַחֲמָיו עַל כָּל מַעֲשָׂיו:",
+      "phonetic": "Tov-Adonai lakol, verajamav al kol maassáv",
+      "text_es": "Bueno es Adonai para con todos, y Sus misericordias se extienden sobre todas Sus obras",
       "notaricon": "ט-י-ל-א-א"
     },
     "attributes": [
@@ -2076,7 +2076,7 @@
   },
   {
     "number": 47,
-    "name": "Asaliah",
+    "name": "Ashaliah",
     "hebrew_letters": [
       "ע",
       "ש",
@@ -2093,10 +2093,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Tiferet"
     },
-    "meaning": "Dios justo que indica la verdad",
+    "meaning": "Dios juez justo que muestra la verdad",
     "essence": "Contemplación y elevación",
     "planet": "Saturno",
-    "vocalization": "As/Sa/Li",
+    "vocalization": "A/Shi/La",
     "gematria": {
       "name_value": 400,
       "angel_value": 415,
@@ -2104,11 +2104,11 @@
       "suffix_value": 15
     },
     "psalm": {
-      "number": 104,
-      "verse": 24,
-      "text_he": "מָה-רַבּוּ מַעֲשֶׂיךָ יְהוָה",
-      "phonetic": "Má-rabu maaséja Adonai",
-      "text_es": "¡Cuán innumerables son tus obras, oh Jehová! Hiciste todas ellas con sabiduría",
+      "number": 92,
+      "verse": 6,
+      "text_he": "מַה-גָּדְלוּ מַעֲשֶׂיךָ יְהוָה מְאֹד עָמְקוּ מַחְשְׁבֹתֶיךָ:",
+      "phonetic": "Ma-gadelú maassêja Adonai, meod amecú majshevoteja",
+      "text_es": "¡Cuán grandes son Tus obras, Adonái; cuán profundísimos Tus pensamientos!",
       "notaricon": "מ-מ-מ-י-א"
     },
     "attributes": [
@@ -2138,10 +2138,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Tiferet"
     },
-    "meaning": "Dios padre misericordioso",
+    "meaning": "Dios padre auxiliador",
     "essence": "Fertilidad y paz conyugal",
     "planet": "Marte",
-    "vocalization": "Mi/Ha/El",
+    "vocalization": "Me/Yo/He",
     "gematria": {
       "name_value": 55,
       "angel_value": 86,
@@ -2151,9 +2151,9 @@
     "psalm": {
       "number": 98,
       "verse": 2,
-      "text_he": "הוֹדִיעַ יְהוָה יְשׁוּעָתוֹ",
-      "phonetic": "Hodia Adonai yeshuató",
-      "text_es": "Jehová ha hecho notoria su salvación; a vista de las naciones ha descubierto su justicia",
+      "text_he": "הוֹדִיעַ יְהוָה יְשׁוּעָתוֹ לְעֵינֵי הַגּוֹיִם גִּלָּה צִדְקָתוֹ:",
+      "phonetic": "Hodia Adonai yeshuató, leene hagoyim guilá tsidcató",
+      "text_es": "Ha dado a conocer Adonai Su salvación; a la vista de las naciones ha revelado SU justicia.",
       "notaricon": "ה-י-י-א-א"
     },
     "attributes": [
@@ -2184,10 +2184,10 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Nétzaj"
     },
-    "meaning": "Dios grande y exaltado",
+    "meaning": "Dios grande y alto",
     "essence": "Elevación y grandeza espiritual",
     "planet": "Sol",
-    "vocalization": "Ve/Hu/El",
+    "vocalization": "Va/He/Va",
     "gematria": {
       "name_value": 17,
       "angel_value": 48,
@@ -2197,9 +2197,9 @@
     "psalm": {
       "number": 145,
       "verse": 3,
-      "text_he": "גָּדוֹל יְהוָה וּמְהֻלָּל מְאֹד",
-      "phonetic": "Gadol Adonai umehulal meod",
-      "text_es": "Grande es Jehová y digno de suprema alabanza; su grandeza es inescrutable",
+      "text_he": "גָּדוֹל יְהוָה וּמְהֻלָּל מְאֹד וְלִגְדֻלָּתוֹ אֵין חֵקֶר:",
+      "phonetic": "Gadol Adonai umehulál meód, veligdulató ên jéker",
+      "text_es": "Grande es Adonái y sumamente ensalzado, y no hay limite a Su grandeza.",
       "notaricon": "ג-י-ו-מ-א"
     },
     "attributes": [
@@ -2230,10 +2230,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Nétzaj"
     },
-    "meaning": "Dios signo de misericordias",
+    "meaning": "Dios juez misericordioso",
     "essence": "Elocuencia y decisión",
     "planet": "Venus",
-    "vocalization": "Da/Ni/El",
+    "vocalization": "Da/Nu/Yo",
     "gematria": {
       "name_value": 64,
       "angel_value": 95,
@@ -2241,11 +2241,11 @@
       "suffix_value": 31
     },
     "psalm": {
-      "number": 103,
+      "number": 145,
       "verse": 8,
-      "text_he": "רַחוּם וְחַנּוּן יְהוָה",
-      "phonetic": "Rajum vejanum Adonai",
-      "text_es": "Misericordioso y clemente es Jehová, lento para la ira y grande en misericordia",
+      "text_he": "חַנּוּן וְרַחוּם יְהוָה אֶרֶךְ אַפַּיִם וּגְדָל חָסֶד:",
+      "phonetic": "Janún verajúm Adonai, érej apáyim ugdól jássed",
+      "text_es": "Misericordioso y clemente es Adonai, lento para la ira y grande en misericordia",
       "notaricon": "ר-ו-י-א-א"
     },
     "attributes": [
@@ -2258,7 +2258,7 @@
   },
   {
     "number": 51,
-    "name": "Hahasiah",
+    "name": "Hajasiah",
     "hebrew_letters": [
       "ה",
       "ח",
@@ -2275,10 +2275,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Nétzaj"
     },
-    "meaning": "Dios oculto",
+    "meaning": "Dios secreto e impenetrable",
     "essence": "Medicina y sabiduría universal",
     "planet": "Mercurio",
-    "vocalization": "Ha/Ha/Si",
+    "vocalization": "He/Je/Shi",
     "gematria": {
       "name_value": 313,
       "angel_value": 328,
@@ -2288,9 +2288,9 @@
     "psalm": {
       "number": 104,
       "verse": 31,
-      "text_he": "יְהִי כְבוֹד יְהוָה לְעוֹלָם",
-      "phonetic": "Yehí jevod Adonai leolam",
-      "text_es": "Sea la gloria de Jehová para siempre; alégrese Jehová en sus obras",
+      "text_he": "יְהִי כְבוֹד יְהוָה לְעוֹלָם יִשְׂמַח יְהוָה בְּמַעֲשָׂיו:",
+      "phonetic": "Yehí jevod Adonai leolam, yismaj Adonai bemaassav",
+      "text_es": "Sea la gloria de Adonai para siempre; alégrese Adonai en sus obras",
       "notaricon": "י-כ-י-ל-א"
     },
     "attributes": [
@@ -2320,10 +2320,10 @@
       "sub_sephira": "Guevurá",
       "position": "Guevurá de Nétzaj"
     },
-    "meaning": "Dios elevado sobre todas las cosas",
+    "meaning": "Dios oculto en la oscuridad",
     "essence": "Expiación y viajes",
     "planet": "Luna",
-    "vocalization": "Im/Ma/Mi",
+    "vocalization": "A/Me/Me",
     "gematria": {
       "name_value": 150,
       "angel_value": 165,
@@ -2333,9 +2333,9 @@
     "psalm": {
       "number": 7,
       "verse": 18,
-      "text_he": "אוֹדֶה יְהוָה כְּצִדְקוֹ",
-      "phonetic": "Odé Adonai ketzidkó",
-      "text_es": "Alabaré a Jehová conforme a su justicia, y cantaré al nombre de Jehová el Altísimo",
+      "text_he": "אוֹדֶה יְהוָה כְּצִדְקוֹ וַאֲזַמְּרָה שֵׁם יְהוָה עֶלְיוֹן:",
+      "phonetic": "Odé Adonai ketzidkó, vaazamera shem Adonai elion",
+      "text_es": "Alabaré a Adonai conforme a su justicia, y cantaré alabanzas al nombre de YHVH el Altísimo",
       "notaricon": "א-י-כ-צ-א"
     },
     "attributes": [
@@ -2368,7 +2368,7 @@
     "meaning": "Dios que humilla a los orgullosos",
     "essence": "Comunicación espiritual elevada",
     "planet": "Sol",
-    "vocalization": "Na/Na/El",
+    "vocalization": "Nu/Nu/A",
     "gematria": {
       "name_value": 101,
       "angel_value": 132,
@@ -2378,9 +2378,9 @@
     "psalm": {
       "number": 119,
       "verse": 75,
-      "text_he": "יָדַעְתִּי יְהוָה כִּי-צֶדֶק מִשְׁפָּטֶיךָ",
-      "phonetic": "Yadatí Adonai ki-tzédek mishpatéja",
-      "text_es": "Conozco, oh Jehová, que tus juicios son justos, y que conforme a tu fidelidad me afligiste",
+      "text_he": "יָדַעְתִּי יְהוָה כִּי צֶדֶק מִשְׁפָּטֶיךָ וֶאֱמוּנָה עִנִּיתָנִי:",
+      "phonetic": "Yadatí Adonai ki-tzédek mishpatéja, veemuna initáni",
+      "text_es": "Conozco, Adonai, que tus juicios son justos, y que conforme a tu fidelidad me afligiste",
       "notaricon": "י-י-כ-צ-מ"
     },
     "attributes": [
@@ -2410,10 +2410,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Nétzaj"
     },
-    "meaning": "Dios rey del cielo",
+    "meaning": "Dios Rey de los cielos",
     "essence": "Legitimidad y eternidad",
     "planet": "Urano",
-    "vocalization": "Ni/Ta/El",
+    "vocalization": "Nu/Yo/Ta",
     "gematria": {
       "name_value": 460,
       "angel_value": 491,
@@ -2423,9 +2423,9 @@
     "psalm": {
       "number": 103,
       "verse": 19,
-      "text_he": "יְהוָה בַּשָּׁמַיִם הֵכִין כִּסְאוֹ",
-      "phonetic": "Adonai bashamáyim hejin kisó",
-      "text_es": "Jehová estableció en los cielos su trono, y su reino domina sobre todos",
+      "text_he": "יְהוָה בַּשָּׁמַיִם הֵכִין כִּסְאוֹ וּמַלְכוּתוֹ בַּכֹּל מָשָׁלָה",
+      "phonetic": "Adonai bashamáyim hejin kisó, umaljuto bacol mashála",
+      "text_es": "Adonái ha establecido Su Trono en los cielos, y Su reinado domina sobre todo.",
       "notaricon": "י-ב-ה-כ-א"
     },
     "attributes": [
@@ -2469,9 +2469,9 @@
     "psalm": {
       "number": 102,
       "verse": 13,
-      "text_he": "וְאַתָּה יְהוָה לְעוֹלָם תֵּשֵׁב",
-      "phonetic": "Veatá Adonai leolam teshev",
-      "text_es": "Mas tú, Jehová, permanecerás para siempre; tu memoria de generación en generación",
+      "text_he": "וְאַתָּה יְהוָה לְעוֹלָם תֵּשֵׁב וְזִכְרְךָ לְדֹר וָדֹר:",
+      "phonetic": "Veatá Adonai leolam teshev, vezich’rechá ledor vador",
+      "text_es": "Y Tú, Adonai, te sientas entronizado por siempre; y Tú nombre es para todas las generaciones",
       "notaricon": "ו-י-ל-ת-א"
     },
     "attributes": [
@@ -2485,7 +2485,7 @@
   },
   {
     "number": 56,
-    "name": "Poyel",
+    "name": "Poiel",
     "hebrew_letters": [
       "פ",
       "ו",
@@ -2505,7 +2505,7 @@
     "meaning": "Dios que sostiene el universo",
     "essence": "Fortuna y modestia",
     "planet": "Saturno",
-    "vocalization": "Po/Ya/El",
+    "vocalization": "Pe/Va/Yo",
     "gematria": {
       "name_value": 96,
       "angel_value": 127,
@@ -2515,9 +2515,9 @@
     "psalm": {
       "number": 145,
       "verse": 14,
-      "text_he": "סוֹמֵךְ יְהוָה לְכָל-הַנֹּפְלִים",
-      "phonetic": "Somej Adonai lejol-hanofelim",
-      "text_es": "Jehová sostiene a todos los que caen, y levanta a todos los oprimidos",
+      "text_he": "סוֹמֵךְ יְהוָה לְכָל הַנֹּפְלִים וְזוֹקֵף לְכָל הַכְּפוּפִים:",
+      "phonetic": "Somej Adonai lejol-hanofelim, vezokef lejol hakefufim",
+      "text_es": "Sostiene Adonai a todos los que caen, y levanta a todos los que estan oprimidos",
       "notaricon": "ס-י-ל-ה-א"
     },
     "attributes": [
@@ -2548,10 +2548,10 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Hod"
     },
-    "meaning": "Dios adorable y loable",
+    "meaning": "Dios amado",
     "essence": "Discernimiento y prosperidad",
     "planet": "Marte",
-    "vocalization": "Ne/Ma/Mi",
+    "vocalization": "Nu/Me/Me",
     "gematria": {
       "name_value": 130,
       "angel_value": 145,
@@ -2561,9 +2561,9 @@
     "psalm": {
       "number": 115,
       "verse": 11,
-      "text_he": "יִרְאֵי יְהוָה בִּטְחוּ בַיהוָה",
-      "phonetic": "Yirei Adonai bitju vaAdonai",
-      "text_es": "Los que teméis a Jehová, confiad en Jehová; él es vuestra ayuda y escudo",
+      "text_he": "יִרְאֵי יְהוָה בִּטְחוּ בַיהוָה עֶזְרָם וּמָגִנָּם הוּא:",
+      "phonetic": "Yirei Adonai bitju vaAdonai, ezram umaguinam hu",
+      "text_es": "Los que teméis a Hashem, confiad en Adonai; él es vuestra ayuda y escudo",
       "notaricon": "י-י-ב-ב-א"
     },
     "attributes": [
@@ -2593,10 +2593,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Hod"
     },
-    "meaning": "Dios que responde a generaciones",
+    "meaning": "Dios que escucha los gemidos",
     "essence": "Fuerza mental y curación",
     "planet": "Sol",
-    "vocalization": "Ye/Ya/Lel",
+    "vocalization": "Yo/Yo/La",
     "gematria": {
       "name_value": 50,
       "angel_value": 81,
@@ -2606,9 +2606,9 @@
     "psalm": {
       "number": 6,
       "verse": 4,
-      "text_he": "שׁוּבָה יְהוָה חַלְּצָה נַפְשִׁי",
-      "phonetic": "Shuvá Adonai jaletza nafshí",
-      "text_es": "Vuélvete, oh Jehová, libra mi alma; sálvame por tu misericordia",
+      "text_he": "וְנַפְשִׁי נִבְהֲלָה מְאֹד וְאַתָּה יְהוָה עַד מָתָי:",
+      "phonetic": "Venafshi nibhalá meod, veata Adonai ad matay",
+      "text_es": "Mi alma es presa del pánico; y Tú, Adonái, ¿hasta cuándo [sufriré para que me ayudes]?",
       "notaricon": "ש-י-ח-נ-א"
     },
     "attributes": [
@@ -2621,7 +2621,7 @@
   },
   {
     "number": 59,
-    "name": "Harahel",
+    "name": "Harajel",
     "hebrew_letters": [
       "ה",
       "ר",
@@ -2638,10 +2638,10 @@
       "sub_sephira": "Jésed",
       "position": "Jésed de Hod"
     },
-    "meaning": "Dios que todo lo conoce",
+    "meaning": "Dios que penetra todas las cosas",
     "essence": "Riqueza intelectual y fecundidad",
     "planet": "Venus",
-    "vocalization": "Ha/Ra/Hel",
+    "vocalization": "He/Re/Je",
     "gematria": {
       "name_value": 213,
       "angel_value": 244,
@@ -2651,9 +2651,9 @@
     "psalm": {
       "number": 113,
       "verse": 3,
-      "text_he": "מִמִּזְרַח-שֶׁמֶשׁ עַד-מְבוֹאוֹ",
-      "phonetic": "Mimizraj-shémesh ad-mevoó",
-      "text_es": "Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Jehová",
+      "text_he": "מִמִּזְרַח שֶׁמֶשׁ עַד מְבוֹאוֹ מְהֻלָּל שֵׁם יְהוָה:",
+      "phonetic": "Mimizraj-shémesh ad-mevoó, mehulal shem Adonai",
+      "text_es": "Desde el nacimiento del sol hasta donde se pone, sea alabado el nombre de Adonai",
       "notaricon": "מ-ש-ע-מ-א"
     },
     "attributes": [
@@ -2684,10 +2684,10 @@
       "sub_sephira": "Guevurá",
       "position": "Guevurá de Hod"
     },
-    "meaning": "Dios que socorre a los oprimidos",
+    "meaning": "Dios que libera a los oprimidos",
     "essence": "Reparación y virtud",
     "planet": "Mercurio",
-    "vocalization": "Mi/Tz/Ra",
+    "vocalization": "Me/Tza/Re",
     "gematria": {
       "name_value": 330,
       "angel_value": 361,
@@ -2697,9 +2697,9 @@
     "psalm": {
       "number": 145,
       "verse": 17,
-      "text_he": "צַדִּיק יְהוָה בְּכָל-דְּרָכָיו",
-      "phonetic": "Tzadik Adonai bejol-derajav",
-      "text_es": "Justo es Jehová en todos sus caminos, y misericordioso en todas sus obras",
+      "text_he": "צַדִּיק יְהוָה בְּכָל דְּרָכָיו וְחָסִיד בְּכָל מַעֲשָׂיו:",
+      "phonetic": "Tzadik Adonai bejol-derajav, vejassid bechol maasáv",
+      "text_es": "Justo es Adonai en todos sus caminos, y misericordioso en todas sus obras",
       "notaricon": "צ-י-ב-ד-א"
     },
     "attributes": [
@@ -2729,10 +2729,10 @@
       "sub_sephira": "Tiferet",
       "position": "Tiferet de Hod"
     },
-    "meaning": "Dios por encima de todas las cosas",
+    "meaning": "Dios elevado por sobre todos los nombres",
     "essence": "Amistad y sensibilidad",
     "planet": "Luna",
-    "vocalization": "Um/Ma/Bel",
+    "vocalization": "Va/Me/Be",
     "gematria": {
       "name_value": 43,
       "angel_value": 74,
@@ -2742,9 +2742,9 @@
     "psalm": {
       "number": 113,
       "verse": 2,
-      "text_he": "יְהִי שֵׁם יְהוָה מְבֹרָךְ",
-      "phonetic": "Yehí shem Adonai mevorach",
-      "text_es": "Sea el nombre de Jehová bendito desde ahora y para siempre",
+      "text_he": "יְהִי שֵׁם יְהוָה מְבֹרָךְ מֵעַתָּה וְעַד עוֹלָם:",
+      "phonetic": "Yehí shem Adonai mevoraj meata vead olam",
+      "text_es": "Sea el nombre de YHVH bendito desde ahora y para siempre",
       "notaricon": "י-ש-י-מ-א"
     },
     "attributes": [
@@ -2758,7 +2758,7 @@
   },
   {
     "number": 62,
-    "name": "Iah-hel",
+    "name": "Yahhel",
     "hebrew_letters": [
       "י",
       "ה",
@@ -2775,10 +2775,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Hod"
     },
-    "meaning": "Ser supremo",
+    "meaning": "Dios el Ser supremo",
     "essence": "Sabiduría y retiro espiritual",
     "planet": "Sol",
-    "vocalization": "Ya/Ha/Hel",
+    "vocalization": "Yo/He/He",
     "gematria": {
       "name_value": 20,
       "angel_value": 51,
@@ -2788,9 +2788,9 @@
     "psalm": {
       "number": 119,
       "verse": 159,
-      "text_he": "רְאֵה כִּי-פִקּוּדֶיךָ אָהָבְתִּי",
-      "phonetic": "Reé ki-piquudéja ahavtí",
-      "text_es": "Mira cuánto amo tus mandamientos; vivifícame conforme a tu misericordia",
+      "text_he": "רְאֵה כִּי פִקּוּדֶיךָ אָהָבְתִּי יְהוָה כְּחַסְדְּךָ חַיֵּנִי:",
+      "phonetic": "Reé ki-piquudéja ahabtí, Adonai kejasdejá jayéni",
+      "text_es": "Mira cuánto amo tus mandamientos, Adonai; vivifícame conforme a tu misericordia",
       "notaricon": "ר-כ-פ-א-א"
     },
     "attributes": [
@@ -2803,7 +2803,7 @@
   },
   {
     "number": 63,
-    "name": "Anauel",
+    "name": "Anuel",
     "hebrew_letters": [
       "ע",
       "נ",
@@ -2820,10 +2820,10 @@
       "sub_sephira": "Hod",
       "position": "Hod de Hod"
     },
-    "meaning": "Dios infinitamente bueno",
+    "meaning": "Dios manso",
     "essence": "Unidad y prosperidad universal",
     "planet": "Urano",
-    "vocalization": "An/Na/El",
+    "vocalization": "A/Nu/Va",
     "gematria": {
       "name_value": 126,
       "angel_value": 157,
@@ -2833,9 +2833,9 @@
     "psalm": {
       "number": 100,
       "verse": 2,
-      "text_he": "עִבְדוּ אֶת-יְהוָה בְּשִׂמְחָה",
-      "phonetic": "Ivdu et-Adonai besimjá",
-      "text_es": "Servid a Jehová con alegría; venid ante su presencia con regocijo",
+      "text_he": "עִבְדוּ אֶת יְהוָה בְּשִׂמְחָה בֹּאוּ לְפָנָיו בִּרְנָנָה:",
+      "phonetic": "Ivdu et-Adonai besimjá, bôu lefanav birnana",
+      "text_es": "Servid a Adonai con alegría; venid ante su presencia con regocijo",
       "notaricon": "ע-א-י-ב-א"
     },
     "attributes": [
@@ -2848,7 +2848,7 @@
   },
   {
     "number": 64,
-    "name": "Mehiel",
+    "name": "Mejiel",
     "hebrew_letters": [
       "מ",
       "ה",
@@ -2868,7 +2868,7 @@
     "meaning": "Dios que vivifica todas las cosas",
     "essence": "Vivificación y mundo intelectual",
     "planet": "Neptuno",
-    "vocalization": "Me/Hi/El",
+    "vocalization": "Me/Je/Yo",
     "gematria": {
       "name_value": 55,
       "angel_value": 86,
@@ -2878,9 +2878,9 @@
     "psalm": {
       "number": 33,
       "verse": 18,
-      "text_he": "הִנֵּה עֵין יְהוָה אֶל-יְרֵאָיו",
-      "phonetic": "Hiné ein Adonai el-yereiav",
-      "text_es": "He aquí el ojo de Jehová sobre los que le temen, sobre los que esperan en su misericordia",
+      "text_he": "הִנֵּה עֵין יְהוָה אֶל יְרֵאָיו לַמְיַחֲלִים לְחַסְדּוֹ:",
+      "phonetic": "Hiné en Adonai el-yereav, lamyajalim lejasdo",
+      "text_es": "He aquí el ojo de Adonai está sobre los que le temen, para los que esperan en su misericordia",
       "notaricon": "ה-ע-י-א-א"
     },
     "attributes": [
@@ -2911,10 +2911,10 @@
       "sub_sephira": "Jojmá",
       "position": "Jojmá de Yesod"
     },
-    "meaning": "Dios fuente de sabiduría",
+    "meaning": "Dios fuente de la sabiduría",
     "essence": "Fuente de sabiduría y buena fortuna",
     "planet": "Saturno",
-    "vocalization": "Da/Ma/Bi",
+    "vocalization": "Da/Me/Be",
     "gematria": {
       "name_value": 46,
       "angel_value": 61,
@@ -2924,9 +2924,9 @@
     "psalm": {
       "number": 90,
       "verse": 13,
-      "text_he": "שׁוּבָה יְהוָה עַד-מָתָי",
-      "phonetic": "Shuvá Adonai ad-matai",
-      "text_es": "Vuélvete, oh Jehová, ¿hasta cuándo? Y aplácate para con tus siervos",
+      "text_he": "שׁוּבָה יְהוָה עַד מָתָי וְהִנָּחֵם עַל עֲבָדֶיךָ:",
+      "phonetic": "Shuvá Adonai ad-matai, vehinajem al abadêja",
+      "text_es": "Torná, oh Adonai,¿hasta cuándo [ha de durar Tu enojo]? Ten piedad de Tus siervos.",
       "notaricon": "ש-י-ע-מ-א"
     },
     "attributes": [
@@ -2940,7 +2940,7 @@
   },
   {
     "number": 66,
-    "name": "Manakel",
+    "name": "Manaquel",
     "hebrew_letters": [
       "מ",
       "נ",
@@ -2957,10 +2957,10 @@
       "sub_sephira": "Biná",
       "position": "Biná de Yesod"
     },
-    "meaning": "Dios que sostiene a todos",
+    "meaning": "Dios que sostiene y conserva todas las cosas",
     "essence": "Sueños lúcidos y calma interior",
     "planet": "Marte",
-    "vocalization": "Ma/Na/Kel",
+    "vocalization": "Me/Na/Qo",
     "gematria": {
       "name_value": 190,
       "angel_value": 221,
@@ -2970,9 +2970,9 @@
     "psalm": {
       "number": 38,
       "verse": 22,
-      "text_he": "חוּשָׁה לְעֶזְרָתִי אֲדֹנָי",
-      "phonetic": "Jushá leezratí Adonai",
-      "text_es": "Apresúrate a ayudarme, oh Señor, salvación mía",
+      "text_he": "אַל תַּעַזְבֵנִי יְהוָה אֱלֹהַי אַל תִּרְחַק מִמֶּנִּי:",
+      "phonetic": "Al taazvêni Adonai, Elohai al tirjaq mimeni",
+      "text_es": "No me abandones, Adonái, mi Dios. No te alejes de mí.",
       "notaricon": "ח-ל-ע-א-א"
     },
     "attributes": [
@@ -3005,7 +3005,7 @@
     "meaning": "Dios deleite de los hijos de los hombres",
     "essence": "Transformación hacia lo sublime",
     "planet": "Sol",
-    "vocalization": "Ey/Ya/El",
+    "vocalization": "A/Yo/A",
     "gematria": {
       "name_value": 81,
       "angel_value": 112,
@@ -3015,9 +3015,9 @@
     "psalm": {
       "number": 37,
       "verse": 4,
-      "text_he": "וְהִתְעַנַּג עַל-יְהוָה",
-      "phonetic": "Vehitanag al-Adonai",
-      "text_es": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón",
+      "text_he": "וְהִתְעַנַּג עַל יְהוָה וְיִתֶּן לְךָ מִשְׁאֲלֹת לִבֶּךָ:",
+      "phonetic": "Vehitanag al-Adonai, veyiten lejá mish’alot libêja",
+      "text_es": "Y deléitate en Adonai, y Él te concederá las peticiones de tu corazón",
       "notaricon": "ו-ע-י-א-א"
     },
     "attributes": [
@@ -3031,7 +3031,7 @@
   },
   {
     "number": 68,
-    "name": "Habuhiah",
+    "name": "Jabuiah",
     "hebrew_letters": [
       "ח",
       "ב",
@@ -3048,10 +3048,10 @@
       "sub_sephira": "Guevurá",
       "position": "Guevurá de Yesod"
     },
-    "meaning": "Dios dador con liberalidad",
+    "meaning": "Dios que da con liberalidad",
     "essence": "Curación y fecundidad de la tierra",
     "planet": "Venus",
-    "vocalization": "Ha/Bu/Hi",
+    "vocalization": "Je/Be/Va",
     "gematria": {
       "name_value": 16,
       "angel_value": 31,
@@ -3061,9 +3061,9 @@
     "psalm": {
       "number": 106,
       "verse": 1,
-      "text_he": "הוֹדוּ לַיהוָה כִּי-טוֹב",
-      "phonetic": "Hodu laAdonai ki-tov",
-      "text_es": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia",
+      "text_he": "הוֹדוּ לַיהוָה כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ:",
+      "phonetic": "Hodu laAdonai ki-tov, ki leolam jasdo",
+      "text_es": "Alabad a Adonai, porque él es bueno; porque para siempre es su misericordia",
       "notaricon": "ה-ל-כ-ט-א"
     },
     "attributes": [
@@ -3077,7 +3077,7 @@
   },
   {
     "number": 69,
-    "name": "Rochel",
+    "name": "Rohel",
     "hebrew_letters": [
       "ר",
       "א",
@@ -3097,7 +3097,7 @@
     "meaning": "Dios que todo lo ve",
     "essence": "Restitución y conocimiento de la ley",
     "planet": "Mercurio",
-    "vocalization": "Ro/Ja/El",
+    "vocalization": "Re/A/He",
     "gematria": {
       "name_value": 206,
       "angel_value": 237,
@@ -3107,9 +3107,9 @@
     "psalm": {
       "number": 16,
       "verse": 5,
-      "text_he": "יְהוָה מְנָת-חֶלְקִי וְכוֹסִי",
-      "phonetic": "Adonai menat-jelkí vejosí",
-      "text_es": "Jehová es la porción de mi herencia y de mi copa; tú sustentas mi suerte",
+      "text_he": "יְהוָה מְנָת חֶלְקִי וְכוֹסִי אַתָּה תּוֹמִיךְ גּוֹרָלִי:",
+      "phonetic": "Adonai menat-jelkí vejosí, ata tomich gorali",
+      "text_es": "Adonai es la porción de mi herencia y de mi copa; tú sustentas mi suerte",
       "notaricon": "י-מ-ח-ו-א"
     },
     "attributes": [
@@ -3123,7 +3123,7 @@
   },
   {
     "number": 70,
-    "name": "Jabamiah",
+    "name": "Yabamiah",
     "hebrew_letters": [
       "י",
       "ב",
@@ -3140,10 +3140,10 @@
       "sub_sephira": "Nétzaj",
       "position": "Nétzaj de Yesod"
     },
-    "meaning": "Verbo que produce todas las cosas",
+    "meaning": "Dios que produce todas las cosas con su Palabra",
     "essence": "Alquimia y regeneración profunda",
     "planet": "Luna",
-    "vocalization": "Ya/Ba/Mi",
+    "vocalization": "Yo/Be/Me",
     "gematria": {
       "name_value": 52,
       "angel_value": 67,
@@ -3151,11 +3151,11 @@
       "suffix_value": 15
     },
     "psalm": {
-      "number": 113,
-      "verse": 2,
-      "text_he": "יְהִי שֵׁם יְהוָה מְבֹרָךְ",
-      "phonetic": "Yehí shem Adonai mevorach",
-      "text_es": "Sea el nombre de Jehová bendito desde ahora y para siempre",
+      "number": 145,
+      "verse": 17,
+      "text_he": "צַדִּיק יְהוָה בְּכָל דְּרָכָיו וְחָסִיד בְּכָל מַעֲשָׂיו:",
+      "phonetic": "Tzadik Adonai bejol-derajav, vejassid bechol maasáv",
+      "text_es": "Justo es Adonai en todos sus caminos, y misericordioso en todas sus obras",
       "notaricon": "י-ש-י-מ-א"
     },
     "attributes": [
@@ -3188,7 +3188,7 @@
     "meaning": "Dios señor del universo",
     "essence": "Armas de luz y valentía",
     "planet": "Sol",
-    "vocalization": "Ha/Ya/El",
+    "vocalization": "He/Yo/Yo",
     "gematria": {
       "name_value": 25,
       "angel_value": 56,
@@ -3198,9 +3198,9 @@
     "psalm": {
       "number": 109,
       "verse": 30,
-      "text_he": "אוֹדֶה יְהוָה מְאֹד בְּפִי",
-      "phonetic": "Odé Adonai meod befí",
-      "text_es": "Yo alabaré a Jehová en gran manera con mi boca, y le alabaré entre muchos",
+      "text_he": "אוֹדֶה יְהוָה מְאֹד בְּפִי וּבְתוֹךְ רַבִּים אֲהַלְלֶנּוּ:",
+      "phonetic": "Odé Adonai meod befí, uvtoj rabim ahalelênu",
+      "text_es": "Yo alabaré a Adonai en gran manera con mi boca, y le alabaré entre muchos",
       "notaricon": "א-י-מ-ב-א"
     },
     "attributes": [
@@ -3231,10 +3231,10 @@
       "sub_sephira": "Yesod",
       "position": "Yesod de Yesod"
     },
-    "meaning": "Dios fin de todo",
+    "meaning": "Dios fin de todas las cosas",
     "essence": "Renacimiento y cierre del ciclo",
     "planet": "Urano",
-    "vocalization": "Mu/Um/Yah",
+    "vocalization": "Me/Va/Me",
     "gematria": {
       "name_value": 86,
       "angel_value": 101,
@@ -3244,9 +3244,9 @@
     "psalm": {
       "number": 116,
       "verse": 7,
-      "text_he": "שׁוּבִי נַפְשִׁי לִמְנוּחָיְכִי",
-      "phonetic": "Shuvé nafshí limnujáyeji",
-      "text_es": "Vuelve, oh alma mía, a tu reposo, porque Jehová te ha hecho bien",
+      "text_he": "שׁוּבִי נַפְשִׁי לִמְנוּחָיְכִי כִּי יְהוָה גָּמַל עָלָיְכִי:",
+      "phonetic": "Shuvé nafshí limnujáyeji, ki Adonai gamal aláyji",
+      "text_es": "Vuelve, oh alma mía, a tu reposo, porque Adonai te ha hecho bien",
       "notaricon": "ש-נ-ל-א-א"
     },
     "attributes": [
